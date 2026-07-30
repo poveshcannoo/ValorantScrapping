@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
 permissions:
-  contents: write # Grants permission to commit updated CSV and JSON files back to the repo
+  contents: write # Crucial: Grants permission to commit files back to the repo
 
 jobs:
   scrape-vlr:
@@ -14,10 +14,10 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to v4 to fix Node.js deprecation warning
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Updated to v5 to fix Node.js deprecation warning
         with:
           python-version: '3.10'
 
@@ -33,6 +33,9 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add pending_matches.json vlr_matches_with_odds.csv
-          git commit -m "Automated update: match results and odds" || echo "No changes to commit"
-          git push
+          
+          # Using git add -A ensures we don't get a 128 error if the CSV file isn't created yet
+          git add -A
+          
+          # Only commit and push if there are actual changes made to the files
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update: match results and odds" && git push)
