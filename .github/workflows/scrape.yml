@@ -2,7 +2,7 @@ name: VLR Match & Odds Scraper
 
 on:
   schedule:
-    - cron: "*/15 * * * *" # Runs automatically every 15 minutes
+    - cron: "*/5 * * * *" # Runs automatically every 15 minutes
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
 permissions:
