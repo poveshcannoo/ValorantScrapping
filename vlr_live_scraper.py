@@ -13,6 +13,7 @@ PENDING_FILE = "pending_matches.json"
 OUTPUT_CSV = "vlr_matches_with_odds.csv"
 
 def load_pending():
+    """Loads matches that are waiting for results."""
     if os.path.exists(PENDING_FILE):
         with open(PENDING_FILE, 'r', encoding='utf-8') as f:
             try:
@@ -22,14 +23,14 @@ def load_pending():
     return {}
 
 def save_pending(pending_data):
+    """Saves the waiting room data."""
     with open(PENDING_FILE, 'w', encoding='utf-8') as f:
         json.dump(pending_data, f, indent=4)
 
 def get_european_proxy():
-    """Fetches a free European proxy to bypass US geo-blocking for odds."""
+    """Fetches a free European proxy to bypass US geo-blocking on GitHub Actions."""
     print("Fetching proxy to bypass geo-blocks...")
     try:
-        # Geonode provides a free API for proxies. We look for a European one.
         proxy_api_url = "https://proxylist.geonode.com/api/proxy-list?limit=10&page=1&sort_by=lastChecked&sort_type=desc&country=DE,FR,NL,GB,PL&protocols=http,https"
         resp = cloudscraper.create_scraper().get(proxy_api_url, timeout=10)
         data = resp.json()
@@ -48,17 +49,19 @@ def get_european_proxy():
     return None
 
 def scrape_live_odds(scraper, pending_data, proxies):
-    print("\nChecking for live/upcoming matches...")
+    """Finds upcoming matches, visits individual match pages, filters for PRE-MATCH odds, and saves to queue."""
+    print("\nChecking for upcoming matches...")
     try:
         response = scraper.get(MATCHES_URL, proxies=proxies, timeout=20)
         soup = BeautifulSoup(response.text, 'html.parser')
     except Exception as e:
-        print(f"Failed to fetch matches page: {e}")
+        print(f"Failed to fetch main schedule page: {e}")
         return
 
     match_cards = soup.find_all('a', class_=lambda c: c and 'wf-module-item' in c.split())
     
-    for card in match_cards[:15]: # Only check the next 15 matches to save time and avoid timeouts
+    # Inspect the next 20 matches to avoid timing out on GitHub Actions
+    for card in match_cards[:20]:
         match_path = card.get('href')
         if not match_path or len(match_path.split('/')) < 3:
             continue
@@ -66,37 +69,51 @@ def scrape_live_odds(scraper, pending_data, proxies):
         match_id = match_path.split('/')[1]
         match_url = BASE_URL + match_path
         
+        # Skip if we already captured odds for this match
         if match_id in pending_data:
             continue
             
-        print(f"  Inspecting match page: {match_url}")
+        print(f"  Inspecting: {match_url}")
         
         try:
             match_resp = scraper.get(match_url, proxies=proxies, timeout=20)
             match_soup = BeautifulSoup(match_resp.text, 'html.parser')
             
-            team_names = match_soup.find_all('div', class_='wf-title')
+            # 1. Team Names (wf-title-med with fallback to wf-title)
+            team_names = match_soup.find_all('div', class_='wf-title-med')
             if len(team_names) < 2:
+                team_names = match_soup.find_all('div', class_='wf-title')
+                
+            if len(team_names) < 2:
+                print("    [-] Could not extract team names.")
                 continue
                 
             team1_name = team_names[0].text.strip()
             team2_name = team_names[1].text.strip()
             
+            # 2. Extract Pre-Match Odds
             odds_containers = match_soup.find_all('a', class_=lambda c: c and 'match-bet-item' in c.split())
             team1_odds = "N/A"
             team2_odds = "N/A"
             
             if odds_containers:
-                primary_bet = odds_containers[0]
-                odds_spans = primary_bet.find_all('span')
-                clean_odds = [s.text.strip() for s in odds_spans if s.text.strip().replace('.', '', 1).isdigit()]
-                
-                if len(clean_odds) >= 2:
-                    team1_odds = clean_odds[0]
-                    team2_odds = clean_odds[1]
-
+                for bet_item in odds_containers:
+                    item_text = bet_item.text.lower()
+                    
+                    # Strictly skip live odds
+                    if "live" in item_text and "pre" not in item_text:
+                        continue
+                        
+                    odds_spans = bet_item.find_all('span')
+                    clean_odds = [s.text.strip() for s in odds_spans if s.text.strip().replace('.', '', 1).isdigit()]
+                    
+                    if len(clean_odds) >= 2:
+                        team1_odds = clean_odds[0]
+                        team2_odds = clean_odds[1]
+                        break # Found true pre-match odds, exit loop
+                        
             if team1_odds != "N/A" and team2_odds != "N/A":
-                print(f"    [+] Captured Odds: {team1_name} ({team1_odds}) vs {team2_name} ({team2_odds})")
+                print(f"    [+] Captured Pre-Match Odds: {team1_name} ({team1_odds}) vs {team2_name} ({team2_odds})")
                 pending_data[match_id] = {
                     "url": match_url,
                     "team1": team1_name,
@@ -106,16 +123,17 @@ def scrape_live_odds(scraper, pending_data, proxies):
                     "status": "pending"
                 }
             else:
-                print(f"    [-] No odds found for {team1_name} vs {team2_name}.")
+                print(f"    [-] No pre-match odds available for {team1_name} vs {team2_name}.")
                 
-            time.sleep(2) # Increased sleep slightly for proxy stability
+            time.sleep(1.5)
             
         except Exception as e:
             print(f"    [!] Error processing {match_url}: {e}")
 
 def process_completed_matches(scraper, pending_data):
+    """Checks the results page to see if pending matches are finished, then extracts map round scores."""
     if not pending_data:
-        print("No pending matches waiting for results.")
+        print("\nNo pending matches waiting for results.")
         return
         
     print("\nChecking completed results...")
@@ -185,6 +203,7 @@ def process_completed_matches(scraper, pending_data):
                 except Exception as e:
                     print(f"    [!] Error scraping results for {data['url']}: {e}")
                 
+    # Remove finished matches from queue
     for k in completed_keys:
         del pending_data[k]
 
@@ -192,16 +211,16 @@ def main():
     scraper = cloudscraper.create_scraper()
     pending_data = load_pending()
     
-    # 1. Fetch a proxy to bypass geo-blocking
+    # 1. European proxy to ensure GitHub's US servers see the odds
     proxies = get_european_proxy()
     
-    # 2. Check for upcoming matches and odds (Using Proxy)
+    # 2. Capture pre-match odds for upcoming games
     scrape_live_odds(scraper, pending_data, proxies)
     
-    # 3. Check for completed matches (No proxy needed for this part)
+    # 3. Harvest map round scores for finished games
     process_completed_matches(scraper, pending_data)
     
-    # 4. Save the queue
+    # 4. Save queue
     save_pending(pending_data)
     
     print("\nCycle complete.")
