@@ -1,20 +1,4 @@
 {
-    "715117": {
-        "url": "https://www.vlr.gg/715117/shopify-rebellion-black-vs-2game-esports-vcl-26-americas-last-chance-qualifier-main-event-gf",
-        "team1": "Shopify Rebellion Black",
-        "team2": "2Game Esports",
-        "team1_odds": "1.25",
-        "team2_odds": "3.60",
-        "status": "pending"
-    },
-    "706365": {
-        "url": "https://www.vlr.gg/706365/100-thieves-vs-sentinels-vct-2026-americas-stage-2-w3",
-        "team1": "100 Thieves",
-        "team2": "Sentinels",
-        "team1_odds": "1.36",
-        "team2_odds": "3.00",
-        "status": "pending"
-    },
     "698904": {
         "url": "https://www.vlr.gg/698904/team-secret-vs-paper-rex-vct-2026-pacific-stage-2-w3",
         "team1": "Team Secret",
@@ -125,6 +109,14 @@
         "team2": "Nongshim RedForce",
         "team1_odds": "4.23",
         "team2_odds": "1.19",
+        "status": "pending"
+    },
+    "706371": {
+        "url": "https://www.vlr.gg/706371/g2-esports-vs-sentinels-vct-2026-americas-stage-2-w3",
+        "team1": "G2 Esports",
+        "team2": "Sentinels",
+        "team1_odds": "1.56",
+        "team2_odds": "2.30",
         "status": "pending"
     }
 }
