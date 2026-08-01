@@ -94,5 +94,37 @@
         "team1_odds": "2.20",
         "team2_odds": "1.61",
         "status": "pending"
+    },
+    "716622": {
+        "url": "https://www.vlr.gg/716622/sk-nebula-vs-fokus-sakura-game-changers-2026-emea-stage-3-w3",
+        "team1": "SK Nebula",
+        "team2": "FOKUS Sakura",
+        "team1_odds": "1.35",
+        "team2_odds": "2.89",
+        "status": "pending"
+    },
+    "716623": {
+        "url": "https://www.vlr.gg/716623/gentle-mates-gc-vs-karmine-corp-gc-game-changers-2026-emea-stage-3-w3",
+        "team1": "Gentle Mates GC",
+        "team2": "Karmine Corp GC",
+        "team1_odds": "1.10",
+        "team2_odds": "5.63",
+        "status": "pending"
+    },
+    "716624": {
+        "url": "https://www.vlr.gg/716624/twisted-minds-orchid-vs-bar-a-esports-gc-game-changers-2026-emea-stage-3-w3",
+        "team1": "Twisted Minds Orchid",
+        "team2": "Bar\u00e7a eSports GC",
+        "team1_odds": "1.35",
+        "team2_odds": "2.93",
+        "status": "pending"
+    },
+    "716625": {
+        "url": "https://www.vlr.gg/716625/g2-gozen-vs-alternate-attax-ruby-game-changers-2026-emea-stage-3-w3",
+        "team1": "G2 Gozen",
+        "team2": "ALTERNATE aTTaX Ruby",
+        "team1_odds": "1.06",
+        "team2_odds": "6.91",
+        "status": "pending"
     }
 }
