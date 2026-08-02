@@ -78,5 +78,13 @@
         "team1_odds": "2.27",
         "team2_odds": "1.52",
         "status": "pending"
+    },
+    "724885": {
+        "url": "https://www.vlr.gg/724885/flyquest-red-vs-swimtrek-blue-game-changers-2026-north-america-stage-2-swiss-stage-r4-3-0",
+        "team1": "FlyQuest RED",
+        "team2": "SwimTrek Blue",
+        "team1_odds": "2.70",
+        "team2_odds": "1.39",
+        "status": "pending"
     }
 }
