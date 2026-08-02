@@ -7,14 +7,6 @@
         "team2_odds": "2.30",
         "status": "pending"
     },
-    "712833": {
-        "url": "https://www.vlr.gg/712833/fnatic-vs-team-heretics-vct-2026-emea-stage-2-w3",
-        "team1": "FNATIC",
-        "team2": "Team Heretics",
-        "team1_odds": "1.86",
-        "team2_odds": "1.86",
-        "status": "pending"
-    },
     "706370": {
         "url": "https://www.vlr.gg/706370/cloud9-vs-kr-esports-vct-2026-americas-stage-2-w3",
         "team1": "Cloud9",
@@ -77,6 +69,14 @@
         "team2": "JD Mall JDG Esports\t\t\t\t\t\t\n\t\t\t\t\t\t\t(JDG Esports)",
         "team1_odds": "1.70",
         "team2_odds": "2.08",
+        "status": "pending"
+    },
+    "724622": {
+        "url": "https://www.vlr.gg/724622/wolves-esports-vs-dragon-ranger-gaming-vct-2026-china-stage-2-ubqf",
+        "team1": "Wolves Esports",
+        "team2": "Dragon Ranger Gaming",
+        "team1_odds": "2.56",
+        "team2_odds": "1.47",
         "status": "pending"
     }
 }
