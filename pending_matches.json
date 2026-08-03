@@ -1,26 +1,10 @@
 {
-    "716625": {
-        "url": "https://www.vlr.gg/716625/g2-gozen-vs-alternate-attax-ruby-game-changers-2026-emea-stage-3-w3",
-        "team1": "G2 Gozen",
-        "team2": "ALTERNATE aTTaX Ruby",
-        "team1_odds": "1.06",
-        "team2_odds": "6.91",
-        "status": "pending"
-    },
     "724889": {
         "url": "https://www.vlr.gg/724889/eternal-focus-amethyst-vs-revitalize-gc-game-changers-2026-north-america-stage-2-swiss-stage-r4",
         "team1": "Eternal Focus Amethyst",
         "team2": "Revitalize GC",
         "team1_odds": "2.27",
         "team2_odds": "1.52",
-        "status": "pending"
-    },
-    "724885": {
-        "url": "https://www.vlr.gg/724885/flyquest-red-vs-swimtrek-blue-game-changers-2026-north-america-stage-2-swiss-stage-r4-3-0",
-        "team1": "FlyQuest RED",
-        "team2": "SwimTrek Blue",
-        "team1_odds": "2.70",
-        "team2_odds": "1.39",
         "status": "pending"
     },
     "724621": {
@@ -77,6 +61,38 @@
         "team2": "Twisted Minds Orchid",
         "team1_odds": "1.26",
         "team2_odds": "3.37",
+        "status": "pending"
+    },
+    "716627": {
+        "url": "https://www.vlr.gg/716627/g2-gozen-vs-bar-a-esports-gc-game-changers-2026-emea-stage-3-w3",
+        "team1": "G2 Gozen",
+        "team2": "Bar\u00e7a eSports GC",
+        "team1_odds": "1.11",
+        "team2_odds": "5.41",
+        "status": "pending"
+    },
+    "716629": {
+        "url": "https://www.vlr.gg/716629/alternate-attax-ruby-vs-habos-babos-game-changers-2026-emea-stage-3-w3",
+        "team1": "ALTERNATE aTTaX Ruby",
+        "team2": "Habos Babos",
+        "team1_odds": "3.13",
+        "team2_odds": "1.30",
+        "status": "pending"
+    },
+    "706372": {
+        "url": "https://www.vlr.gg/706372/evil-geniuses-vs-furia-vct-2026-americas-stage-2-w4",
+        "team1": "Evil Geniuses",
+        "team2": "FURIA",
+        "team1_odds": "2.57",
+        "team2_odds": "1.46",
+        "status": "pending"
+    },
+    "706373": {
+        "url": "https://www.vlr.gg/706373/envy-vs-nrg-vct-2026-americas-stage-2-w4",
+        "team1": "ENVY",
+        "team2": "NRG",
+        "team1_odds": "6.60",
+        "team2_odds": "1.10",
         "status": "pending"
     }
 }
