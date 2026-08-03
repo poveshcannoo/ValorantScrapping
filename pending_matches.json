@@ -1,20 +1,4 @@
 {
-    "716623": {
-        "url": "https://www.vlr.gg/716623/gentle-mates-gc-vs-karmine-corp-gc-game-changers-2026-emea-stage-3-w3",
-        "team1": "Gentle Mates GC",
-        "team2": "Karmine Corp GC",
-        "team1_odds": "1.10",
-        "team2_odds": "5.63",
-        "status": "pending"
-    },
-    "716624": {
-        "url": "https://www.vlr.gg/716624/twisted-minds-orchid-vs-bar-a-esports-gc-game-changers-2026-emea-stage-3-w3",
-        "team1": "Twisted Minds Orchid",
-        "team2": "Bar\u00e7a eSports GC",
-        "team1_odds": "1.35",
-        "team2_odds": "2.93",
-        "status": "pending"
-    },
     "716625": {
         "url": "https://www.vlr.gg/716625/g2-gozen-vs-alternate-attax-ruby-game-changers-2026-emea-stage-3-w3",
         "team1": "G2 Gozen",
@@ -69,6 +53,14 @@
         "team2": "Eintracht Frankfurt",
         "team1_odds": "1.39",
         "team2_odds": "2.78",
+        "status": "pending"
+    },
+    "729665": {
+        "url": "https://www.vlr.gg/729665/natus-vincere-vs-joblife-vct-2026-emea-stage-2-ur1",
+        "team1": "Natus Vincere",
+        "team2": "Joblife",
+        "team1_odds": "1.51",
+        "team2_odds": "2.40",
         "status": "pending"
     }
 }
