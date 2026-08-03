@@ -1,12 +1,4 @@
 {
-    "716622": {
-        "url": "https://www.vlr.gg/716622/sk-nebula-vs-fokus-sakura-game-changers-2026-emea-stage-3-w3",
-        "team1": "SK Nebula",
-        "team2": "FOKUS Sakura",
-        "team1_odds": "1.35",
-        "team2_odds": "2.89",
-        "status": "pending"
-    },
     "716623": {
         "url": "https://www.vlr.gg/716623/gentle-mates-gc-vs-karmine-corp-gc-game-changers-2026-emea-stage-3-w3",
         "team1": "Gentle Mates GC",
@@ -69,6 +61,14 @@
         "team2": "KeepBest Gaming",
         "team1_odds": "1.71",
         "team2_odds": "2.01",
+        "status": "pending"
+    },
+    "729664": {
+        "url": "https://www.vlr.gg/729664/giantx-vs-eintracht-frankfurt-vct-2026-emea-stage-2-ur1",
+        "team1": "GIANTX",
+        "team2": "Eintracht Frankfurt",
+        "team1_odds": "1.39",
+        "team2_odds": "2.78",
         "status": "pending"
     }
 }
