@@ -94,5 +94,13 @@
         "team1_odds": "2.16",
         "team2_odds": "1.64",
         "status": "pending"
+    },
+    "724619": {
+        "url": "https://www.vlr.gg/724619/trace-esports-vs-a-team-vct-2026-china-stage-2-ur1",
+        "team1": "Trace Esports",
+        "team2": "A Team",
+        "team1_odds": "1.21",
+        "team2_odds": "3.95",
+        "status": "pending"
     }
 }
