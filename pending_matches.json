@@ -102,5 +102,13 @@
         "team1_odds": "1.10",
         "team2_odds": "5.63",
         "status": "pending"
+    },
+    "698911": {
+        "url": "https://www.vlr.gg/698911/gen-g-vs-full-sense-vct-2026-pacific-stage-2-w4",
+        "team1": "Gen.G",
+        "team2": "FULL SENSE",
+        "team1_odds": "1.59",
+        "team2_odds": "2.27",
+        "status": "pending"
     }
 }
