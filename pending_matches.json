@@ -1,12 +1,4 @@
 {
-    "724889": {
-        "url": "https://www.vlr.gg/724889/eternal-focus-amethyst-vs-revitalize-gc-game-changers-2026-north-america-stage-2-swiss-stage-r4",
-        "team1": "Eternal Focus Amethyst",
-        "team2": "Revitalize GC",
-        "team1_odds": "2.27",
-        "team2_odds": "1.52",
-        "status": "pending"
-    },
     "724621": {
         "url": "https://www.vlr.gg/724621/funplus-phoenix-vs-jdg-esports-vct-2026-china-stage-2-ubqf",
         "team1": "FunPlus Phoenix",
@@ -93,6 +85,14 @@
         "team2": "NRG",
         "team1_odds": "6.60",
         "team2_odds": "1.10",
+        "status": "pending"
+    },
+    "698910": {
+        "url": "https://www.vlr.gg/698910/team-secret-vs-detonation-focusme-vct-2026-pacific-stage-2-w4",
+        "team1": "Team Secret",
+        "team2": "DetonatioN FocusMe",
+        "team1_odds": "2.16",
+        "team2_odds": "1.64",
         "status": "pending"
     }
 }
