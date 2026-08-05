@@ -63,14 +63,6 @@
         "team2_odds": "1.64",
         "status": "pending"
     },
-    "724619": {
-        "url": "https://www.vlr.gg/724619/trace-esports-vs-a-team-vct-2026-china-stage-2-ur1",
-        "team1": "Trace Esports",
-        "team2": "A Team",
-        "team1_odds": "1.21",
-        "team2_odds": "3.95",
-        "status": "pending"
-    },
     "716630": {
         "url": "https://www.vlr.gg/716630/g2-gozen-vs-giantx-gc-game-changers-2026-emea-stage-3-w3",
         "team1": "G2 Gozen",
@@ -117,6 +109,14 @@
         "team2": "REBORN",
         "team1_odds": "2.09",
         "team2_odds": "1.68",
+        "status": "pending"
+    },
+    "729667": {
+        "url": "https://www.vlr.gg/729667/fnatic-vs-enterprise-esports-vct-2026-emea-stage-2-ur1",
+        "team1": "FNATIC",
+        "team2": "Enterprise Esports",
+        "team1_odds": "1.38",
+        "team2_odds": "2.88",
         "status": "pending"
     }
 }
