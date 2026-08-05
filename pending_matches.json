@@ -118,5 +118,13 @@
         "team1_odds": "1.38",
         "team2_odds": "2.88",
         "status": "pending"
+    },
+    "724623": {
+        "url": "https://www.vlr.gg/724623/all-gamers-vs-trace-esports-vct-2026-china-stage-2-ubqf",
+        "team1": "All Gamers",
+        "team2": "Trace Esports",
+        "team1_odds": "1.30",
+        "team2_odds": "3.25",
+        "status": "pending"
     }
 }
