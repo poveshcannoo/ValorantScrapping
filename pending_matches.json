@@ -55,14 +55,6 @@
         "team2_odds": "1.64",
         "status": "pending"
     },
-    "716632": {
-        "url": "https://www.vlr.gg/716632/gentle-mates-gc-vs-twisted-minds-orchid-game-changers-2026-emea-stage-3-w3",
-        "team1": "Gentle Mates GC",
-        "team2": "Twisted Minds Orchid",
-        "team1_odds": "1.26",
-        "team2_odds": "3.42",
-        "status": "pending"
-    },
     "716633": {
         "url": "https://www.vlr.gg/716633/fokus-sakura-vs-alternate-attax-ruby-game-changers-2026-emea-stage-3-w3",
         "team1": "FOKUS Sakura",
@@ -133,6 +125,30 @@
         "team2": "T1",
         "team1_odds": "2.65",
         "team2_odds": "1.44",
+        "status": "pending"
+    },
+    "716634": {
+        "url": "https://www.vlr.gg/716634/fokus-sakura-vs-habos-babos-game-changers-2026-emea-stage-3-w3",
+        "team1": "FOKUS Sakura",
+        "team2": "Habos Babos",
+        "team1_odds": "1.54",
+        "team2_odds": "2.27",
+        "status": "pending"
+    },
+    "716635": {
+        "url": "https://www.vlr.gg/716635/giantx-gc-vs-karmine-corp-gc-game-changers-2026-emea-stage-3-w3",
+        "team1": "GIANTX GC",
+        "team2": "Karmine Corp GC",
+        "team1_odds": "1.78",
+        "team2_odds": "1.90",
+        "status": "pending"
+    },
+    "716636": {
+        "url": "https://www.vlr.gg/716636/gentle-mates-gc-vs-alternate-attax-ruby-game-changers-2026-emea-stage-3-w3",
+        "team1": "Gentle Mates GC",
+        "team2": "ALTERNATE aTTaX Ruby",
+        "team1_odds": "1.07",
+        "team2_odds": "6.50",
         "status": "pending"
     }
 }
