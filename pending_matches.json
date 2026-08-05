@@ -55,14 +55,6 @@
         "team2_odds": "1.64",
         "status": "pending"
     },
-    "716633": {
-        "url": "https://www.vlr.gg/716633/fokus-sakura-vs-alternate-attax-ruby-game-changers-2026-emea-stage-3-w3",
-        "team1": "FOKUS Sakura",
-        "team2": "ALTERNATE aTTaX Ruby",
-        "team1_odds": "1.10",
-        "team2_odds": "5.63",
-        "status": "pending"
-    },
     "698911": {
         "url": "https://www.vlr.gg/698911/gen-g-vs-full-sense-vct-2026-pacific-stage-2-w4",
         "team1": "Gen.G",
@@ -149,6 +141,14 @@
         "team2": "ALTERNATE aTTaX Ruby",
         "team1_odds": "1.07",
         "team2_odds": "6.50",
+        "status": "pending"
+    },
+    "698913": {
+        "url": "https://www.vlr.gg/698913/global-esports-vs-zeta-division-vct-2026-pacific-stage-2-w4",
+        "team1": "Global Esports",
+        "team2": "ZETA DIVISION",
+        "team1_odds": "1.31",
+        "team2_odds": "3.30",
         "status": "pending"
     }
 }
