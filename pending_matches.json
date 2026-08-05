@@ -15,14 +15,6 @@
         "team2_odds": "1.47",
         "status": "pending"
     },
-    "724620": {
-        "url": "https://www.vlr.gg/724620/titan-esports-club-vs-keepbest-gaming-vct-2026-china-stage-2-ur1",
-        "team1": "Wuxi Titan Esports Club\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Titan Esports Club)",
-        "team2": "KeepBest Gaming",
-        "team1_odds": "1.71",
-        "team2_odds": "2.01",
-        "status": "pending"
-    },
     "729664": {
         "url": "https://www.vlr.gg/729664/giantx-vs-eintracht-frankfurt-vct-2026-emea-stage-2-ur1",
         "team1": "GIANTX",
@@ -125,6 +117,22 @@
         "team2": "Trace Esports",
         "team1_odds": "1.30",
         "team2_odds": "3.25",
+        "status": "pending"
+    },
+    "724624": {
+        "url": "https://www.vlr.gg/724624/edward-gaming-vs-titan-esports-club-vct-2026-china-stage-2-ubqf",
+        "team1": "EDward Gaming",
+        "team2": "Wuxi Titan Esports Club\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Titan Esports Club)",
+        "team1_odds": "1.15",
+        "team2_odds": "5.04",
+        "status": "pending"
+    },
+    "706374": {
+        "url": "https://www.vlr.gg/706374/100-thieves-vs-cloud9-vct-2026-americas-stage-2-w4",
+        "team1": "100 Thieves",
+        "team2": "Cloud9",
+        "team1_odds": "1.09",
+        "team2_odds": "6.42",
         "status": "pending"
     }
 }
