@@ -142,5 +142,13 @@
         "team1_odds": "1.31",
         "team2_odds": "3.30",
         "status": "pending"
+    },
+    "724626": {
+        "url": "https://www.vlr.gg/724626/keepbest-gaming-vs-funplus-phoenix-vct-2026-china-stage-2-lr1",
+        "team1": "KeepBest Gaming",
+        "team2": "FunPlus Phoenix",
+        "team1_odds": "2.89",
+        "team2_odds": "1.36",
+        "status": "pending"
     }
 }
