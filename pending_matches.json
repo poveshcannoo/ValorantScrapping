@@ -1,12 +1,4 @@
 {
-    "729666": {
-        "url": "https://www.vlr.gg/729666/pcific-esports-vs-reborn-vct-2026-emea-stage-2-ur1",
-        "team1": "PCIFIC Esports",
-        "team2": "REBORN",
-        "team1_odds": "2.09",
-        "team2_odds": "1.68",
-        "status": "pending"
-    },
     "729667": {
         "url": "https://www.vlr.gg/729667/fnatic-vs-enterprise-esports-vct-2026-emea-stage-2-ur1",
         "team1": "FNATIC",
@@ -125,6 +117,22 @@
         "team2": "100 Thieves",
         "team1_odds": "5.32",
         "team2_odds": "1.13",
+        "status": "pending"
+    },
+    "729670": {
+        "url": "https://www.vlr.gg/729670/team-heretics-vs-fire-flux-esports-vct-2026-emea-stage-2-ubqf",
+        "team1": "Team Heretics",
+        "team2": "Fire Flux Esports",
+        "team1_odds": "1.37",
+        "team2_odds": "2.88",
+        "status": "pending"
+    },
+    "724629": {
+        "url": "https://www.vlr.gg/724629/all-gamers-vs-jdg-esports-vct-2026-china-stage-2-ubsf",
+        "team1": "All Gamers",
+        "team2": "JD Mall JDG Esports\t\t\t\t\t\t\n\t\t\t\t\t\t\t(JDG Esports)",
+        "team1_odds": "1.29",
+        "team2_odds": "3.30",
         "status": "pending"
     }
 }
