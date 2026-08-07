@@ -1,12 +1,4 @@
 {
-    "729667": {
-        "url": "https://www.vlr.gg/729667/fnatic-vs-enterprise-esports-vct-2026-emea-stage-2-ur1",
-        "team1": "FNATIC",
-        "team2": "Enterprise Esports",
-        "team1_odds": "1.38",
-        "team2_odds": "2.88",
-        "status": "pending"
-    },
     "706374": {
         "url": "https://www.vlr.gg/706374/100-thieves-vs-cloud9-vct-2026-americas-stage-2-w4",
         "team1": "100 Thieves",
@@ -133,6 +125,22 @@
         "team2": "JD Mall JDG Esports\t\t\t\t\t\t\n\t\t\t\t\t\t\t(JDG Esports)",
         "team1_odds": "1.29",
         "team2_odds": "3.30",
+        "status": "pending"
+    },
+    "729671": {
+        "url": "https://www.vlr.gg/729671/gentle-mates-vs-enterprise-esports-vct-2026-emea-stage-2-ubqf",
+        "team1": "Gentle Mates",
+        "team2": "Enterprise Esports",
+        "team1_odds": "1.65",
+        "team2_odds": "2.12",
+        "status": "pending"
+    },
+    "724630": {
+        "url": "https://www.vlr.gg/724630/titan-esports-club-vs-dragon-ranger-gaming-vct-2026-china-stage-2-ubsf",
+        "team1": "Wuxi Titan Esports Club\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Titan Esports Club)",
+        "team2": "Dragon Ranger Gaming",
+        "team1_odds": "2.80",
+        "team2_odds": "1.39",
         "status": "pending"
     }
 }
