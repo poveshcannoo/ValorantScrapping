@@ -1,12 +1,4 @@
 {
-    "706373": {
-        "url": "https://www.vlr.gg/706373/envy-vs-nrg-vct-2026-americas-stage-2-w4",
-        "team1": "ENVY",
-        "team2": "NRG",
-        "team1_odds": "6.60",
-        "team2_odds": "1.10",
-        "status": "pending"
-    },
     "698910": {
         "url": "https://www.vlr.gg/698910/team-secret-vs-detonation-focusme-vct-2026-pacific-stage-2-w4",
         "team1": "Team Secret",
@@ -133,6 +125,22 @@
         "team2": "Rex Regum Qeon",
         "team1_odds": "1.41",
         "team2_odds": "2.76",
+        "status": "pending"
+    },
+    "724625": {
+        "url": "https://www.vlr.gg/724625/a-team-vs-wolves-esports-vct-2026-china-stage-2-lr1",
+        "team1": "A Team",
+        "team2": "Wolves Esports",
+        "team1_odds": "4.04",
+        "team2_odds": "1.20",
+        "status": "pending"
+    },
+    "729669": {
+        "url": "https://www.vlr.gg/729669/eternal-fire-vs-joblife-vct-2026-emea-stage-2-ubqf",
+        "team1": "Eternal Fire",
+        "team2": "Joblife",
+        "team1_odds": "1.46",
+        "team2_odds": "2.54",
         "status": "pending"
     }
 }
