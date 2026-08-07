@@ -1,28 +1,4 @@
 {
-    "729664": {
-        "url": "https://www.vlr.gg/729664/giantx-vs-eintracht-frankfurt-vct-2026-emea-stage-2-ur1",
-        "team1": "GIANTX",
-        "team2": "Eintracht Frankfurt",
-        "team1_odds": "1.39",
-        "team2_odds": "2.78",
-        "status": "pending"
-    },
-    "729665": {
-        "url": "https://www.vlr.gg/729665/natus-vincere-vs-joblife-vct-2026-emea-stage-2-ur1",
-        "team1": "Natus Vincere",
-        "team2": "Joblife",
-        "team1_odds": "1.51",
-        "team2_odds": "2.40",
-        "status": "pending"
-    },
-    "706372": {
-        "url": "https://www.vlr.gg/706372/evil-geniuses-vs-furia-vct-2026-americas-stage-2-w4",
-        "team1": "Evil Geniuses",
-        "team2": "FURIA",
-        "team1_odds": "2.57",
-        "team2_odds": "1.46",
-        "status": "pending"
-    },
     "706373": {
         "url": "https://www.vlr.gg/706373/envy-vs-nrg-vct-2026-americas-stage-2-w4",
         "team1": "ENVY",
@@ -103,30 +79,6 @@
         "team2_odds": "1.44",
         "status": "pending"
     },
-    "716634": {
-        "url": "https://www.vlr.gg/716634/fokus-sakura-vs-habos-babos-game-changers-2026-emea-stage-3-w3",
-        "team1": "FOKUS Sakura",
-        "team2": "Habos Babos",
-        "team1_odds": "1.54",
-        "team2_odds": "2.27",
-        "status": "pending"
-    },
-    "716635": {
-        "url": "https://www.vlr.gg/716635/giantx-gc-vs-karmine-corp-gc-game-changers-2026-emea-stage-3-w3",
-        "team1": "GIANTX GC",
-        "team2": "Karmine Corp GC",
-        "team1_odds": "1.78",
-        "team2_odds": "1.90",
-        "status": "pending"
-    },
-    "716636": {
-        "url": "https://www.vlr.gg/716636/gentle-mates-gc-vs-alternate-attax-ruby-game-changers-2026-emea-stage-3-w3",
-        "team1": "Gentle Mates GC",
-        "team2": "ALTERNATE aTTaX Ruby",
-        "team1_odds": "1.07",
-        "team2_odds": "6.50",
-        "status": "pending"
-    },
     "698913": {
         "url": "https://www.vlr.gg/698913/global-esports-vs-zeta-division-vct-2026-pacific-stage-2-w4",
         "team1": "Global Esports",
@@ -141,6 +93,46 @@
         "team2": "FunPlus Phoenix",
         "team1_odds": "2.89",
         "team2_odds": "1.36",
+        "status": "pending"
+    },
+    "729668": {
+        "url": "https://www.vlr.gg/729668/fut-esports-vs-giantx-vct-2026-emea-stage-2-ubqf",
+        "team1": "FUT Esports",
+        "team2": "GIANTX",
+        "team1_odds": "1.35",
+        "team2_odds": "2.99",
+        "status": "pending"
+    },
+    "706376": {
+        "url": "https://www.vlr.gg/706376/kr-esports-vs-sentinels-vct-2026-americas-stage-2-w4",
+        "team1": "KR\u00dc Esports",
+        "team2": "Sentinels",
+        "team1_odds": "2.95",
+        "team2_odds": "1.37",
+        "status": "pending"
+    },
+    "706377": {
+        "url": "https://www.vlr.gg/706377/leviat-n-vs-mibr-vct-2026-americas-stage-2-w4",
+        "team1": "LEVIAT\u00c1N",
+        "team2": "MIBR",
+        "team1_odds": "1.55",
+        "team2_odds": "2.35",
+        "status": "pending"
+    },
+    "698914": {
+        "url": "https://www.vlr.gg/698914/varrel-vs-paper-rex-vct-2026-pacific-stage-2-w4",
+        "team1": "VARREL",
+        "team2": "Paper Rex",
+        "team1_odds": "4.81",
+        "team2_odds": "1.16",
+        "status": "pending"
+    },
+    "698915": {
+        "url": "https://www.vlr.gg/698915/nongshim-redforce-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w4",
+        "team1": "Nongshim RedForce",
+        "team2": "Rex Regum Qeon",
+        "team1_odds": "1.41",
+        "team2_odds": "2.76",
         "status": "pending"
     }
 }
