@@ -1,12 +1,4 @@
 {
-    "724626": {
-        "url": "https://www.vlr.gg/724626/keepbest-gaming-vs-funplus-phoenix-vct-2026-china-stage-2-lr1",
-        "team1": "KeepBest Gaming",
-        "team2": "FunPlus Phoenix",
-        "team1_odds": "2.89",
-        "team2_odds": "1.36",
-        "status": "pending"
-    },
     "729668": {
         "url": "https://www.vlr.gg/729668/fut-esports-vs-giantx-vct-2026-emea-stage-2-ubqf",
         "team1": "FUT Esports",
@@ -109,6 +101,14 @@
         "team2": "Wolves Esports",
         "team1_odds": "1.30",
         "team2_odds": "3.25",
+        "status": "pending"
+    },
+    "724628": {
+        "url": "https://www.vlr.gg/724628/trace-esports-vs-funplus-phoenix-vct-2026-china-stage-2-lr2",
+        "team1": "Trace Esports",
+        "team2": "FunPlus Phoenix",
+        "team1_odds": "2.10",
+        "team2_odds": "1.66",
         "status": "pending"
     }
 }
