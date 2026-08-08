@@ -110,5 +110,13 @@
         "team1_odds": "2.80",
         "team2_odds": "1.39",
         "status": "pending"
+    },
+    "724627": {
+        "url": "https://www.vlr.gg/724627/edward-gaming-vs-wolves-esports-vct-2026-china-stage-2-lr2",
+        "team1": "EDward Gaming",
+        "team2": "Wolves Esports",
+        "team1_odds": "1.30",
+        "team2_odds": "3.25",
+        "status": "pending"
     }
 }
