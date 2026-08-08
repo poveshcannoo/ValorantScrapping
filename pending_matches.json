@@ -31,14 +31,6 @@
         "team2_odds": "2.76",
         "status": "pending"
     },
-    "729669": {
-        "url": "https://www.vlr.gg/729669/eternal-fire-vs-joblife-vct-2026-emea-stage-2-ubqf",
-        "team1": "Eternal Fire",
-        "team2": "Joblife",
-        "team1_odds": "1.46",
-        "team2_odds": "2.54",
-        "status": "pending"
-    },
     "706378": {
         "url": "https://www.vlr.gg/706378/evil-geniuses-vs-nrg-vct-2026-americas-stage-2-w4",
         "team1": "Evil Geniuses",
@@ -101,6 +93,14 @@
         "team2": "FunPlus Phoenix",
         "team1_odds": "2.10",
         "team2_odds": "1.66",
+        "status": "pending"
+    },
+    "730328": {
+        "url": "https://www.vlr.gg/730328/npc-team-vs-olimpo-gold-game-changers-2026-latam-main-event-lr1",
+        "team1": "NPC TEAM",
+        "team2": "Olimpo Gold",
+        "team1_odds": "1.48",
+        "team2_odds": "2.41",
         "status": "pending"
     }
 }
