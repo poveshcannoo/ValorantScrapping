@@ -1,12 +1,4 @@
 {
-    "706377": {
-        "url": "https://www.vlr.gg/706377/leviat-n-vs-mibr-vct-2026-americas-stage-2-w4",
-        "team1": "LEVIAT\u00c1N",
-        "team2": "MIBR",
-        "team1_odds": "1.55",
-        "team2_odds": "2.35",
-        "status": "pending"
-    },
     "698914": {
         "url": "https://www.vlr.gg/698914/varrel-vs-paper-rex-vct-2026-pacific-stage-2-w4",
         "team1": "VARREL",
@@ -101,6 +93,30 @@
         "team2": "ALTERNATE aTTaX Ruby",
         "team1_odds": "1.28",
         "team2_odds": "3.28",
+        "status": "pending"
+    },
+    "732641": {
+        "url": "https://www.vlr.gg/732641/bar-a-esports-gc-vs-mom-said-no-game-changers-2026-emea-stage-3-qf",
+        "team1": "Bar\u00e7a eSports GC",
+        "team2": "Mom Said No",
+        "team1_odds": "1.42",
+        "team2_odds": "2.64",
+        "status": "pending"
+    },
+    "732642": {
+        "url": "https://www.vlr.gg/732642/giantx-gc-vs-falke-venom-game-changers-2026-emea-stage-3-qf",
+        "team1": "GIANTX GC",
+        "team2": "FALKE VENOM",
+        "team1_odds": "1.44",
+        "team2_odds": "2.55",
+        "status": "pending"
+    },
+    "730321": {
+        "url": "https://www.vlr.gg/730321/myvra-gc-vs-fusion-x-game-changers-2026-latam-main-event-lr1",
+        "team1": "MYVRA GC",
+        "team2": "FUSION X",
+        "team1_odds": "1.44",
+        "team2_odds": "2.60",
         "status": "pending"
     }
 }
