@@ -1,12 +1,4 @@
 {
-    "706378": {
-        "url": "https://www.vlr.gg/706378/evil-geniuses-vs-nrg-vct-2026-americas-stage-2-w4",
-        "team1": "Evil Geniuses",
-        "team2": "NRG",
-        "team1_odds": "5.56",
-        "team2_odds": "1.12",
-        "status": "pending"
-    },
     "706379": {
         "url": "https://www.vlr.gg/706379/loud-vs-100-thieves-vct-2026-americas-stage-2-w4",
         "team1": "LOUD",
@@ -93,6 +85,14 @@
         "team2": "No Sweat Blossom",
         "team1_odds": "1.11",
         "team2_odds": "5.29",
+        "status": "pending"
+    },
+    "729674": {
+        "url": "https://www.vlr.gg/729674/gentle-mates-vs-eintracht-frankfurt-vct-2026-emea-stage-2-lr1",
+        "team1": "Gentle Mates",
+        "team2": "Eintracht Frankfurt",
+        "team1_odds": "1.49",
+        "team2_odds": "2.47",
         "status": "pending"
     }
 }
