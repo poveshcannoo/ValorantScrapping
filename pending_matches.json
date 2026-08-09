@@ -1,12 +1,4 @@
 {
-    "698915": {
-        "url": "https://www.vlr.gg/698915/nongshim-redforce-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w4",
-        "team1": "Nongshim RedForce",
-        "team2": "Rex Regum Qeon",
-        "team1_odds": "1.41",
-        "team2_odds": "2.76",
-        "status": "pending"
-    },
     "706378": {
         "url": "https://www.vlr.gg/706378/evil-geniuses-vs-nrg-vct-2026-americas-stage-2-w4",
         "team1": "Evil Geniuses",
@@ -53,14 +45,6 @@
         "team2": "Dragon Ranger Gaming",
         "team1_odds": "2.80",
         "team2_odds": "1.39",
-        "status": "pending"
-    },
-    "724628": {
-        "url": "https://www.vlr.gg/724628/trace-esports-vs-funplus-phoenix-vct-2026-china-stage-2-lr2",
-        "team1": "Trace Esports",
-        "team2": "FunPlus Phoenix",
-        "team1_odds": "2.10",
-        "team2_odds": "1.66",
         "status": "pending"
     },
     "730328": {
@@ -117,6 +101,14 @@
         "team2": "HIMMERS",
         "team1_odds": "1.21",
         "team2_odds": "3.79",
+        "status": "pending"
+    },
+    "730326": {
+        "url": "https://www.vlr.gg/730326/kr-blaze-vs-looking-for-laburo-game-changers-2026-latam-main-event-ubf",
+        "team1": "KR\u00dc BLAZE",
+        "team2": "Looking For Laburo",
+        "team1_odds": "1.20",
+        "team2_odds": "4.08",
         "status": "pending"
     }
 }
