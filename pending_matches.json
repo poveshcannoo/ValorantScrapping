@@ -15,14 +15,6 @@
         "team2_odds": "2.60",
         "status": "pending"
     },
-    "730256": {
-        "url": "https://www.vlr.gg/730256/shopify-rebellion-gold-vs-axolotl-game-changers-2026-north-america-stage-2-swiss-stage-r5-3-1",
-        "team1": "Shopify Rebellion Gold",
-        "team2": "Axolotl",
-        "team1_odds": "1.15",
-        "team2_odds": "4.52",
-        "status": "pending"
-    },
     "730260": {
         "url": "https://www.vlr.gg/730260/swimtrek-blue-vs-himmers-game-changers-2026-north-america-stage-2-swiss-stage-r5-3-1",
         "team1": "SwimTrek Blue",
@@ -109,6 +101,14 @@
         "team2": "PCIFIC Esports",
         "team1_odds": "1.34",
         "team2_odds": "3.05",
+        "status": "pending"
+    },
+    "729677": {
+        "url": "https://www.vlr.gg/729677/giantx-vs-fnatic-vct-2026-emea-stage-2-lr1",
+        "team1": "GIANTX",
+        "team2": "FNATIC",
+        "team1_odds": "3.73",
+        "team2_odds": "1.24",
         "status": "pending"
     }
 }
