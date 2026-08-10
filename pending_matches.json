@@ -1,12 +1,4 @@
 {
-    "706379": {
-        "url": "https://www.vlr.gg/706379/loud-vs-100-thieves-vct-2026-americas-stage-2-w4",
-        "team1": "LOUD",
-        "team2": "100 Thieves",
-        "team1_odds": "5.32",
-        "team2_odds": "1.13",
-        "status": "pending"
-    },
     "724629": {
         "url": "https://www.vlr.gg/724629/all-gamers-vs-jdg-esports-vct-2026-china-stage-2-ubsf",
         "team1": "All Gamers",
@@ -93,6 +85,22 @@
         "team2": "Eintracht Frankfurt",
         "team1_odds": "1.49",
         "team2_odds": "2.47",
+        "status": "pending"
+    },
+    "731768": {
+        "url": "https://www.vlr.gg/731768/mibr-gc-vs-gato-pensante-game-changers-2026-brazil-final-stage-ubqf",
+        "team1": "MIBR GC",
+        "team2": "GATO PENSANTE",
+        "team1_odds": "1.05",
+        "team2_odds": "8.00",
+        "status": "pending"
+    },
+    "729675": {
+        "url": "https://www.vlr.gg/729675/team-heretics-vs-natus-vincere-vct-2026-emea-stage-2-lr1",
+        "team1": "Team Heretics",
+        "team2": "Natus Vincere",
+        "team1_odds": "1.45",
+        "team2_odds": "2.59",
         "status": "pending"
     }
 }
