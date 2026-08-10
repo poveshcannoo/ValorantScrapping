@@ -1,12 +1,4 @@
 {
-    "724630": {
-        "url": "https://www.vlr.gg/724630/titan-esports-club-vs-dragon-ranger-gaming-vct-2026-china-stage-2-ubsf",
-        "team1": "Wuxi Titan Esports Club\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Titan Esports Club)",
-        "team2": "Dragon Ranger Gaming",
-        "team1_odds": "2.80",
-        "team2_odds": "1.39",
-        "status": "pending"
-    },
     "730328": {
         "url": "https://www.vlr.gg/730328/npc-team-vs-olimpo-gold-game-changers-2026-latam-main-event-lr1",
         "team1": "NPC TEAM",
@@ -109,6 +101,14 @@
         "team2": "ONSIDE GAMING",
         "team1_odds": "1.64",
         "team2_odds": "2.14",
+        "status": "pending"
+    },
+    "730536": {
+        "url": "https://www.vlr.gg/730536/rex-regum-qeon-vs-sharper-esports-vct-2026-pacific-stage-2-ur1",
+        "team1": "Rex Regum Qeon",
+        "team2": "Sharper Esports",
+        "team1_odds": "1.35",
+        "team2_odds": "3.00",
         "status": "pending"
     }
 }
