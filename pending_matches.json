@@ -110,5 +110,13 @@
         "team1_odds": "1.35",
         "team2_odds": "3.00",
         "status": "pending"
+    },
+    "724632": {
+        "url": "https://www.vlr.gg/724632/dragon-ranger-gaming-vs-trace-esports-vct-2026-china-stage-2-lr3",
+        "team1": "Dragon Ranger Gaming",
+        "team2": "Trace Esports",
+        "team1_odds": "1.52",
+        "team2_odds": "2.46",
+        "status": "pending"
     }
 }
