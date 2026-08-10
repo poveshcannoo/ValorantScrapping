@@ -1,12 +1,4 @@
 {
-    "724629": {
-        "url": "https://www.vlr.gg/724629/all-gamers-vs-jdg-esports-vct-2026-china-stage-2-ubsf",
-        "team1": "All Gamers",
-        "team2": "JD Mall JDG Esports\t\t\t\t\t\t\n\t\t\t\t\t\t\t(JDG Esports)",
-        "team1_odds": "1.29",
-        "team2_odds": "3.30",
-        "status": "pending"
-    },
     "724630": {
         "url": "https://www.vlr.gg/724630/titan-esports-club-vs-dragon-ranger-gaming-vct-2026-china-stage-2-ubsf",
         "team1": "Wuxi Titan Esports Club\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Titan Esports Club)",
@@ -101,6 +93,22 @@
         "team2": "Natus Vincere",
         "team1_odds": "1.45",
         "team2_odds": "2.59",
+        "status": "pending"
+    },
+    "724631": {
+        "url": "https://www.vlr.gg/724631/jdg-esports-vs-edward-gaming-vct-2026-china-stage-2-lr3",
+        "team1": "JD Mall JDG Esports\t\t\t\t\t\t\n\t\t\t\t\t\t\t(JDG Esports)",
+        "team2": "EDward Gaming",
+        "team1_odds": "3.94",
+        "team2_odds": "1.21",
+        "status": "pending"
+    },
+    "730535": {
+        "url": "https://www.vlr.gg/730535/kiwoom-drx-vs-onside-gaming-vct-2026-pacific-stage-2-ur1",
+        "team1": "KIWOOM DRX",
+        "team2": "ONSIDE GAMING",
+        "team1_odds": "1.64",
+        "team2_odds": "2.14",
         "status": "pending"
     }
 }
