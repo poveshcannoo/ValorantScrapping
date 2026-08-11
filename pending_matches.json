@@ -55,14 +55,6 @@
         "team2_odds": "3.00",
         "status": "pending"
     },
-    "724632": {
-        "url": "https://www.vlr.gg/724632/dragon-ranger-gaming-vs-trace-esports-vct-2026-china-stage-2-lr3",
-        "team1": "Dragon Ranger Gaming",
-        "team2": "Trace Esports",
-        "team1_odds": "1.52",
-        "team2_odds": "2.46",
-        "status": "pending"
-    },
     "729676": {
         "url": "https://www.vlr.gg/729676/joblife-vs-pcific-esports-vct-2026-emea-stage-2-lr1",
         "team1": "Joblife",
@@ -117,6 +109,14 @@
         "team2": "QT DIG\u221e",
         "team1_odds": "1.32",
         "team2_odds": "3.16",
+        "status": "pending"
+    },
+    "724634": {
+        "url": "https://www.vlr.gg/724634/jdg-esports-vs-trace-esports-vct-2026-china-stage-2-lbf",
+        "team1": "JD Mall JDG Esports\t\t\t\t\t\t\n\t\t\t\t\t\t\t(JDG Esports)",
+        "team2": "Trace Esports",
+        "team1_odds": "1.60",
+        "team2_odds": "2.22",
         "status": "pending"
     }
 }
