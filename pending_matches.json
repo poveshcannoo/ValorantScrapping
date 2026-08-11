@@ -1,26 +1,10 @@
 {
-    "730328": {
-        "url": "https://www.vlr.gg/730328/npc-team-vs-olimpo-gold-game-changers-2026-latam-main-event-lr1",
-        "team1": "NPC TEAM",
-        "team2": "Olimpo Gold",
-        "team1_odds": "1.48",
-        "team2_odds": "2.41",
-        "status": "pending"
-    },
     "730321": {
         "url": "https://www.vlr.gg/730321/myvra-gc-vs-fusion-x-game-changers-2026-latam-main-event-lr1",
         "team1": "MYVRA GC",
         "team2": "FUSION X",
         "team1_odds": "1.44",
         "team2_odds": "2.60",
-        "status": "pending"
-    },
-    "730260": {
-        "url": "https://www.vlr.gg/730260/swimtrek-blue-vs-himmers-game-changers-2026-north-america-stage-2-swiss-stage-r5-3-1",
-        "team1": "SwimTrek Blue",
-        "team2": "HIMMERS",
-        "team1_odds": "1.21",
-        "team2_odds": "3.79",
         "status": "pending"
     },
     "730326": {
@@ -45,14 +29,6 @@
         "team2": "Eintracht Frankfurt",
         "team1_odds": "1.49",
         "team2_odds": "2.47",
-        "status": "pending"
-    },
-    "731768": {
-        "url": "https://www.vlr.gg/731768/mibr-gc-vs-gato-pensante-game-changers-2026-brazil-final-stage-ubqf",
-        "team1": "MIBR GC",
-        "team2": "GATO PENSANTE",
-        "team1_odds": "1.05",
-        "team2_odds": "8.00",
         "status": "pending"
     },
     "729675": {
@@ -109,6 +85,30 @@
         "team2": "FNATIC",
         "team1_odds": "3.73",
         "team2_odds": "1.24",
+        "status": "pending"
+    },
+    "732787": {
+        "url": "https://www.vlr.gg/732787/fokus-sakura-vs-gentle-mates-gc-game-changers-2026-emea-stage-3-ubqf",
+        "team1": "FOKUS Sakura",
+        "team2": "Gentle Mates GC",
+        "team1_odds": "2.64",
+        "team2_odds": "1.42",
+        "status": "pending"
+    },
+    "729742": {
+        "url": "https://www.vlr.gg/729742/kr-esports-vs-bestia-vct-2026-americas-stage-2-ur1",
+        "team1": "KR\u00dc Esports",
+        "team2": "BESTIA",
+        "team1_odds": "1.60",
+        "team2_odds": "2.23",
+        "status": "pending"
+    },
+    "729743": {
+        "url": "https://www.vlr.gg/729743/envy-vs-m80-vct-2026-americas-stage-2-ur1",
+        "team1": "ENVY",
+        "team2": "M80",
+        "team1_odds": "2.16",
+        "team2_odds": "1.66",
         "status": "pending"
     }
 }
