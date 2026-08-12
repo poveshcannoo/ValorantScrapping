@@ -87,14 +87,6 @@
         "team2_odds": "3.16",
         "status": "pending"
     },
-    "724634": {
-        "url": "https://www.vlr.gg/724634/jdg-esports-vs-trace-esports-vct-2026-china-stage-2-lbf",
-        "team1": "JD Mall JDG Esports\t\t\t\t\t\t\n\t\t\t\t\t\t\t(JDG Esports)",
-        "team2": "Trace Esports",
-        "team1_odds": "1.60",
-        "team2_odds": "2.22",
-        "status": "pending"
-    },
     "730538": {
         "url": "https://www.vlr.gg/730538/team-secret-vs-xipto-esports-vct-2026-pacific-stage-2-ur1",
         "team1": "Team Secret",
@@ -125,6 +117,22 @@
         "team2": "Wuxi Titan Esports Club\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Titan Esports Club)",
         "team1_odds": "1.55",
         "team2_odds": "2.32",
+        "status": "pending"
+    },
+    "732786": {
+        "url": "https://www.vlr.gg/732786/g2-gozen-vs-alternate-attax-ruby-game-changers-2026-emea-stage-3-ubqf",
+        "team1": "G2 Gozen",
+        "team2": "ALTERNATE aTTaX Ruby",
+        "team1_odds": "1.04",
+        "team2_odds": "8.21",
+        "status": "pending"
+    },
+    "732788": {
+        "url": "https://www.vlr.gg/732788/habos-babos-vs-giantx-gc-game-changers-2026-emea-stage-3-ubqf",
+        "team1": "Habos Babos",
+        "team2": "GIANTX GC",
+        "team1_odds": "1.48",
+        "team2_odds": "2.44",
         "status": "pending"
     }
 }
