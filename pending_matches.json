@@ -7,14 +7,6 @@
         "team2_odds": "2.60",
         "status": "pending"
     },
-    "729675": {
-        "url": "https://www.vlr.gg/729675/team-heretics-vs-natus-vincere-vct-2026-emea-stage-2-lr1",
-        "team1": "Team Heretics",
-        "team2": "Natus Vincere",
-        "team1_odds": "1.45",
-        "team2_odds": "2.59",
-        "status": "pending"
-    },
     "730535": {
         "url": "https://www.vlr.gg/730535/kiwoom-drx-vs-onside-gaming-vct-2026-pacific-stage-2-ur1",
         "team1": "KIWOOM DRX",
@@ -141,6 +133,22 @@
         "team2": "SK Nebula",
         "team1_odds": "2.01",
         "team2_odds": "1.71",
+        "status": "pending"
+    },
+    "729678": {
+        "url": "https://www.vlr.gg/729678/eintracht-frankfurt-vs-team-heretics-vct-2026-emea-stage-2-lr2",
+        "team1": "Eintracht Frankfurt",
+        "team2": "Team Heretics",
+        "team1_odds": "2.84",
+        "team2_odds": "1.38",
+        "status": "pending"
+    },
+    "729744": {
+        "url": "https://www.vlr.gg/729744/furia-vs-2game-esports-vct-2026-americas-stage-2-ur1",
+        "team1": "FURIA",
+        "team2": "2Game Esports",
+        "team1_odds": "1.75",
+        "team2_odds": "2.00",
         "status": "pending"
     }
 }
