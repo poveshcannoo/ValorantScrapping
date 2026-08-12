@@ -118,5 +118,13 @@
         "team1_odds": "2.96",
         "team2_odds": "1.33",
         "status": "pending"
+    },
+    "724638": {
+        "url": "https://www.vlr.gg/724638/tyloo-vs-titan-esports-club-vct-2026-china-stage-2-ubqf",
+        "team1": "TYLOO",
+        "team2": "Wuxi Titan Esports Club\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Titan Esports Club)",
+        "team1_odds": "1.55",
+        "team2_odds": "2.32",
+        "status": "pending"
     }
 }
