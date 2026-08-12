@@ -7,14 +7,6 @@
         "team2_odds": "2.60",
         "status": "pending"
     },
-    "730326": {
-        "url": "https://www.vlr.gg/730326/kr-blaze-vs-looking-for-laburo-game-changers-2026-latam-main-event-ubf",
-        "team1": "KR\u00dc BLAZE",
-        "team2": "Looking For Laburo",
-        "team1_odds": "1.20",
-        "team2_odds": "4.08",
-        "status": "pending"
-    },
     "730319": {
         "url": "https://www.vlr.gg/730319/akave-esports-gc-vs-no-sweat-blossom-game-changers-2026-latam-main-event-ubf",
         "team1": "Akave Esports GC",
@@ -117,6 +109,14 @@
         "team2": "Trace Esports",
         "team1_odds": "1.60",
         "team2_odds": "2.22",
+        "status": "pending"
+    },
+    "730538": {
+        "url": "https://www.vlr.gg/730538/team-secret-vs-xipto-esports-vct-2026-pacific-stage-2-ur1",
+        "team1": "Team Secret",
+        "team2": "Xipto Esports",
+        "team1_odds": "1.76",
+        "team2_odds": "1.97",
         "status": "pending"
     }
 }
