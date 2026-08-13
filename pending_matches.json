@@ -79,14 +79,6 @@
         "team2_odds": "1.97",
         "status": "pending"
     },
-    "734796": {
-        "url": "https://www.vlr.gg/734796/mvsk-secret-vs-the-spiders-game-changers-2026-north-america-stage-2-swiss-stage-r6-3-2",
-        "team1": "MVSK Secret",
-        "team2": "The Spiders",
-        "team1_odds": "2.96",
-        "team2_odds": "1.33",
-        "status": "pending"
-    },
     "724638": {
         "url": "https://www.vlr.gg/724638/tyloo-vs-titan-esports-club-vct-2026-china-stage-2-ubqf",
         "team1": "TYLOO",
@@ -149,6 +141,14 @@
         "team2": "Fluxo W7M",
         "team1_odds": "1.46",
         "team2_odds": "2.64",
+        "status": "pending"
+    },
+    "724641": {
+        "url": "https://www.vlr.gg/724641/bilibili-gaming-vs-trace-esports-vct-2026-china-stage-2-ubqf",
+        "team1": "Guangzhou Huadu Bilibili Gaming\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Bilibili Gaming)",
+        "team2": "Trace Esports",
+        "team1_odds": "1.65",
+        "team2_odds": "2.12",
         "status": "pending"
     }
 }
