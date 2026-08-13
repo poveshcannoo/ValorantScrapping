@@ -1,12 +1,4 @@
 {
-    "730535": {
-        "url": "https://www.vlr.gg/730535/kiwoom-drx-vs-onside-gaming-vct-2026-pacific-stage-2-ur1",
-        "team1": "KIWOOM DRX",
-        "team2": "ONSIDE GAMING",
-        "team1_odds": "1.64",
-        "team2_odds": "2.14",
-        "status": "pending"
-    },
     "730536": {
         "url": "https://www.vlr.gg/730536/rex-regum-qeon-vs-sharper-esports-vct-2026-pacific-stage-2-ur1",
         "team1": "Rex Regum Qeon",
@@ -141,6 +133,22 @@
         "team2": "Trace Esports",
         "team1_odds": "1.65",
         "team2_odds": "2.12",
+        "status": "pending"
+    },
+    "730539": {
+        "url": "https://www.vlr.gg/730539/zeta-division-vs-kiwoom-drx-vct-2026-pacific-stage-2-ubqf",
+        "team1": "ZETA DIVISION",
+        "team2": "KIWOOM DRX",
+        "team1_odds": "2.29",
+        "team2_odds": "1.56",
+        "status": "pending"
+    },
+    "724640": {
+        "url": "https://www.vlr.gg/724640/xi-lai-gaming-vs-all-gamers-vct-2026-china-stage-2-ubqf",
+        "team1": "Xi Lai Gaming",
+        "team2": "All Gamers",
+        "team1_odds": "1.55",
+        "team2_odds": "2.33",
         "status": "pending"
     }
 }
