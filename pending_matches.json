@@ -79,14 +79,6 @@
         "team2_odds": "1.97",
         "status": "pending"
     },
-    "734794": {
-        "url": "https://www.vlr.gg/734794/sen-otters-vs-himmers-game-changers-2026-north-america-stage-2-swiss-stage-r6-3-2",
-        "team1": "SEN Otters",
-        "team2": "HIMMERS",
-        "team1_odds": "1.63",
-        "team2_odds": "2.11",
-        "status": "pending"
-    },
     "734796": {
         "url": "https://www.vlr.gg/734796/mvsk-secret-vs-the-spiders-game-changers-2026-north-america-stage-2-swiss-stage-r6-3-2",
         "team1": "MVSK Secret",
@@ -149,6 +141,14 @@
         "team2": "2Game Esports",
         "team1_odds": "1.75",
         "team2_odds": "2.00",
+        "status": "pending"
+    },
+    "729745": {
+        "url": "https://www.vlr.gg/729745/cloud9-vs-fluxo-w7m-vct-2026-americas-stage-2-ur1",
+        "team1": "Cloud9",
+        "team2": "Fluxo W7M",
+        "team1_odds": "1.46",
+        "team2_odds": "2.64",
         "status": "pending"
     }
 }
