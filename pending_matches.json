@@ -1,12 +1,4 @@
 {
-    "730536": {
-        "url": "https://www.vlr.gg/730536/rex-regum-qeon-vs-sharper-esports-vct-2026-pacific-stage-2-ur1",
-        "team1": "Rex Regum Qeon",
-        "team2": "Sharper Esports",
-        "team1_odds": "1.35",
-        "team2_odds": "3.00",
-        "status": "pending"
-    },
     "729676": {
         "url": "https://www.vlr.gg/729676/joblife-vs-pcific-esports-vct-2026-emea-stage-2-lr1",
         "team1": "Joblife",
@@ -149,6 +141,14 @@
         "team2": "All Gamers",
         "team1_odds": "1.55",
         "team2_odds": "2.33",
+        "status": "pending"
+    },
+    "730540": {
+        "url": "https://www.vlr.gg/730540/detonation-focusme-vs-sharper-esports-vct-2026-pacific-stage-2-ubqf",
+        "team1": "DetonatioN FocusMe",
+        "team2": "Sharper Esports",
+        "team1_odds": "1.60",
+        "team2_odds": "2.21",
         "status": "pending"
     }
 }
