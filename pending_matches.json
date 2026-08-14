@@ -1,20 +1,4 @@
 {
-    "730538": {
-        "url": "https://www.vlr.gg/730538/team-secret-vs-xipto-esports-vct-2026-pacific-stage-2-ur1",
-        "team1": "Team Secret",
-        "team2": "Xipto Esports",
-        "team1_odds": "1.76",
-        "team2_odds": "1.97",
-        "status": "pending"
-    },
-    "724638": {
-        "url": "https://www.vlr.gg/724638/tyloo-vs-titan-esports-club-vct-2026-china-stage-2-ubqf",
-        "team1": "TYLOO",
-        "team2": "Wuxi Titan Esports Club\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Titan Esports Club)",
-        "team1_odds": "1.55",
-        "team2_odds": "2.32",
-        "status": "pending"
-    },
     "732788": {
         "url": "https://www.vlr.gg/732788/habos-babos-vs-giantx-gc-game-changers-2026-emea-stage-3-ubqf",
         "team1": "Habos Babos",
@@ -141,6 +125,22 @@
         "team2": "FULL SENSE",
         "team1_odds": "1.45",
         "team2_odds": "2.59",
+        "status": "pending"
+    },
+    "724646": {
+        "url": "https://www.vlr.gg/724646/titan-esports-club-vs-nova-esports-vct-2026-china-stage-2-lr1",
+        "team1": "Wuxi Titan Esports Club\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Titan Esports Club)",
+        "team2": "Nova Esports",
+        "team1_odds": "2.22",
+        "team2_odds": "1.60",
+        "status": "pending"
+    },
+    "730542": {
+        "url": "https://www.vlr.gg/730542/nongshim-redforce-vs-team-secret-vct-2026-pacific-stage-2-ubqf",
+        "team1": "Nongshim RedForce",
+        "team2": "Team Secret",
+        "team1_odds": "1.18",
+        "team2_odds": "4.30",
         "status": "pending"
     }
 }
