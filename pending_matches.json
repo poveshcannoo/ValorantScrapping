@@ -1,12 +1,4 @@
 {
-    "729743": {
-        "url": "https://www.vlr.gg/729743/envy-vs-m80-vct-2026-americas-stage-2-ur1",
-        "team1": "ENVY",
-        "team2": "M80",
-        "team1_odds": "2.16",
-        "team2_odds": "1.66",
-        "status": "pending"
-    },
     "730537": {
         "url": "https://www.vlr.gg/730537/full-sense-vs-qt-dig-vct-2026-pacific-stage-2-ur1",
         "team1": "FULL SENSE",
@@ -133,6 +125,14 @@
         "team2": "Enterprise Esports",
         "team1_odds": "2.24",
         "team2_odds": "1.62",
+        "status": "pending"
+    },
+    "729746": {
+        "url": "https://www.vlr.gg/729746/mibr-vs-kr-esports-vct-2026-americas-stage-2-ubqf",
+        "team1": "MIBR",
+        "team2": "KR\u00dc Esports",
+        "team1_odds": "1.61",
+        "team2_odds": "2.20",
         "status": "pending"
     }
 }
