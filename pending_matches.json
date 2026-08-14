@@ -1,12 +1,4 @@
 {
-    "732788": {
-        "url": "https://www.vlr.gg/732788/habos-babos-vs-giantx-gc-game-changers-2026-emea-stage-3-ubqf",
-        "team1": "Habos Babos",
-        "team2": "GIANTX GC",
-        "team1_odds": "1.48",
-        "team2_odds": "2.44",
-        "status": "pending"
-    },
     "732789": {
         "url": "https://www.vlr.gg/732789/twisted-minds-orchid-vs-sk-nebula-game-changers-2026-emea-stage-3-ubqf",
         "team1": "Twisted Minds Orchid",
@@ -133,6 +125,14 @@
         "team2": "Team Secret",
         "team1_odds": "1.18",
         "team2_odds": "4.30",
+        "status": "pending"
+    },
+    "732790": {
+        "url": "https://www.vlr.gg/732790/g2-gozen-vs-gentle-mates-gc-game-changers-2026-emea-stage-3-ubsf",
+        "team1": "G2 Gozen",
+        "team2": "Gentle Mates GC",
+        "team1_odds": "1.71",
+        "team2_odds": "2.01",
         "status": "pending"
     }
 }
