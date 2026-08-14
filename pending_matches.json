@@ -134,5 +134,21 @@
         "team1_odds": "1.61",
         "team2_odds": "2.20",
         "status": "pending"
+    },
+    "732794": {
+        "url": "https://www.vlr.gg/732794/alternate-attax-ruby-vs-fokus-sakura-game-changers-2026-emea-stage-3-lr1",
+        "team1": "ALTERNATE aTTaX Ruby",
+        "team2": "FOKUS Sakura",
+        "team1_odds": "3.32",
+        "team2_odds": "1.27",
+        "status": "pending"
+    },
+    "729747": {
+        "url": "https://www.vlr.gg/729747/sentinels-vs-envy-vct-2026-americas-stage-2-ubqf",
+        "team1": "Sentinels",
+        "team2": "ENVY",
+        "team1_odds": "1.53",
+        "team2_odds": "2.35",
+        "status": "pending"
     }
 }
