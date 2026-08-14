@@ -1,12 +1,4 @@
 {
-    "730537": {
-        "url": "https://www.vlr.gg/730537/full-sense-vs-qt-dig-vct-2026-pacific-stage-2-ur1",
-        "team1": "FULL SENSE",
-        "team2": "QT DIG\u221e",
-        "team1_odds": "1.32",
-        "team2_odds": "3.16",
-        "status": "pending"
-    },
     "730538": {
         "url": "https://www.vlr.gg/730538/team-secret-vs-xipto-esports-vct-2026-pacific-stage-2-ur1",
         "team1": "Team Secret",
@@ -29,14 +21,6 @@
         "team2": "GIANTX GC",
         "team1_odds": "1.48",
         "team2_odds": "2.44",
-        "status": "pending"
-    },
-    "724639": {
-        "url": "https://www.vlr.gg/724639/nova-esports-vs-jd-gaming-vct-2026-china-stage-2-ubqf",
-        "team1": "Nova Esports",
-        "team2": "JD Gaming",
-        "team1_odds": "1.47",
-        "team2_odds": "2.53",
         "status": "pending"
     },
     "732789": {
@@ -149,6 +133,14 @@
         "team2": "ENVY",
         "team1_odds": "1.53",
         "team2_odds": "2.35",
+        "status": "pending"
+    },
+    "730541": {
+        "url": "https://www.vlr.gg/730541/t1-vs-full-sense-vct-2026-pacific-stage-2-ubqf",
+        "team1": "T1",
+        "team2": "FULL SENSE",
+        "team1_odds": "1.45",
+        "team2_odds": "2.59",
         "status": "pending"
     }
 }
