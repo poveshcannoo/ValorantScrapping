@@ -110,5 +110,13 @@
         "team1_odds": "2.22",
         "team2_odds": "1.58",
         "status": "pending"
+    },
+    "729682": {
+        "url": "https://www.vlr.gg/729682/fire-flux-esports-vs-joblife-vct-2026-emea-stage-2-lr3",
+        "team1": "Fire Flux Esports",
+        "team2": "Joblife",
+        "team1_odds": "1.91",
+        "team2_odds": "1.80",
+        "status": "pending"
     }
 }
