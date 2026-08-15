@@ -1,12 +1,4 @@
 {
-    "729745": {
-        "url": "https://www.vlr.gg/729745/cloud9-vs-fluxo-w7m-vct-2026-americas-stage-2-ur1",
-        "team1": "Cloud9",
-        "team2": "Fluxo W7M",
-        "team1_odds": "1.46",
-        "team2_odds": "2.64",
-        "status": "pending"
-    },
     "724641": {
         "url": "https://www.vlr.gg/724641/bilibili-gaming-vs-trace-esports-vct-2026-china-stage-2-ubqf",
         "team1": "Guangzhou Huadu Bilibili Gaming\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Bilibili Gaming)",
@@ -133,6 +125,14 @@
         "team2": "FURIA",
         "team1_odds": "1.35",
         "team2_odds": "2.95",
+        "status": "pending"
+    },
+    "729749": {
+        "url": "https://www.vlr.gg/729749/evil-geniuses-vs-cloud9-vct-2026-americas-stage-2-ubqf",
+        "team1": "Evil Geniuses",
+        "team2": "Cloud9",
+        "team1_odds": "2.10",
+        "team2_odds": "1.66",
         "status": "pending"
     }
 }
