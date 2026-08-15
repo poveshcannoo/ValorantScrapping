@@ -110,5 +110,13 @@
         "team1_odds": "1.65",
         "team2_odds": "2.12",
         "status": "pending"
+    },
+    "735388": {
+        "url": "https://www.vlr.gg/735388/mvsk-secret-vs-3-game-changers-2026-north-america-stage-2-swiss-stage-r7-3-3",
+        "team1": "MVSK Secret",
+        "team2": ":3",
+        "team1_odds": "2.10",
+        "team2_odds": "1.65",
+        "status": "pending"
     }
 }
