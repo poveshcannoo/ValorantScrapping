@@ -7,14 +7,6 @@
         "team2_odds": "2.19",
         "status": "pending"
     },
-    "729673": {
-        "url": "https://www.vlr.gg/729673/fire-flux-esports-vs-enterprise-esports-vct-2026-emea-stage-2-ubsf",
-        "team1": "Fire Flux Esports",
-        "team2": "Enterprise Esports",
-        "team1_odds": "2.24",
-        "team2_odds": "1.62",
-        "status": "pending"
-    },
     "729746": {
         "url": "https://www.vlr.gg/729746/mibr-vs-kr-esports-vct-2026-americas-stage-2-ubqf",
         "team1": "MIBR",
@@ -109,6 +101,14 @@
         "team2": "Trace Esports",
         "team1_odds": "1.37",
         "team2_odds": "2.88",
+        "status": "pending"
+    },
+    "735387": {
+        "url": "https://www.vlr.gg/735387/cloud9-gc-vs-sen-otters-game-changers-2026-north-america-stage-2-swiss-stage-r7-3-3",
+        "team1": "Cloud9 GC",
+        "team2": "SEN Otters",
+        "team1_odds": "2.22",
+        "team2_odds": "1.58",
         "status": "pending"
     }
 }
