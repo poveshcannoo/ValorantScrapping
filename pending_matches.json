@@ -86,5 +86,13 @@
         "team1_odds": "1.54",
         "team2_odds": "2.36",
         "status": "pending"
+    },
+    "730329": {
+        "url": "https://www.vlr.gg/730329/looking-for-laburo-vs-npc-team-game-changers-2026-latam-main-event-lbf",
+        "team1": "Looking For Laburo",
+        "team2": "NPC TEAM",
+        "team1_odds": "1.06",
+        "team2_odds": "6.89",
+        "status": "pending"
     }
 }
