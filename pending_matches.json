@@ -1,12 +1,4 @@
 {
-    "730542": {
-        "url": "https://www.vlr.gg/730542/nongshim-redforce-vs-team-secret-vct-2026-pacific-stage-2-ubqf",
-        "team1": "Nongshim RedForce",
-        "team2": "Team Secret",
-        "team1_odds": "1.18",
-        "team2_odds": "4.30",
-        "status": "pending"
-    },
     "732790": {
         "url": "https://www.vlr.gg/732790/g2-gozen-vs-gentle-mates-gc-game-changers-2026-emea-stage-3-ubsf",
         "team1": "G2 Gozen",
@@ -85,6 +77,14 @@
         "team2": "Evil Geniuses GC",
         "team1_odds": "1.17",
         "team2_odds": "4.46",
+        "status": "pending"
+    },
+    "724642": {
+        "url": "https://www.vlr.gg/724642/tyloo-vs-jd-gaming-vct-2026-china-stage-2-ubsf",
+        "team1": "TYLOO",
+        "team2": "JD Gaming",
+        "team1_odds": "1.54",
+        "team2_odds": "2.36",
         "status": "pending"
     }
 }
