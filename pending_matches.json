@@ -94,5 +94,13 @@
         "team1_odds": "1.79",
         "team2_odds": "1.93",
         "status": "pending"
+    },
+    "732797": {
+        "url": "https://www.vlr.gg/732797/g2-gozen-vs-habos-babos-game-changers-2026-emea-stage-3-lr2",
+        "team1": "G2 Gozen",
+        "team2": "Habos Babos",
+        "team1_odds": "1.25",
+        "team2_odds": "3.44",
+        "status": "pending"
     }
 }
