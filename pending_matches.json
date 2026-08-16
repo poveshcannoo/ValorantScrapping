@@ -47,14 +47,6 @@
         "team2_odds": "1.80",
         "status": "pending"
     },
-    "729681": {
-        "url": "https://www.vlr.gg/729681/eternal-fire-vs-eintracht-frankfurt-vct-2026-emea-stage-2-lr3",
-        "team1": "Eternal Fire",
-        "team2": "Eintracht Frankfurt",
-        "team1_odds": "1.65",
-        "team2_odds": "2.12",
-        "status": "pending"
-    },
     "735388": {
         "url": "https://www.vlr.gg/735388/mvsk-secret-vs-3-game-changers-2026-north-america-stage-2-swiss-stage-r7-3-3",
         "team1": "MVSK Secret",
@@ -85,6 +77,22 @@
         "team2": "NPC TEAM",
         "team1_odds": "1.06",
         "team2_odds": "6.89",
+        "status": "pending"
+    },
+    "730545": {
+        "url": "https://www.vlr.gg/730545/team-secret-vs-onside-gaming-vct-2026-pacific-stage-2-lr1",
+        "team1": "Team Secret",
+        "team2": "ONSIDE GAMING",
+        "team1_odds": "1.74",
+        "team2_odds": "1.97",
+        "status": "pending"
+    },
+    "724643": {
+        "url": "https://www.vlr.gg/724643/xi-lai-gaming-vs-bilibili-gaming-vct-2026-china-stage-2-ubsf",
+        "team1": "Xi Lai Gaming",
+        "team2": "Guangzhou Huadu Bilibili Gaming\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Bilibili Gaming)",
+        "team1_odds": "1.60",
+        "team2_odds": "2.23",
         "status": "pending"
     }
 }
