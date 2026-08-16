@@ -94,5 +94,13 @@
         "team1_odds": "1.60",
         "team2_odds": "2.23",
         "status": "pending"
+    },
+    "730322": {
+        "url": "https://www.vlr.gg/730322/no-sweat-blossom-vs-fusion-x-game-changers-2026-latam-main-event-lbf",
+        "team1": "No Sweat Blossom",
+        "team2": "FUSION X",
+        "team1_odds": "1.38",
+        "team2_odds": "2.75",
+        "status": "pending"
     }
 }
