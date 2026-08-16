@@ -1,12 +1,4 @@
 {
-    "724646": {
-        "url": "https://www.vlr.gg/724646/titan-esports-club-vs-nova-esports-vct-2026-china-stage-2-lr1",
-        "team1": "Wuxi Titan Esports Club\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Titan Esports Club)",
-        "team2": "Nova Esports",
-        "team1_odds": "2.22",
-        "team2_odds": "1.60",
-        "status": "pending"
-    },
     "730542": {
         "url": "https://www.vlr.gg/730542/nongshim-redforce-vs-team-secret-vct-2026-pacific-stage-2-ubqf",
         "team1": "Nongshim RedForce",
@@ -85,6 +77,14 @@
         "team2": ":3",
         "team1_odds": "2.10",
         "team2_odds": "1.65",
+        "status": "pending"
+    },
+    "731773": {
+        "url": "https://www.vlr.gg/731773/team-liquid-brazil-vs-evil-geniuses-gc-game-changers-2026-brazil-finals-ubsf",
+        "team1": "Team Liquid Brazil",
+        "team2": "Evil Geniuses GC",
+        "team1_odds": "1.17",
+        "team2_odds": "4.46",
         "status": "pending"
     }
 }
