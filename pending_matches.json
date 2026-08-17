@@ -126,5 +126,13 @@
         "team1_odds": "1.03",
         "team2_odds": "9.40",
         "status": "pending"
+    },
+    "729752": {
+        "url": "https://www.vlr.gg/729752/cloud9-vs-bestia-vct-2026-americas-stage-2-lr1",
+        "team1": "Cloud9",
+        "team2": "BESTIA",
+        "team1_odds": "1.12",
+        "team2_odds": "5.53",
+        "status": "pending"
     }
 }
