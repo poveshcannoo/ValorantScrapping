@@ -79,14 +79,6 @@
         "team2_odds": "3.81",
         "status": "pending"
     },
-    "731776": {
-        "url": "https://www.vlr.gg/731776/gato-pensante-vs-7ven-stars-game-changers-2026-brazil-finals-lr1",
-        "team1": "GATO PENSANTE",
-        "team2": "7VEN STARS",
-        "team1_odds": "2.94",
-        "team2_odds": "1.36",
-        "status": "pending"
-    },
     "731777": {
         "url": "https://www.vlr.gg/731777/evils-of-delusion-vs-arashi-gc-game-changers-2026-brazil-finals-lr1",
         "team1": "Evils of Delusion",
@@ -125,6 +117,14 @@
         "team2": "QT DIG\u221e",
         "team1_odds": "1.58",
         "team2_odds": "2.25",
+        "status": "pending"
+    },
+    "730548": {
+        "url": "https://www.vlr.gg/730548/zeta-division-vs-xipto-esports-vct-2026-pacific-stage-2-lr1",
+        "team1": "ZETA DIVISION",
+        "team2": "Xipto Esports",
+        "team1_odds": "1.78",
+        "team2_odds": "1.94",
         "status": "pending"
     }
 }
