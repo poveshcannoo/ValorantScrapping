@@ -7,14 +7,6 @@
         "team2_odds": "1.24",
         "status": "pending"
     },
-    "729748": {
-        "url": "https://www.vlr.gg/729748/g2-esports-vs-furia-vct-2026-americas-stage-2-ubqf",
-        "team1": "G2 Esports",
-        "team2": "FURIA",
-        "team1_odds": "1.35",
-        "team2_odds": "2.95",
-        "status": "pending"
-    },
     "729749": {
         "url": "https://www.vlr.gg/729749/evil-geniuses-vs-cloud9-vct-2026-americas-stage-2-ubqf",
         "team1": "Evil Geniuses",
@@ -101,6 +93,14 @@
         "team2": "Habos Babos",
         "team1_odds": "1.25",
         "team2_odds": "3.44",
+        "status": "pending"
+    },
+    "729753": {
+        "url": "https://www.vlr.gg/729753/g2-esports-vs-m80-vct-2026-americas-stage-2-lr1",
+        "team1": "G2 Esports",
+        "team2": "M80",
+        "team1_odds": "1.23",
+        "team2_odds": "3.81",
         "status": "pending"
     }
 }
