@@ -1,12 +1,4 @@
 {
-    "735387": {
-        "url": "https://www.vlr.gg/735387/cloud9-gc-vs-sen-otters-game-changers-2026-north-america-stage-2-swiss-stage-r7-3-3",
-        "team1": "Cloud9 GC",
-        "team2": "SEN Otters",
-        "team1_odds": "2.22",
-        "team2_odds": "1.58",
-        "status": "pending"
-    },
     "735388": {
         "url": "https://www.vlr.gg/735388/mvsk-secret-vs-3-game-changers-2026-north-america-stage-2-swiss-stage-r7-3-3",
         "team1": "MVSK Secret",
@@ -125,6 +117,14 @@
         "team2": "FUT Esports",
         "team1_odds": "1.78",
         "team2_odds": "1.96",
+        "status": "pending"
+    },
+    "731397": {
+        "url": "https://www.vlr.gg/731397/team-vitality-vs-enterprise-esports-vct-2026-emea-stage-2-ur1",
+        "team1": "Team Vitality",
+        "team2": "Enterprise Esports",
+        "team1_odds": "1.33",
+        "team2_odds": "3.09",
         "status": "pending"
     }
 }
