@@ -1,12 +1,4 @@
 {
-    "732791": {
-        "url": "https://www.vlr.gg/732791/giantx-gc-vs-sk-nebula-game-changers-2026-emea-stage-3-ubsf",
-        "team1": "GIANTX GC",
-        "team2": "SK Nebula",
-        "team1_odds": "3.55",
-        "team2_odds": "1.24",
-        "status": "pending"
-    },
     "729749": {
         "url": "https://www.vlr.gg/729749/evil-geniuses-vs-cloud9-vct-2026-americas-stage-2-ubqf",
         "team1": "Evil Geniuses",
@@ -101,6 +93,46 @@
         "team2": "M80",
         "team1_odds": "1.23",
         "team2_odds": "3.81",
+        "status": "pending"
+    },
+    "732796": {
+        "url": "https://www.vlr.gg/732796/giantx-gc-vs-fokus-sakura-game-changers-2026-emea-stage-3-lr2",
+        "team1": "GIANTX GC",
+        "team2": "FOKUS Sakura",
+        "team1_odds": "2.17",
+        "team2_odds": "1.60",
+        "status": "pending"
+    },
+    "731776": {
+        "url": "https://www.vlr.gg/731776/gato-pensante-vs-7ven-stars-game-changers-2026-brazil-finals-lr1",
+        "team1": "GATO PENSANTE",
+        "team2": "7VEN STARS",
+        "team1_odds": "2.94",
+        "team2_odds": "1.36",
+        "status": "pending"
+    },
+    "731777": {
+        "url": "https://www.vlr.gg/731777/evils-of-delusion-vs-arashi-gc-game-changers-2026-brazil-finals-lr1",
+        "team1": "Evils of Delusion",
+        "team2": "Arashi GC",
+        "team1_odds": "2.42",
+        "team2_odds": "1.51",
+        "status": "pending"
+    },
+    "732792": {
+        "url": "https://www.vlr.gg/732792/gentle-mates-gc-vs-sk-nebula-game-changers-2026-emea-stage-3-ubf",
+        "team1": "Gentle Mates GC",
+        "team2": "SK Nebula",
+        "team1_odds": "1.53",
+        "team2_odds": "2.30",
+        "status": "pending"
+    },
+    "731772": {
+        "url": "https://www.vlr.gg/731772/mibr-gc-vs-ushiras-game-changers-2026-brazil-finals-ubsf",
+        "team1": "MIBR GC",
+        "team2": "Ushiras",
+        "team1_odds": "1.03",
+        "team2_odds": "9.40",
         "status": "pending"
     }
 }
