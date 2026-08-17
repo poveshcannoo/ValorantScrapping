@@ -87,14 +87,6 @@
         "team2_odds": "3.81",
         "status": "pending"
     },
-    "732796": {
-        "url": "https://www.vlr.gg/732796/giantx-gc-vs-fokus-sakura-game-changers-2026-emea-stage-3-lr2",
-        "team1": "GIANTX GC",
-        "team2": "FOKUS Sakura",
-        "team1_odds": "2.17",
-        "team2_odds": "1.60",
-        "status": "pending"
-    },
     "731776": {
         "url": "https://www.vlr.gg/731776/gato-pensante-vs-7ven-stars-game-changers-2026-brazil-finals-lr1",
         "team1": "GATO PENSANTE",
@@ -133,6 +125,14 @@
         "team2": "BESTIA",
         "team1_odds": "1.12",
         "team2_odds": "5.53",
+        "status": "pending"
+    },
+    "730547": {
+        "url": "https://www.vlr.gg/730547/detonation-focusme-vs-qt-dig-vct-2026-pacific-stage-2-lr1",
+        "team1": "DetonatioN FocusMe",
+        "team2": "QT DIG\u221e",
+        "team1_odds": "1.58",
+        "team2_odds": "2.25",
         "status": "pending"
     }
 }
