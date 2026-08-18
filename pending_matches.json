@@ -23,14 +23,6 @@
         "team2_odds": "2.36",
         "status": "pending"
     },
-    "730329": {
-        "url": "https://www.vlr.gg/730329/looking-for-laburo-vs-npc-team-game-changers-2026-latam-main-event-lbf",
-        "team1": "Looking For Laburo",
-        "team2": "NPC TEAM",
-        "team1_odds": "1.06",
-        "team2_odds": "6.89",
-        "status": "pending"
-    },
     "730545": {
         "url": "https://www.vlr.gg/730545/team-secret-vs-onside-gaming-vct-2026-pacific-stage-2-lr1",
         "team1": "Team Secret",
@@ -125,6 +117,22 @@
         "team2": "Enterprise Esports",
         "team1_odds": "1.33",
         "team2_odds": "3.09",
+        "status": "pending"
+    },
+    "732798": {
+        "url": "https://www.vlr.gg/732798/fokus-sakura-vs-g2-gozen-game-changers-2026-emea-stage-3-lr3",
+        "team1": "FOKUS Sakura",
+        "team2": "G2 Gozen",
+        "team1_odds": "2.38",
+        "team2_odds": "1.51",
+        "status": "pending"
+    },
+    "729754": {
+        "url": "https://www.vlr.gg/729754/sentinels-vs-2game-esports-vct-2026-americas-stage-2-lr1",
+        "team1": "Sentinels",
+        "team2": "2Game Esports",
+        "team1_odds": "1.33",
+        "team2_odds": "3.13",
         "status": "pending"
     }
 }
