@@ -1,12 +1,4 @@
 {
-    "735388": {
-        "url": "https://www.vlr.gg/735388/mvsk-secret-vs-3-game-changers-2026-north-america-stage-2-swiss-stage-r7-3-3",
-        "team1": "MVSK Secret",
-        "team2": ":3",
-        "team1_odds": "2.10",
-        "team2_odds": "1.65",
-        "status": "pending"
-    },
     "731773": {
         "url": "https://www.vlr.gg/731773/team-liquid-brazil-vs-evil-geniuses-gc-game-changers-2026-brazil-finals-ubsf",
         "team1": "Team Liquid Brazil",
@@ -133,6 +125,14 @@
         "team2": "2Game Esports",
         "team1_odds": "1.33",
         "team2_odds": "3.13",
+        "status": "pending"
+    },
+    "729755": {
+        "url": "https://www.vlr.gg/729755/kr-esports-vs-fluxo-w7m-vct-2026-americas-stage-2-lr1",
+        "team1": "KR\u00dc Esports",
+        "team2": "Fluxo W7M",
+        "team1_odds": "1.34",
+        "team2_odds": "3.05",
         "status": "pending"
     }
 }
