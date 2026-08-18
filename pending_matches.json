@@ -103,14 +103,6 @@
         "team2_odds": "3.09",
         "status": "pending"
     },
-    "732798": {
-        "url": "https://www.vlr.gg/732798/fokus-sakura-vs-g2-gozen-game-changers-2026-emea-stage-3-lr3",
-        "team1": "FOKUS Sakura",
-        "team2": "G2 Gozen",
-        "team1_odds": "2.38",
-        "team2_odds": "1.51",
-        "status": "pending"
-    },
     "729754": {
         "url": "https://www.vlr.gg/729754/sentinels-vs-2game-esports-vct-2026-americas-stage-2-lr1",
         "team1": "Sentinels",
@@ -125,6 +117,14 @@
         "team2": "Fluxo W7M",
         "team1_odds": "1.34",
         "team2_odds": "3.05",
+        "status": "pending"
+    },
+    "730543": {
+        "url": "https://www.vlr.gg/730543/kiwoom-drx-vs-sharper-esports-vct-2026-pacific-stage-2-ubsf",
+        "team1": "KIWOOM DRX",
+        "team2": "Sharper Esports",
+        "team1_odds": "1.59",
+        "team2_odds": "2.26",
         "status": "pending"
     }
 }
