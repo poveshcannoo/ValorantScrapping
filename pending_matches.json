@@ -7,14 +7,6 @@
         "team2_odds": "2.23",
         "status": "pending"
     },
-    "730546": {
-        "url": "https://www.vlr.gg/730546/full-sense-vs-rex-regum-qeon-vct-2026-pacific-stage-2-lr1",
-        "team1": "FULL SENSE",
-        "team2": "Rex Regum Qeon",
-        "team1_odds": "1.79",
-        "team2_odds": "1.93",
-        "status": "pending"
-    },
     "729753": {
         "url": "https://www.vlr.gg/729753/g2-esports-vs-m80-vct-2026-americas-stage-2-lr1",
         "team1": "G2 Esports",
@@ -117,6 +109,14 @@
         "team2": "All Gamers",
         "team1_odds": "2.01",
         "team2_odds": "1.72",
+        "status": "pending"
+    },
+    "729751": {
+        "url": "https://www.vlr.gg/729751/furia-vs-evil-geniuses-vct-2026-americas-stage-2-ubsf",
+        "team1": "FURIA",
+        "team2": "Evil Geniuses",
+        "team1_odds": "1.82",
+        "team2_odds": "1.91",
         "status": "pending"
     }
 }
