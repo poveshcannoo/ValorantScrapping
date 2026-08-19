@@ -1,12 +1,4 @@
 {
-    "731773": {
-        "url": "https://www.vlr.gg/731773/team-liquid-brazil-vs-evil-geniuses-gc-game-changers-2026-brazil-finals-ubsf",
-        "team1": "Team Liquid Brazil",
-        "team2": "Evil Geniuses GC",
-        "team1_odds": "1.17",
-        "team2_odds": "4.46",
-        "status": "pending"
-    },
     "724642": {
         "url": "https://www.vlr.gg/724642/tyloo-vs-jd-gaming-vct-2026-china-stage-2-ubsf",
         "team1": "TYLOO",
@@ -53,14 +45,6 @@
         "team2": "M80",
         "team1_odds": "1.23",
         "team2_odds": "3.81",
-        "status": "pending"
-    },
-    "731772": {
-        "url": "https://www.vlr.gg/731772/mibr-gc-vs-ushiras-game-changers-2026-brazil-finals-ubsf",
-        "team1": "MIBR GC",
-        "team2": "Ushiras",
-        "team1_odds": "1.03",
-        "team2_odds": "9.40",
         "status": "pending"
     },
     "729752": {
@@ -125,6 +109,14 @@
         "team2": "Sharper Esports",
         "team1_odds": "1.59",
         "team2_odds": "2.26",
+        "status": "pending"
+    },
+    "730544": {
+        "url": "https://www.vlr.gg/730544/t1-vs-nongshim-redforce-vct-2026-pacific-stage-2-ubsf",
+        "team1": "T1",
+        "team2": "Nongshim RedForce",
+        "team1_odds": "1.85",
+        "team2_odds": "1.89",
         "status": "pending"
     }
 }
