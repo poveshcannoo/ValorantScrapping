@@ -110,5 +110,13 @@
         "team1_odds": "1.85",
         "team2_odds": "1.89",
         "status": "pending"
+    },
+    "732799": {
+        "url": "https://www.vlr.gg/732799/sk-nebula-vs-g2-gozen-game-changers-2026-emea-stage-3-lbf",
+        "team1": "SK Nebula",
+        "team2": "G2 Gozen",
+        "team1_odds": "2.19",
+        "team2_odds": "1.58",
+        "status": "pending"
     }
 }
