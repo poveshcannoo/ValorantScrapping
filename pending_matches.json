@@ -79,14 +79,6 @@
         "team2_odds": "1.89",
         "status": "pending"
     },
-    "732799": {
-        "url": "https://www.vlr.gg/732799/sk-nebula-vs-g2-gozen-game-changers-2026-emea-stage-3-lbf",
-        "team1": "SK Nebula",
-        "team2": "G2 Gozen",
-        "team1_odds": "2.19",
-        "team2_odds": "1.58",
-        "status": "pending"
-    },
     "729750": {
         "url": "https://www.vlr.gg/729750/mibr-vs-envy-vct-2026-americas-stage-2-ubsf",
         "team1": "MIBR",
@@ -125,6 +117,14 @@
         "team2": "Guangzhou Huadu Bilibili Gaming\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Bilibili Gaming)",
         "team1_odds": "2.15",
         "team2_odds": "1.64",
+        "status": "pending"
+    },
+    "730549": {
+        "url": "https://www.vlr.gg/730549/onside-gaming-vs-full-sense-vct-2026-pacific-stage-2-lr2",
+        "team1": "ONSIDE GAMING",
+        "team2": "FULL SENSE",
+        "team1_odds": "2.47",
+        "team2_odds": "1.49",
         "status": "pending"
     }
 }
