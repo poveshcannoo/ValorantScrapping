@@ -1,12 +1,4 @@
 {
-    "724642": {
-        "url": "https://www.vlr.gg/724642/tyloo-vs-jd-gaming-vct-2026-china-stage-2-ubsf",
-        "team1": "TYLOO",
-        "team2": "JD Gaming",
-        "team1_odds": "1.54",
-        "team2_odds": "2.36",
-        "status": "pending"
-    },
     "724643": {
         "url": "https://www.vlr.gg/724643/xi-lai-gaming-vs-bilibili-gaming-vct-2026-china-stage-2-ubsf",
         "team1": "Xi Lai Gaming",
@@ -109,6 +101,14 @@
         "team2": "G2 Gozen",
         "team1_odds": "2.19",
         "team2_odds": "1.58",
+        "status": "pending"
+    },
+    "729750": {
+        "url": "https://www.vlr.gg/729750/mibr-vs-envy-vct-2026-americas-stage-2-ubsf",
+        "team1": "MIBR",
+        "team2": "ENVY",
+        "team1_odds": "1.21",
+        "team2_odds": "4.20",
         "status": "pending"
     }
 }
