@@ -1,12 +1,4 @@
 {
-    "730547": {
-        "url": "https://www.vlr.gg/730547/detonation-focusme-vs-qt-dig-vct-2026-pacific-stage-2-lr1",
-        "team1": "DetonatioN FocusMe",
-        "team2": "QT DIG\u221e",
-        "team1_odds": "1.58",
-        "team2_odds": "2.25",
-        "status": "pending"
-    },
     "730548": {
         "url": "https://www.vlr.gg/730548/zeta-division-vs-xipto-esports-vct-2026-pacific-stage-2-lr1",
         "team1": "ZETA DIVISION",
@@ -101,6 +93,14 @@
         "team2": "FULL SENSE",
         "team1_odds": "2.47",
         "team2_odds": "1.49",
+        "status": "pending"
+    },
+    "729756": {
+        "url": "https://www.vlr.gg/729756/bestia-vs-g2-esports-vct-2026-americas-stage-2-lr2",
+        "team1": "BESTIA",
+        "team2": "G2 Esports",
+        "team1_odds": "3.48",
+        "team2_odds": "1.27",
         "status": "pending"
     }
 }
