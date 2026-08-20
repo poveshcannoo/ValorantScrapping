@@ -110,5 +110,13 @@
         "team1_odds": "1.73",
         "team2_odds": "2.00",
         "status": "pending"
+    },
+    "731402": {
+        "url": "https://www.vlr.gg/731402/team-liquid-vs-eintracht-frankfurt-vct-2026-emea-stage-2-lr1",
+        "team1": "Team Liquid",
+        "team2": "Eintracht Frankfurt",
+        "team1_odds": "1.49",
+        "team2_odds": "2.47",
+        "status": "pending"
     }
 }
