@@ -94,5 +94,13 @@
         "team1_odds": "3.48",
         "team2_odds": "1.27",
         "status": "pending"
+    },
+    "724650": {
+        "url": "https://www.vlr.gg/724650/nova-esports-vs-tyloo-vct-2026-china-stage-2-lr3",
+        "team1": "Nova Esports",
+        "team2": "TYLOO",
+        "team1_odds": "1.84",
+        "team2_odds": "1.87",
+        "status": "pending"
     }
 }
