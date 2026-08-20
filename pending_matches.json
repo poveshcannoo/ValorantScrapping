@@ -1,12 +1,4 @@
 {
-    "730548": {
-        "url": "https://www.vlr.gg/730548/zeta-division-vs-xipto-esports-vct-2026-pacific-stage-2-lr1",
-        "team1": "ZETA DIVISION",
-        "team2": "Xipto Esports",
-        "team1_odds": "1.78",
-        "team2_odds": "1.94",
-        "status": "pending"
-    },
     "731396": {
         "url": "https://www.vlr.gg/731396/team-liquid-vs-fut-esports-vct-2026-emea-stage-2-ur1",
         "team1": "Team Liquid",
@@ -101,6 +93,14 @@
         "team2": "TYLOO",
         "team1_odds": "1.84",
         "team2_odds": "1.87",
+        "status": "pending"
+    },
+    "730550": {
+        "url": "https://www.vlr.gg/730550/detonation-focusme-vs-zeta-division-vct-2026-pacific-stage-2-lr2",
+        "team1": "DetonatioN FocusMe",
+        "team2": "ZETA DIVISION",
+        "team1_odds": "1.49",
+        "team2_odds": "2.54",
         "status": "pending"
     }
 }
