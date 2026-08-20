@@ -94,5 +94,21 @@
         "team1_odds": "1.49",
         "team2_odds": "2.54",
         "status": "pending"
+    },
+    "731399": {
+        "url": "https://www.vlr.gg/731399/karmine-corp-vs-enterprise-esports-vct-2026-emea-stage-2-ubsf",
+        "team1": "Karmine Corp",
+        "team2": "Enterprise Esports",
+        "team1_odds": "1.67",
+        "team2_odds": "2.09",
+        "status": "pending"
+    },
+    "731403": {
+        "url": "https://www.vlr.gg/731403/team-vitality-vs-fire-flux-esports-vct-2026-emea-stage-2-lr1",
+        "team1": "Team Vitality",
+        "team2": "Fire Flux Esports",
+        "team1_odds": "1.28",
+        "team2_odds": "3.39",
+        "status": "pending"
     }
 }
