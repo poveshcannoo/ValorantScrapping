@@ -102,5 +102,13 @@
         "team1_odds": "1.49",
         "team2_odds": "2.47",
         "status": "pending"
+    },
+    "729757": {
+        "url": "https://www.vlr.gg/729757/sentinels-vs-kr-esports-vct-2026-americas-stage-2-lr2",
+        "team1": "Sentinels",
+        "team2": "KR\u00dc Esports",
+        "team1_odds": "1.49",
+        "team2_odds": "2.47",
+        "status": "pending"
     }
 }
