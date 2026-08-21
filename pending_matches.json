@@ -39,14 +39,6 @@
         "team2_odds": "1.27",
         "status": "pending"
     },
-    "724650": {
-        "url": "https://www.vlr.gg/724650/nova-esports-vs-tyloo-vct-2026-china-stage-2-lr3",
-        "team1": "Nova Esports",
-        "team2": "TYLOO",
-        "team1_odds": "1.84",
-        "team2_odds": "1.87",
-        "status": "pending"
-    },
     "730550": {
         "url": "https://www.vlr.gg/730550/detonation-focusme-vs-zeta-division-vct-2026-pacific-stage-2-lr2",
         "team1": "DetonatioN FocusMe",
@@ -93,6 +85,22 @@
         "team2": "KR\u00dc Esports",
         "team1_odds": "1.49",
         "team2_odds": "2.47",
+        "status": "pending"
+    },
+    "724651": {
+        "url": "https://www.vlr.gg/724651/bilibili-gaming-vs-tyloo-vct-2026-china-stage-2-lbf",
+        "team1": "Guangzhou Huadu Bilibili Gaming\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Bilibili Gaming)",
+        "team2": "TYLOO",
+        "team1_odds": "2.04",
+        "team2_odds": "1.70",
+        "status": "pending"
+    },
+    "730327": {
+        "url": "https://www.vlr.gg/730327/kr-blaze-vs-looking-for-laburo-game-changers-2026-latam-main-event-gf",
+        "team1": "KR\u00dc BLAZE",
+        "team2": "Looking For Laburo",
+        "team1_odds": "1.22",
+        "team2_odds": "3.81",
         "status": "pending"
     }
 }
