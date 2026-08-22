@@ -78,5 +78,21 @@
         "team1_odds": "1.33",
         "team2_odds": "3.08",
         "status": "pending"
+    },
+    "731778": {
+        "url": "https://www.vlr.gg/731778/evil-geniuses-gc-vs-7ven-stars-game-changers-2026-brazil-finals-lr2",
+        "team1": "Evil Geniuses GC",
+        "team2": "7VEN STARS",
+        "team1_odds": "1.31",
+        "team2_odds": "3.25",
+        "status": "pending"
+    },
+    "731779": {
+        "url": "https://www.vlr.gg/731779/ushiras-vs-arashi-gc-game-changers-2026-brazil-finals-lr2",
+        "team1": "Ushiras",
+        "team2": "Arashi GC",
+        "team1_odds": "2.54",
+        "team2_odds": "1.47",
+        "status": "pending"
     }
 }
