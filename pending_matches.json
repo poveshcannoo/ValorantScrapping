@@ -1,12 +1,4 @@
 {
-    "730549": {
-        "url": "https://www.vlr.gg/730549/onside-gaming-vs-full-sense-vct-2026-pacific-stage-2-lr2",
-        "team1": "ONSIDE GAMING",
-        "team2": "FULL SENSE",
-        "team1_odds": "2.47",
-        "team2_odds": "1.49",
-        "status": "pending"
-    },
     "729756": {
         "url": "https://www.vlr.gg/729756/bestia-vs-g2-esports-vct-2026-americas-stage-2-lr2",
         "team1": "BESTIA",
@@ -69,6 +61,14 @@
         "team2": "FUSION X",
         "team1_odds": "1.05",
         "team2_odds": "7.43",
+        "status": "pending"
+    },
+    "731400": {
+        "url": "https://www.vlr.gg/731400/fut-esports-vs-karmine-corp-vct-2026-emea-stage-2-ubf",
+        "team1": "FUT Esports",
+        "team2": "Karmine Corp",
+        "team1_odds": "1.86",
+        "team2_odds": "1.90",
         "status": "pending"
     }
 }
