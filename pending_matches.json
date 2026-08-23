@@ -70,5 +70,13 @@
         "team1_odds": "1.65",
         "team2_odds": "2.12",
         "status": "pending"
+    },
+    "731407": {
+        "url": "https://www.vlr.gg/731407/team-liquid-vs-fire-flux-esports-vct-2026-emea-stage-2-lr3",
+        "team1": "Team Liquid",
+        "team2": "Fire Flux Esports",
+        "team1_odds": "1.71",
+        "team2_odds": "2.03",
+        "status": "pending"
     }
 }
