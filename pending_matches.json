@@ -70,5 +70,21 @@
         "team1_odds": "2.47",
         "team2_odds": "1.49",
         "status": "pending"
+    },
+    "742476": {
+        "url": "https://www.vlr.gg/742476/paper-rex-vs-nongshim-redforce-vct-2026-pacific-stage-2-ur1",
+        "team1": "Paper Rex",
+        "team2": "Nongshim RedForce",
+        "team1_odds": "1.84",
+        "team2_odds": "1.87",
+        "status": "pending"
+    },
+    "742477": {
+        "url": "https://www.vlr.gg/742477/global-esports-vs-kiwoom-drx-vct-2026-pacific-stage-2-ur1",
+        "team1": "Global Esports",
+        "team2": "KIWOOM DRX",
+        "team1_odds": "1.65",
+        "team2_odds": "2.12",
+        "status": "pending"
     }
 }
