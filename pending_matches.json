@@ -70,5 +70,13 @@
         "team1_odds": "1.49",
         "team2_odds": "2.47",
         "status": "pending"
+    },
+    "734302": {
+        "url": "https://www.vlr.gg/734302/loud-vs-furia-vct-2026-americas-stage-2-ur1",
+        "team1": "LOUD",
+        "team2": "FURIA",
+        "team1_odds": "2.06",
+        "team2_odds": "1.69",
+        "status": "pending"
     }
 }
