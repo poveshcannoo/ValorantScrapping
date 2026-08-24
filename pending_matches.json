@@ -62,5 +62,13 @@
         "team1_odds": "1.71",
         "team2_odds": "2.03",
         "status": "pending"
+    },
+    "734303": {
+        "url": "https://www.vlr.gg/734303/leviat-n-vs-mibr-vct-2026-americas-stage-2-ur1",
+        "team1": "LEVIAT\u00c1N",
+        "team2": "MIBR",
+        "team1_odds": "1.49",
+        "team2_odds": "2.47",
+        "status": "pending"
     }
 }
