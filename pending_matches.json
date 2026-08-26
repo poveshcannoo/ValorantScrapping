@@ -54,5 +54,21 @@
         "team1_odds": "1.60",
         "team2_odds": "2.22",
         "status": "pending"
+    },
+    "742479": {
+        "url": "https://www.vlr.gg/742479/varrel-vs-global-esports-vct-2026-pacific-stage-2-ubsf",
+        "team1": "VARREL",
+        "team2": "Global Esports",
+        "team1_odds": "1.98",
+        "team2_odds": "1.75",
+        "status": "pending"
+    },
+    "742483": {
+        "url": "https://www.vlr.gg/742483/kiwoom-drx-vs-t1-vct-2026-pacific-stage-2-lr1",
+        "team1": "KIWOOM DRX",
+        "team2": "T1",
+        "team1_odds": "3.25",
+        "team2_odds": "1.30",
+        "status": "pending"
     }
 }
