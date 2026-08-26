@@ -46,5 +46,13 @@
         "team1_odds": "1.90",
         "team2_odds": "1.79",
         "status": "pending"
+    },
+    "742482": {
+        "url": "https://www.vlr.gg/742482/paper-rex-vs-onside-gaming-vct-2026-pacific-stage-2-lr1",
+        "team1": "Paper Rex",
+        "team2": "ONSIDE GAMING",
+        "team1_odds": "1.28",
+        "team2_odds": "3.37",
+        "status": "pending"
     }
 }
