@@ -23,22 +23,6 @@
         "team2_odds": "1.79",
         "status": "pending"
     },
-    "742482": {
-        "url": "https://www.vlr.gg/742482/paper-rex-vs-onside-gaming-vct-2026-pacific-stage-2-lr1",
-        "team1": "Paper Rex",
-        "team2": "ONSIDE GAMING",
-        "team1_odds": "1.28",
-        "team2_odds": "3.37",
-        "status": "pending"
-    },
-    "742483": {
-        "url": "https://www.vlr.gg/742483/kiwoom-drx-vs-t1-vct-2026-pacific-stage-2-lr1",
-        "team1": "KIWOOM DRX",
-        "team2": "T1",
-        "team1_odds": "3.25",
-        "team2_odds": "1.30",
-        "status": "pending"
-    },
     "734304": {
         "url": "https://www.vlr.gg/734304/nrg-vs-loud-vct-2026-americas-stage-2-ubsf",
         "team1": "NRG",
@@ -69,6 +53,30 @@
         "team2": "Evil Geniuses",
         "team1_odds": "1.29",
         "team2_odds": "3.45",
+        "status": "pending"
+    },
+    "742484": {
+        "url": "https://www.vlr.gg/742484/varrel-vs-paper-rex-vct-2026-pacific-stage-2-lr2",
+        "team1": "VARREL",
+        "team2": "Paper Rex",
+        "team1_odds": "3.85",
+        "team2_odds": "1.24",
+        "status": "pending"
+    },
+    "742485": {
+        "url": "https://www.vlr.gg/742485/gen-g-vs-t1-vct-2026-pacific-stage-2-lr2",
+        "team1": "Gen.G",
+        "team2": "T1",
+        "team1_odds": "2.02",
+        "team2_odds": "1.76",
+        "status": "pending"
+    },
+    "742480": {
+        "url": "https://www.vlr.gg/742480/nongshim-redforce-vs-global-esports-vct-2026-pacific-stage-2-ubf",
+        "team1": "Nongshim RedForce",
+        "team2": "Global Esports",
+        "team1_odds": "1.56",
+        "team2_odds": "2.30",
         "status": "pending"
     }
 }
