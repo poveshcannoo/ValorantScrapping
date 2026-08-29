@@ -31,14 +31,6 @@
         "team2_odds": "2.30",
         "status": "pending"
     },
-    "731408": {
-        "url": "https://www.vlr.gg/731408/fut-esports-vs-team-liquid-vct-2026-emea-stage-2-lbf",
-        "team1": "FUT Esports",
-        "team2": "Team Liquid",
-        "team1_odds": "2.07",
-        "team2_odds": "1.68",
-        "status": "pending"
-    },
     "734307": {
         "url": "https://www.vlr.gg/734307/nrg-vs-100-thieves-vct-2026-americas-stage-2-ubf",
         "team1": "NRG",
@@ -53,6 +45,14 @@
         "team2": "T1",
         "team1_odds": "2.99",
         "team2_odds": "1.35",
+        "status": "pending"
+    },
+    "731401": {
+        "url": "https://www.vlr.gg/731401/karmine-corp-vs-team-liquid-vct-2026-emea-stage-2-gf",
+        "team1": "Karmine Corp",
+        "team2": "Team Liquid",
+        "team1_odds": "1.95",
+        "team2_odds": "1.78",
         "status": "pending"
     }
 }
