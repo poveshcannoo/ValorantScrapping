@@ -23,14 +23,6 @@
         "team2_odds": "3.45",
         "status": "pending"
     },
-    "742485": {
-        "url": "https://www.vlr.gg/742485/gen-g-vs-t1-vct-2026-pacific-stage-2-lr2",
-        "team1": "Gen.G",
-        "team2": "T1",
-        "team1_odds": "2.02",
-        "team2_odds": "1.76",
-        "status": "pending"
-    },
     "742480": {
         "url": "https://www.vlr.gg/742480/nongshim-redforce-vs-global-esports-vct-2026-pacific-stage-2-ubf",
         "team1": "Nongshim RedForce",
@@ -53,6 +45,14 @@
         "team2": "100 Thieves",
         "team1_odds": "1.86",
         "team2_odds": "1.86",
+        "status": "pending"
+    },
+    "742486": {
+        "url": "https://www.vlr.gg/742486/varrel-vs-t1-vct-2026-pacific-stage-2-lr3",
+        "team1": "VARREL",
+        "team2": "T1",
+        "team1_odds": "2.99",
+        "team2_odds": "1.35",
         "status": "pending"
     }
 }
