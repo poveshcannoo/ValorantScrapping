@@ -7,22 +7,6 @@
         "team2_odds": "1.79",
         "status": "pending"
     },
-    "734304": {
-        "url": "https://www.vlr.gg/734304/nrg-vs-loud-vct-2026-americas-stage-2-ubsf",
-        "team1": "NRG",
-        "team2": "LOUD",
-        "team1_odds": "1.17",
-        "team2_odds": "4.80",
-        "status": "pending"
-    },
-    "734305": {
-        "url": "https://www.vlr.gg/734305/100-thieves-vs-leviat-n-vct-2026-americas-stage-2-ubsf",
-        "team1": "100 Thieves",
-        "team2": "LEVIAT\u00c1N",
-        "team1_odds": "2.72",
-        "team2_odds": "1.44",
-        "status": "pending"
-    },
     "734309": {
         "url": "https://www.vlr.gg/734309/furia-vs-g2-esports-vct-2026-americas-stage-2-lr1",
         "team1": "FURIA",
@@ -69,6 +53,14 @@
         "team2": "Team Liquid",
         "team1_odds": "2.07",
         "team2_odds": "1.68",
+        "status": "pending"
+    },
+    "734307": {
+        "url": "https://www.vlr.gg/734307/nrg-vs-100-thieves-vct-2026-americas-stage-2-ubf",
+        "team1": "NRG",
+        "team2": "100 Thieves",
+        "team1_odds": "1.86",
+        "team2_odds": "1.86",
         "status": "pending"
     }
 }
