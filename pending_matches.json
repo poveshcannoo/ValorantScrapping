@@ -7,14 +7,6 @@
         "team2_odds": "1.79",
         "status": "pending"
     },
-    "734310": {
-        "url": "https://www.vlr.gg/734310/mibr-vs-evil-geniuses-vct-2026-americas-stage-2-lr1",
-        "team1": "MIBR",
-        "team2": "Evil Geniuses",
-        "team1_odds": "1.29",
-        "team2_odds": "3.45",
-        "status": "pending"
-    },
     "742480": {
         "url": "https://www.vlr.gg/742480/nongshim-redforce-vs-global-esports-vct-2026-pacific-stage-2-ubf",
         "team1": "Nongshim RedForce",
@@ -53,6 +45,14 @@
         "team2": "G2 Esports",
         "team1_odds": "1.66",
         "team2_odds": "2.11",
+        "status": "pending"
+    },
+    "734312": {
+        "url": "https://www.vlr.gg/734312/loud-vs-mibr-vct-2026-americas-stage-2-lr2",
+        "team1": "LOUD",
+        "team2": "MIBR",
+        "team1_odds": "2.59",
+        "team2_odds": "1.45",
         "status": "pending"
     }
 }
