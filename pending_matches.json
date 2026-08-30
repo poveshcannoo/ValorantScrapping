@@ -54,5 +54,37 @@
         "team1_odds": "2.59",
         "team2_odds": "1.45",
         "status": "pending"
+    },
+    "724895": {
+        "url": "https://www.vlr.gg/724895/flyquest-red-vs-mvsk-secret-game-changers-2026-north-america-stage-2-playoffs-ubqf",
+        "team1": "FlyQuest RED",
+        "team2": "MVSK Secret",
+        "team1_odds": "1.07",
+        "team2_odds": "6.66",
+        "status": "pending"
+    },
+    "724896": {
+        "url": "https://www.vlr.gg/724896/the-spiders-vs-axolotl-game-changers-2026-north-america-stage-2-playoffs-ubqf",
+        "team1": "The Spiders",
+        "team2": "Axolotl",
+        "team1_odds": "2.19",
+        "team2_odds": "1.59",
+        "status": "pending"
+    },
+    "724897": {
+        "url": "https://www.vlr.gg/724897/swimtrek-blue-vs-cloud9-gc-game-changers-2026-north-america-stage-2-playoffs-ubqf",
+        "team1": "SwimTrek Blue",
+        "team2": "Cloud9 GC",
+        "team1_odds": "1.22",
+        "team2_odds": "3.75",
+        "status": "pending"
+    },
+    "724898": {
+        "url": "https://www.vlr.gg/724898/shopify-rebellion-gold-vs-himmers-game-changers-2026-north-america-stage-2-playoffs-ubqf",
+        "team1": "Shopify Rebellion Gold",
+        "team2": "HIMMERS",
+        "team1_odds": "1.23",
+        "team2_odds": "3.65",
+        "status": "pending"
     }
 }
