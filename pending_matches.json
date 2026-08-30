@@ -7,14 +7,6 @@
         "team2_odds": "1.79",
         "status": "pending"
     },
-    "734309": {
-        "url": "https://www.vlr.gg/734309/furia-vs-g2-esports-vct-2026-americas-stage-2-lr1",
-        "team1": "FURIA",
-        "team2": "G2 Esports",
-        "team1_odds": "4.10",
-        "team2_odds": "1.22",
-        "status": "pending"
-    },
     "734310": {
         "url": "https://www.vlr.gg/734310/mibr-vs-evil-geniuses-vct-2026-americas-stage-2-lr1",
         "team1": "MIBR",
@@ -53,6 +45,14 @@
         "team2": "Team Liquid",
         "team1_odds": "1.95",
         "team2_odds": "1.78",
+        "status": "pending"
+    },
+    "734311": {
+        "url": "https://www.vlr.gg/734311/leviat-n-vs-g2-esports-vct-2026-americas-stage-2-lr2",
+        "team1": "LEVIAT\u00c1N",
+        "team2": "G2 Esports",
+        "team1_odds": "1.66",
+        "team2_odds": "2.11",
         "status": "pending"
     }
 }
