@@ -62,5 +62,13 @@
         "team1_odds": "1.40",
         "team2_odds": "2.88",
         "status": "pending"
+    },
+    "747657": {
+        "url": "https://www.vlr.gg/747657/glacial-guardians-vs-cgn-esports-the-pokal-2026-ubqf",
+        "team1": "Glacial Guardians",
+        "team2": "CGN Esports",
+        "team1_odds": "4.72",
+        "team2_odds": "1.13",
+        "status": "pending"
     }
 }
