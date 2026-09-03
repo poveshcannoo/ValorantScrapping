@@ -63,22 +63,6 @@
         "team2_odds": "3.44",
         "status": "pending"
     },
-    "724899": {
-        "url": "https://www.vlr.gg/724899/flyquest-red-vs-axolotl-game-changers-2026-north-america-stage-2-playoffs-ubsf",
-        "team1": "FlyQuest RED",
-        "team2": "Axolotl",
-        "team1_odds": "1.29",
-        "team2_odds": "3.23",
-        "status": "pending"
-    },
-    "724903": {
-        "url": "https://www.vlr.gg/724903/mvsk-secret-vs-the-spiders-game-changers-2026-north-america-stage-2-playoffs-lr1",
-        "team1": "MVSK Secret",
-        "team2": "The Spiders",
-        "team1_odds": "3.33",
-        "team2_odds": "1.27",
-        "status": "pending"
-    },
     "724900": {
         "url": "https://www.vlr.gg/724900/swimtrek-blue-vs-shopify-rebellion-gold-game-changers-2026-north-america-stage-2-playoffs-ubsf",
         "team1": "SwimTrek Blue",
@@ -109,6 +93,30 @@
         "team2": "A Team",
         "team1_odds": "1.23",
         "team2_odds": "3.90",
+        "status": "pending"
+    },
+    "747658": {
+        "url": "https://www.vlr.gg/747658/alternate-attax-vs-rizon-the-pokal-2026-ubqf",
+        "team1": "ALTERNATE aTTaX",
+        "team2": "RIZON",
+        "team1_odds": "1.97",
+        "team2_odds": "1.69",
+        "status": "pending"
+    },
+    "748625": {
+        "url": "https://www.vlr.gg/748625/all-gamers-vs-jd-gaming-china-evolution-series-2026-act-3-ro16",
+        "team1": "All Gamers",
+        "team2": "JD Gaming",
+        "team1_odds": "2.34",
+        "team2_odds": "1.51",
+        "status": "pending"
+    },
+    "748626": {
+        "url": "https://www.vlr.gg/748626/dragon-ranger-gaming-vs-any-questions-gaming-china-evolution-series-2026-act-3-ro16",
+        "team1": "Dragon Ranger Gaming",
+        "team2": "Any Questions Gaming",
+        "team1_odds": "1.42",
+        "team2_odds": "2.59",
         "status": "pending"
     }
 }
