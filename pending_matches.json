@@ -31,22 +31,6 @@
         "team2_odds": "2.88",
         "status": "pending"
     },
-    "748619": {
-        "url": "https://www.vlr.gg/748619/bilibili-gaming-vs-xi-lai-gaming-china-evolution-series-2026-act-3-ro16",
-        "team1": "Guangzhou Huadu Bilibili Gaming\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Bilibili Gaming)",
-        "team2": "Xi Lai Gaming",
-        "team1_odds": "1.14",
-        "team2_odds": "5.20",
-        "status": "pending"
-    },
-    "748620": {
-        "url": "https://www.vlr.gg/748620/wolves-esports-vs-keepbest-gaming-china-evolution-series-2026-act-3-ro16",
-        "team1": "Wolves Esports",
-        "team2": "KeepBest Gaming",
-        "team1_odds": "1.57",
-        "team2_odds": "2.21",
-        "status": "pending"
-    },
     "748621": {
         "url": "https://www.vlr.gg/748621/titan-esports-club-vs-tyloo-china-evolution-series-2026-act-3-ro16",
         "team1": "Wuxi Titan Esports Club\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Titan Esports Club)",
@@ -117,6 +101,14 @@
         "team2": "HIMMERS",
         "team1_odds": "1.50",
         "team2_odds": "2.37",
+        "status": "pending"
+    },
+    "724901": {
+        "url": "https://www.vlr.gg/724901/flyquest-red-vs-shopify-rebellion-gold-game-changers-2026-north-america-stage-2-playoffs-ubf",
+        "team1": "FlyQuest RED",
+        "team2": "Shopify Rebellion Gold",
+        "team1_odds": "2.51",
+        "team2_odds": "1.45",
         "status": "pending"
     }
 }
