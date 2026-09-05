@@ -54,5 +54,13 @@
         "team1_odds": "4.08",
         "team2_odds": "1.19",
         "status": "pending"
+    },
+    "748628": {
+        "url": "https://www.vlr.gg/748628/titan-esports-club-vs-unsettled-resentment-china-evolution-series-2026-act-3-qf",
+        "team1": "Wuxi Titan Esports Club\t\t\t\t\t\t\n\t\t\t\t\t\t\t(Titan Esports Club)",
+        "team2": "Unsettled Resentment",
+        "team1_odds": "1.36",
+        "team2_odds": "2.83",
+        "status": "pending"
     }
 }
