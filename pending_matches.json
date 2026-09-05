@@ -1,12 +1,4 @@
 {
-    "748623": {
-        "url": "https://www.vlr.gg/748623/nova-esports-vs-edward-gaming-china-evolution-series-2026-act-3-ro16",
-        "team1": "Nova Esports",
-        "team2": "EDward Gaming",
-        "team1_odds": "1.75",
-        "team2_odds": "1.93",
-        "status": "pending"
-    },
     "748624": {
         "url": "https://www.vlr.gg/748624/funplus-phoenix-vs-a-team-china-evolution-series-2026-act-3-ro16",
         "team1": "FunPlus Phoenix",
@@ -47,20 +39,20 @@
         "team2_odds": "1.30",
         "status": "pending"
     },
-    "742487": {
-        "url": "https://www.vlr.gg/742487/global-esports-vs-t1-vct-2026-pacific-stage-2-lbf",
-        "team1": "Global Esports",
-        "team2": "T1",
-        "team1_odds": "2.10",
-        "team2_odds": "1.67",
-        "status": "pending"
-    },
     "734314": {
         "url": "https://www.vlr.gg/734314/nrg-vs-loud-vct-2026-americas-stage-2-lbf",
         "team1": "NRG",
         "team2": "LOUD",
         "team1_odds": "1.73",
         "team2_odds": "2.00",
+        "status": "pending"
+    },
+    "742481": {
+        "url": "https://www.vlr.gg/742481/nongshim-redforce-vs-global-esports-vct-2026-pacific-stage-2-gf",
+        "team1": "Nongshim RedForce",
+        "team2": "Global Esports",
+        "team1_odds": "1.46",
+        "team2_odds": "2.56",
         "status": "pending"
     }
 }
