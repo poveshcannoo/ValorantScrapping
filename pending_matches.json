@@ -54,5 +54,13 @@
         "team1_odds": "1.65",
         "team2_odds": "2.08",
         "status": "pending"
+    },
+    "724907": {
+        "url": "https://www.vlr.gg/724907/the-spiders-vs-himmers-game-changers-2026-north-america-stage-2-playoffs-lr3",
+        "team1": "The Spiders",
+        "team2": "HIMMERS",
+        "team1_odds": "2.47",
+        "team2_odds": "1.47",
+        "status": "pending"
     }
 }
