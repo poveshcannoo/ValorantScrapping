@@ -38,5 +38,13 @@
         "team1_odds": "2.42",
         "team2_odds": "1.51",
         "status": "pending"
+    },
+    "748631": {
+        "url": "https://www.vlr.gg/748631/keepbest-gaming-vs-unsettled-resentment-china-evolution-series-2026-act-3-sf",
+        "team1": "KeepBest Gaming",
+        "team2": "Unsettled Resentment",
+        "team1_odds": "2.02",
+        "team2_odds": "1.69",
+        "status": "pending"
     }
 }
