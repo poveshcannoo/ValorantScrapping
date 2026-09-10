@@ -1,12 +1,4 @@
 {
-    "748629": {
-        "url": "https://www.vlr.gg/748629/nova-esports-vs-funplus-phoenix-china-evolution-series-2026-act-3-qf",
-        "team1": "Nova Esports",
-        "team2": "FunPlus Phoenix",
-        "team1_odds": "4.08",
-        "team2_odds": "1.19",
-        "status": "pending"
-    },
     "748630": {
         "url": "https://www.vlr.gg/748630/jd-gaming-vs-any-questions-gaming-china-evolution-series-2026-act-3-qf",
         "team1": "JD Gaming",
@@ -29,6 +21,14 @@
         "team2": "Unsettled Resentment",
         "team1_odds": "2.02",
         "team2_odds": "1.69",
+        "status": "pending"
+    },
+    "731782": {
+        "url": "https://www.vlr.gg/731782/mibr-gc-vs-evil-geniuses-gc-game-changers-2026-brazil-finals-lbf",
+        "team1": "MIBR GC",
+        "team2": "Evil Geniuses GC",
+        "team1_odds": "1.16",
+        "team2_odds": "4.60",
         "status": "pending"
     }
 }
