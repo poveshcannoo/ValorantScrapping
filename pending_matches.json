@@ -22,5 +22,13 @@
         "team1_odds": "1.35",
         "team2_odds": "3.00",
         "status": "pending"
+    },
+    "748634": {
+        "url": "https://www.vlr.gg/748634/unsettled-resentment-vs-any-questions-gaming-china-evolution-series-2026-act-3-cf",
+        "team1": "Unsettled Resentment",
+        "team2": "Any Questions Gaming",
+        "team1_odds": "2.26",
+        "team2_odds": "1.55",
+        "status": "pending"
     }
 }
