@@ -22,5 +22,13 @@
         "team1_odds": "1.37",
         "team2_odds": "2.80",
         "status": "pending"
+    },
+    "731775": {
+        "url": "https://www.vlr.gg/731775/team-liquid-brazil-vs-evil-geniuses-gc-game-changers-2026-brazil-finals-gf",
+        "team1": "Team Liquid Brazil",
+        "team2": "Evil Geniuses GC",
+        "team1_odds": "1.12",
+        "team2_odds": "5.10",
+        "status": "pending"
     }
 }
