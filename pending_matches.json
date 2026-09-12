@@ -22,5 +22,13 @@
         "team1_odds": "2.26",
         "team2_odds": "1.55",
         "status": "pending"
+    },
+    "743596": {
+        "url": "https://www.vlr.gg/743596/gen-g-gc-vs-rising-esports-gc-game-changers-2026-pacific-ubqf",
+        "team1": "Gen.G GC",
+        "team2": "Rising Esports GC",
+        "team1_odds": "1.27",
+        "team2_odds": "3.18",
+        "status": "pending"
     }
 }
