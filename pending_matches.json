@@ -7,14 +7,6 @@
         "team2_odds": "1.51",
         "status": "pending"
     },
-    "731775": {
-        "url": "https://www.vlr.gg/731775/team-liquid-brazil-vs-evil-geniuses-gc-game-changers-2026-brazil-finals-gf",
-        "team1": "Team Liquid Brazil",
-        "team2": "Evil Geniuses GC",
-        "team1_odds": "1.12",
-        "team2_odds": "5.10",
-        "status": "pending"
-    },
     "748634": {
         "url": "https://www.vlr.gg/748634/unsettled-resentment-vs-any-questions-gaming-china-evolution-series-2026-act-3-cf",
         "team1": "Unsettled Resentment",
@@ -29,6 +21,22 @@
         "team2": "Rising Esports GC",
         "team1_odds": "1.27",
         "team2_odds": "3.18",
+        "status": "pending"
+    },
+    "748633": {
+        "url": "https://www.vlr.gg/748633/keepbest-gaming-vs-funplus-phoenix-china-evolution-series-2026-act-3-gf",
+        "team1": "KeepBest Gaming",
+        "team2": "FunPlus Phoenix",
+        "team1_odds": "2.68",
+        "team2_odds": "1.41",
+        "status": "pending"
+    },
+    "753455": {
+        "url": "https://www.vlr.gg/753455/team-liquid-vs-paper-rex-valorant-champions-2026-opening-c",
+        "team1": "Team Liquid",
+        "team2": "Paper Rex",
+        "team1_odds": "2.58",
+        "team2_odds": "1.46",
         "status": "pending"
     }
 }
