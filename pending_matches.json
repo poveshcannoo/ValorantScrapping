@@ -22,5 +22,13 @@
         "team1_odds": "2.58",
         "team2_odds": "1.46",
         "status": "pending"
+    },
+    "743597": {
+        "url": "https://www.vlr.gg/743597/fennel-gc-vs-wiwiwi-game-changers-2026-pacific-ubqf",
+        "team1": "FENNEL GC",
+        "team2": "wiwiwi",
+        "team1_odds": "1.10",
+        "team2_odds": "6.00",
+        "status": "pending"
     }
 }
