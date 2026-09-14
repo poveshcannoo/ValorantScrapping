@@ -6,5 +6,29 @@
         "team1_odds": "2.58",
         "team2_odds": "1.46",
         "status": "pending"
+    },
+    "743598": {
+        "url": "https://www.vlr.gg/743598/team-falcons-vega-vs-swaglord9000-game-changers-2026-pacific-ubqf",
+        "team1": "Team Falcons Vega",
+        "team2": "swaglord9000",
+        "team1_odds": "1.10",
+        "team2_odds": "5.60",
+        "status": "pending"
+    },
+    "743599": {
+        "url": "https://www.vlr.gg/743599/full-sense-sisu-vs-sasanqua-game-changers-2026-pacific-ubqf",
+        "team1": "FULL SENSE SISU",
+        "team2": "Sasanqua",
+        "team1_odds": "1.13",
+        "team2_odds": "5.00",
+        "status": "pending"
+    },
+    "743600": {
+        "url": "https://www.vlr.gg/743600/gen-g-gc-vs-fennel-gc-game-changers-2026-pacific-ubsf",
+        "team1": "Gen.G GC",
+        "team2": "FENNEL GC",
+        "team1_odds": "1.61",
+        "team2_odds": "2.14",
+        "status": "pending"
     }
 }
