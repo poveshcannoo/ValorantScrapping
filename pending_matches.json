@@ -7,14 +7,6 @@
         "team2_odds": "1.46",
         "status": "pending"
     },
-    "743600": {
-        "url": "https://www.vlr.gg/743600/gen-g-gc-vs-fennel-gc-game-changers-2026-pacific-ubsf",
-        "team1": "Gen.G GC",
-        "team2": "FENNEL GC",
-        "team1_odds": "1.61",
-        "team2_odds": "2.14",
-        "status": "pending"
-    },
     "724902": {
         "url": "https://www.vlr.gg/724902/shopify-rebellion-gold-vs-flyquest-red-game-changers-2026-north-america-stage-2-playoffs-gf",
         "team1": "Shopify Rebellion Gold",
@@ -29,6 +21,22 @@
         "team2": "FULL SENSE SISU",
         "team1_odds": "1.15",
         "team2_odds": "4.56",
+        "status": "pending"
+    },
+    "743605": {
+        "url": "https://www.vlr.gg/743605/swaglord9000-vs-sasanqua-game-changers-2026-pacific-lr1",
+        "team1": "swaglord9000",
+        "team2": "Sasanqua",
+        "team1_odds": "1.15",
+        "team2_odds": "4.63",
+        "status": "pending"
+    },
+    "753454": {
+        "url": "https://www.vlr.gg/753454/tyloo-vs-g2-esports-valorant-champions-2026-opening-c",
+        "team1": "TYLOO",
+        "team2": "G2 Esports",
+        "team1_odds": "3.25",
+        "team2_odds": "1.32",
         "status": "pending"
     }
 }
