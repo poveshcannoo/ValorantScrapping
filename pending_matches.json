@@ -30,5 +30,13 @@
         "team1_odds": "1.61",
         "team2_odds": "2.14",
         "status": "pending"
+    },
+    "724902": {
+        "url": "https://www.vlr.gg/724902/shopify-rebellion-gold-vs-flyquest-red-game-changers-2026-north-america-stage-2-playoffs-gf",
+        "team1": "Shopify Rebellion Gold",
+        "team2": "FlyQuest RED",
+        "team1_odds": "1.48",
+        "team2_odds": "2.43",
+        "status": "pending"
     }
 }
