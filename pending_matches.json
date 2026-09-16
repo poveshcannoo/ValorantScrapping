@@ -15,14 +15,6 @@
         "team2_odds": "2.43",
         "status": "pending"
     },
-    "743601": {
-        "url": "https://www.vlr.gg/743601/team-falcons-vega-vs-full-sense-sisu-game-changers-2026-pacific-ubsf",
-        "team1": "Team Falcons Vega",
-        "team2": "FULL SENSE SISU",
-        "team1_odds": "1.15",
-        "team2_odds": "4.56",
-        "status": "pending"
-    },
     "743605": {
         "url": "https://www.vlr.gg/743605/swaglord9000-vs-sasanqua-game-changers-2026-pacific-lr1",
         "team1": "swaglord9000",
@@ -37,6 +29,30 @@
         "team2": "G2 Esports",
         "team1_odds": "3.25",
         "team2_odds": "1.32",
+        "status": "pending"
+    },
+    "743604": {
+        "url": "https://www.vlr.gg/743604/rising-esports-gc-vs-wiwiwi-game-changers-2026-pacific-lr1",
+        "team1": "Rising Esports GC",
+        "team2": "wiwiwi",
+        "team1_odds": "4.80",
+        "team2_odds": "1.15",
+        "status": "pending"
+    },
+    "743602": {
+        "url": "https://www.vlr.gg/743602/fennel-gc-vs-team-falcons-vega-game-changers-2026-pacific-ubf",
+        "team1": "FENNEL GC",
+        "team2": "Team Falcons Vega",
+        "team1_odds": "3.22",
+        "team2_odds": "1.29",
+        "status": "pending"
+    },
+    "753460": {
+        "url": "https://www.vlr.gg/753460/nongshim-redforce-vs-nrg-valorant-champions-2026-opening-d",
+        "team1": "Nongshim RedForce",
+        "team2": "NRG",
+        "team1_odds": "1.86",
+        "team2_odds": "1.86",
         "status": "pending"
     }
 }
