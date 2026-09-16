@@ -15,28 +15,12 @@
         "team2_odds": "2.43",
         "status": "pending"
     },
-    "743605": {
-        "url": "https://www.vlr.gg/743605/swaglord9000-vs-sasanqua-game-changers-2026-pacific-lr1",
-        "team1": "swaglord9000",
-        "team2": "Sasanqua",
-        "team1_odds": "1.15",
-        "team2_odds": "4.63",
-        "status": "pending"
-    },
     "753454": {
         "url": "https://www.vlr.gg/753454/tyloo-vs-g2-esports-valorant-champions-2026-opening-c",
         "team1": "TYLOO",
         "team2": "G2 Esports",
         "team1_odds": "3.25",
         "team2_odds": "1.32",
-        "status": "pending"
-    },
-    "743604": {
-        "url": "https://www.vlr.gg/743604/rising-esports-gc-vs-wiwiwi-game-changers-2026-pacific-lr1",
-        "team1": "Rising Esports GC",
-        "team2": "wiwiwi",
-        "team1_odds": "4.80",
-        "team2_odds": "1.15",
         "status": "pending"
     },
     "743602": {
@@ -53,6 +37,30 @@
         "team2": "NRG",
         "team1_odds": "1.86",
         "team2_odds": "1.86",
+        "status": "pending"
+    },
+    "753459": {
+        "url": "https://www.vlr.gg/753459/karmine-corp-vs-xi-lai-gaming-valorant-champions-2026-opening-d",
+        "team1": "Karmine Corp",
+        "team2": "Xi Lai Gaming",
+        "team1_odds": "1.28",
+        "team2_odds": "3.50",
+        "status": "pending"
+    },
+    "753449": {
+        "url": "https://www.vlr.gg/753449/global-esports-vs-team-vitality-valorant-champions-2026-opening-b",
+        "team1": "Global Esports",
+        "team2": "Team Vitality",
+        "team1_odds": "1.98",
+        "team2_odds": "1.76",
+        "status": "pending"
+    },
+    "753450": {
+        "url": "https://www.vlr.gg/753450/loud-vs-edward-gaming-valorant-champions-2026-opening-b",
+        "team1": "LOUD",
+        "team2": "EDward Gaming",
+        "team1_odds": "1.46",
+        "team2_odds": "2.59",
         "status": "pending"
     }
 }
