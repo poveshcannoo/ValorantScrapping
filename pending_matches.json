@@ -63,14 +63,6 @@
         "team2_odds": "2.59",
         "status": "pending"
     },
-    "743606": {
-        "url": "https://www.vlr.gg/743606/full-sense-sisu-vs-wiwiwi-game-changers-2026-pacific-lr2",
-        "team1": "FULL SENSE SISU",
-        "team2": "wiwiwi",
-        "team1_odds": "1.91",
-        "team2_odds": "1.81",
-        "status": "pending"
-    },
     "743607": {
         "url": "https://www.vlr.gg/743607/gen-g-gc-vs-swaglord9000-game-changers-2026-pacific-lr2",
         "team1": "Gen.G GC",
@@ -85,6 +77,14 @@
         "team2": "T1",
         "team1_odds": "1.40",
         "team2_odds": "2.79",
+        "status": "pending"
+    },
+    "753445": {
+        "url": "https://www.vlr.gg/753445/jd-gaming-vs-fut-esports-valorant-champions-2026-opening-a",
+        "team1": "JD Gaming",
+        "team2": "FUT Esports",
+        "team1_odds": "3.25",
+        "team2_odds": "1.32",
         "status": "pending"
     }
 }
