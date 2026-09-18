@@ -15,14 +15,6 @@
         "team2_odds": "1.32",
         "status": "pending"
     },
-    "743602": {
-        "url": "https://www.vlr.gg/743602/fennel-gc-vs-team-falcons-vega-game-changers-2026-pacific-ubf",
-        "team1": "FENNEL GC",
-        "team2": "Team Falcons Vega",
-        "team1_odds": "3.22",
-        "team2_odds": "1.29",
-        "status": "pending"
-    },
     "753460": {
         "url": "https://www.vlr.gg/753460/nongshim-redforce-vs-nrg-valorant-champions-2026-opening-d",
         "team1": "Nongshim RedForce",
@@ -77,6 +69,14 @@
         "team2": "Gen.G GC",
         "team1_odds": "2.70",
         "team2_odds": "1.39",
+        "status": "pending"
+    },
+    "755376": {
+        "url": "https://www.vlr.gg/755376/victory-no-limits-gaming-gc-vs-nova-esports-gc-game-changers-2026-china-lr3",
+        "team1": "Victory No Limits Gaming GC",
+        "team2": "Nova Esports GC",
+        "team1_odds": "4.61",
+        "team2_odds": "1.15",
         "status": "pending"
     }
 }
