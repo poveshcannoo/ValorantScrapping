@@ -63,20 +63,12 @@
         "team2_odds": "1.32",
         "status": "pending"
     },
-    "743608": {
-        "url": "https://www.vlr.gg/743608/full-sense-sisu-vs-gen-g-gc-game-changers-2026-pacific-lr3",
-        "team1": "FULL SENSE SISU",
+    "743609": {
+        "url": "https://www.vlr.gg/743609/team-falcons-vega-vs-gen-g-gc-game-changers-2026-pacific-lbf",
+        "team1": "Team Falcons Vega",
         "team2": "Gen.G GC",
-        "team1_odds": "2.70",
-        "team2_odds": "1.39",
-        "status": "pending"
-    },
-    "755376": {
-        "url": "https://www.vlr.gg/755376/victory-no-limits-gaming-gc-vs-nova-esports-gc-game-changers-2026-china-lr3",
-        "team1": "Victory No Limits Gaming GC",
-        "team2": "Nova Esports GC",
-        "team1_odds": "4.61",
-        "team2_odds": "1.15",
+        "team1_odds": "1.37",
+        "team2_odds": "2.78",
         "status": "pending"
     }
 }
