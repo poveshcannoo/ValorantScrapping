@@ -1,20 +1,4 @@
 {
-    "753455": {
-        "url": "https://www.vlr.gg/753455/team-liquid-vs-paper-rex-valorant-champions-2026-opening-c",
-        "team1": "Team Liquid",
-        "team2": "Paper Rex",
-        "team1_odds": "2.58",
-        "team2_odds": "1.46",
-        "status": "pending"
-    },
-    "753454": {
-        "url": "https://www.vlr.gg/753454/tyloo-vs-g2-esports-valorant-champions-2026-opening-c",
-        "team1": "TYLOO",
-        "team2": "G2 Esports",
-        "team1_odds": "3.25",
-        "team2_odds": "1.32",
-        "status": "pending"
-    },
     "753460": {
         "url": "https://www.vlr.gg/753460/nongshim-redforce-vs-nrg-valorant-champions-2026-opening-d",
         "team1": "Nongshim RedForce",
@@ -61,6 +45,22 @@
         "team2": "FUT Esports",
         "team1_odds": "3.25",
         "team2_odds": "1.32",
+        "status": "pending"
+    },
+    "753456": {
+        "url": "https://www.vlr.gg/753456/g2-esports-vs-paper-rex-valorant-champions-2026-winners-c",
+        "team1": "G2 Esports",
+        "team2": "Paper Rex",
+        "team1_odds": "2.21",
+        "team2_odds": "1.60",
+        "status": "pending"
+    },
+    "753457": {
+        "url": "https://www.vlr.gg/753457/tyloo-vs-team-liquid-valorant-champions-2026-elim-c",
+        "team1": "TYLOO",
+        "team2": "Team Liquid",
+        "team1_odds": "3.44",
+        "team2_odds": "1.27",
         "status": "pending"
     }
 }
