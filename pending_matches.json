@@ -1,20 +1,4 @@
 {
-    "753460": {
-        "url": "https://www.vlr.gg/753460/nongshim-redforce-vs-nrg-valorant-champions-2026-opening-d",
-        "team1": "Nongshim RedForce",
-        "team2": "NRG",
-        "team1_odds": "1.86",
-        "team2_odds": "1.86",
-        "status": "pending"
-    },
-    "753459": {
-        "url": "https://www.vlr.gg/753459/karmine-corp-vs-xi-lai-gaming-valorant-champions-2026-opening-d",
-        "team1": "Karmine Corp",
-        "team2": "Xi Lai Gaming",
-        "team1_odds": "1.28",
-        "team2_odds": "3.50",
-        "status": "pending"
-    },
     "753449": {
         "url": "https://www.vlr.gg/753449/global-esports-vs-team-vitality-valorant-champions-2026-opening-b",
         "team1": "Global Esports",
@@ -61,6 +45,22 @@
         "team2": "Team Liquid",
         "team1_odds": "3.44",
         "team2_odds": "1.27",
+        "status": "pending"
+    },
+    "753461": {
+        "url": "https://www.vlr.gg/753461/karmine-corp-vs-nrg-valorant-champions-2026-winners-d",
+        "team1": "Karmine Corp",
+        "team2": "NRG",
+        "team1_odds": "2.35",
+        "team2_odds": "1.54",
+        "status": "pending"
+    },
+    "753462": {
+        "url": "https://www.vlr.gg/753462/xi-lai-gaming-vs-nongshim-redforce-valorant-champions-2026-elim-d",
+        "team1": "Xi Lai Gaming",
+        "team2": "Nongshim RedForce",
+        "team1_odds": "5.50",
+        "team2_odds": "1.12",
         "status": "pending"
     }
 }
