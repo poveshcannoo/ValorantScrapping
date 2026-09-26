@@ -1,20 +1,4 @@
 {
-    "753449": {
-        "url": "https://www.vlr.gg/753449/global-esports-vs-team-vitality-valorant-champions-2026-opening-b",
-        "team1": "Global Esports",
-        "team2": "Team Vitality",
-        "team1_odds": "1.98",
-        "team2_odds": "1.76",
-        "status": "pending"
-    },
-    "753450": {
-        "url": "https://www.vlr.gg/753450/loud-vs-edward-gaming-valorant-champions-2026-opening-b",
-        "team1": "LOUD",
-        "team2": "EDward Gaming",
-        "team1_odds": "1.46",
-        "team2_odds": "2.59",
-        "status": "pending"
-    },
     "753444": {
         "url": "https://www.vlr.gg/753444/100-thieves-vs-t1-valorant-champions-2026-opening-a",
         "team1": "100 Thieves",
@@ -61,6 +45,22 @@
         "team2": "Nongshim RedForce",
         "team1_odds": "5.50",
         "team2_odds": "1.12",
+        "status": "pending"
+    },
+    "753451": {
+        "url": "https://www.vlr.gg/753451/team-vitality-vs-loud-valorant-champions-2026-winners-b",
+        "team1": "Team Vitality",
+        "team2": "LOUD",
+        "team1_odds": "2.16",
+        "team2_odds": "1.63",
+        "status": "pending"
+    },
+    "753452": {
+        "url": "https://www.vlr.gg/753452/global-esports-vs-edward-gaming-valorant-champions-2026-elim-b",
+        "team1": "Global Esports",
+        "team2": "EDward Gaming",
+        "team1_odds": "1.30",
+        "team2_odds": "3.24",
         "status": "pending"
     }
 }
