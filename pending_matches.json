@@ -1,20 +1,4 @@
 {
-    "753444": {
-        "url": "https://www.vlr.gg/753444/100-thieves-vs-t1-valorant-champions-2026-opening-a",
-        "team1": "100 Thieves",
-        "team2": "T1",
-        "team1_odds": "1.40",
-        "team2_odds": "2.79",
-        "status": "pending"
-    },
-    "753445": {
-        "url": "https://www.vlr.gg/753445/jd-gaming-vs-fut-esports-valorant-champions-2026-opening-a",
-        "team1": "JD Gaming",
-        "team2": "FUT Esports",
-        "team1_odds": "3.25",
-        "team2_odds": "1.32",
-        "status": "pending"
-    },
     "753456": {
         "url": "https://www.vlr.gg/753456/g2-esports-vs-paper-rex-valorant-champions-2026-winners-c",
         "team1": "G2 Esports",
@@ -61,6 +45,22 @@
         "team2": "EDward Gaming",
         "team1_odds": "1.30",
         "team2_odds": "3.24",
+        "status": "pending"
+    },
+    "753446": {
+        "url": "https://www.vlr.gg/753446/100-thieves-vs-fut-esports-valorant-champions-2026-winners-a",
+        "team1": "100 Thieves",
+        "team2": "FUT Esports",
+        "team1_odds": "1.38",
+        "team2_odds": "2.82",
+        "status": "pending"
+    },
+    "753447": {
+        "url": "https://www.vlr.gg/753447/t1-vs-jd-gaming-valorant-champions-2026-elim-a",
+        "team1": "T1",
+        "team2": "JD Gaming",
+        "team1_odds": "1.14",
+        "team2_odds": "5.40",
         "status": "pending"
     }
 }
