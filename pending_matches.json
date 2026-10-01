@@ -1,12 +1,4 @@
 {
-    "753462": {
-        "url": "https://www.vlr.gg/753462/xi-lai-gaming-vs-nongshim-redforce-valorant-champions-2026-elim-d",
-        "team1": "Xi Lai Gaming",
-        "team2": "Nongshim RedForce",
-        "team1_odds": "5.50",
-        "team2_odds": "1.12",
-        "status": "pending"
-    },
     "753452": {
         "url": "https://www.vlr.gg/753452/global-esports-vs-edward-gaming-valorant-champions-2026-elim-b",
         "team1": "Global Esports",
@@ -29,6 +21,14 @@
         "team2": "Team Liquid",
         "team1_odds": "1.73",
         "team2_odds": "2.01",
+        "status": "pending"
+    },
+    "753463": {
+        "url": "https://www.vlr.gg/753463/karmine-corp-vs-nongshim-redforce-valorant-champions-2026-decider-d",
+        "team1": "Karmine Corp",
+        "team2": "Nongshim RedForce",
+        "team1_odds": "1.70",
+        "team2_odds": "2.05",
         "status": "pending"
     }
 }
