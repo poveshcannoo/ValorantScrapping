@@ -1,20 +1,4 @@
 {
-    "753452": {
-        "url": "https://www.vlr.gg/753452/global-esports-vs-edward-gaming-valorant-champions-2026-elim-b",
-        "team1": "Global Esports",
-        "team2": "EDward Gaming",
-        "team1_odds": "1.30",
-        "team2_odds": "3.24",
-        "status": "pending"
-    },
-    "753447": {
-        "url": "https://www.vlr.gg/753447/t1-vs-jd-gaming-valorant-champions-2026-elim-a",
-        "team1": "T1",
-        "team2": "JD Gaming",
-        "team1_odds": "1.14",
-        "team2_odds": "5.40",
-        "status": "pending"
-    },
     "753458": {
         "url": "https://www.vlr.gg/753458/g2-esports-vs-team-liquid-valorant-champions-2026-decider-c",
         "team1": "G2 Esports",
@@ -29,6 +13,22 @@
         "team2": "Nongshim RedForce",
         "team1_odds": "1.70",
         "team2_odds": "2.05",
+        "status": "pending"
+    },
+    "753453": {
+        "url": "https://www.vlr.gg/753453/loud-vs-global-esports-valorant-champions-2026-decider-b",
+        "team1": "LOUD",
+        "team2": "Global Esports",
+        "team1_odds": "1.80",
+        "team2_odds": "1.92",
+        "status": "pending"
+    },
+    "753448": {
+        "url": "https://www.vlr.gg/753448/fut-esports-vs-t1-valorant-champions-2026-decider-a",
+        "team1": "FUT Esports",
+        "team2": "T1",
+        "team1_odds": "1.80",
+        "team2_odds": "1.92",
         "status": "pending"
     }
 }
