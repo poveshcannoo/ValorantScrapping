@@ -7,28 +7,28 @@
         "team2_odds": "2.00",
         "status": "pending"
     },
-    "754732": {
-        "url": "https://www.vlr.gg/754732/nrg-vs-t1-valorant-champions-2026-ubqf",
-        "team1": "NRG",
-        "team2": "T1",
-        "team1_odds": "1.54",
-        "team2_odds": "2.33",
-        "status": "pending"
-    },
-    "754733": {
-        "url": "https://www.vlr.gg/754733/paper-rex-vs-loud-valorant-champions-2026-ubqf",
-        "team1": "Paper Rex",
-        "team2": "LOUD",
-        "team1_odds": "1.80",
-        "team2_odds": "1.92",
-        "status": "pending"
-    },
     "754730": {
         "url": "https://www.vlr.gg/754730/100-thieves-vs-g2-esports-valorant-champions-2026-ubqf",
         "team1": "100 Thieves",
         "team2": "G2 Esports",
         "team1_odds": "1.51",
         "team2_odds": "2.42",
+        "status": "pending"
+    },
+    "754739": {
+        "url": "https://www.vlr.gg/754739/t1-vs-paper-rex-valorant-champions-2026-lr1",
+        "team1": "T1",
+        "team2": "Paper Rex",
+        "team1_odds": "2.46",
+        "team2_odds": "1.52",
+        "status": "pending"
+    },
+    "754735": {
+        "url": "https://www.vlr.gg/754735/nrg-vs-loud-valorant-champions-2026-ubsf",
+        "team1": "NRG",
+        "team2": "LOUD",
+        "team1_odds": "1.79",
+        "team2_odds": "1.93",
         "status": "pending"
     }
 }
