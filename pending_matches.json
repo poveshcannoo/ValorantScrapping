@@ -14,5 +14,29 @@
         "team1_odds": "1.57",
         "team2_odds": "2.26",
         "status": "pending"
+    },
+    "766309": {
+        "url": "https://www.vlr.gg/766309/flyquest-red-vs-akave-esports-gc-game-changers-2026-americas-last-chance-qualifier-rr",
+        "team1": "FlyQuest RED",
+        "team2": "Akave Esports GC",
+        "team1_odds": "1.57",
+        "team2_odds": "2.21",
+        "status": "pending"
+    },
+    "766310": {
+        "url": "https://www.vlr.gg/766310/flyquest-red-vs-mibr-gc-game-changers-2026-americas-last-chance-qualifier-rr",
+        "team1": "FlyQuest RED",
+        "team2": "MIBR GC",
+        "team1_odds": "2.08",
+        "team2_odds": "1.65",
+        "status": "pending"
+    },
+    "766311": {
+        "url": "https://www.vlr.gg/766311/akave-esports-gc-vs-mibr-gc-game-changers-2026-americas-last-chance-qualifier-rr",
+        "team1": "Akave Esports GC",
+        "team2": "MIBR GC",
+        "team1_odds": "2.72",
+        "team2_odds": "1.38",
+        "status": "pending"
     }
 }
