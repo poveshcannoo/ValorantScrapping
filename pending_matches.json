@@ -1,12 +1,4 @@
 {
-    "754743": {
-        "url": "https://www.vlr.gg/754743/team-vitality-vs-100-thieves-valorant-champions-2026-lbf",
-        "team1": "Team Vitality",
-        "team2": "100 Thieves",
-        "team1_odds": "2.40",
-        "team2_odds": "1.55",
-        "status": "pending"
-    },
     "773427": {
         "url": "https://www.vlr.gg/773427/fennel-gc-vs-mibr-gc-game-changers-2026-championship-s-o-paulo-ur1",
         "team1": "FENNEL GC",
@@ -37,6 +29,14 @@
         "team2": "Gen.G GC",
         "team1_odds": "1.40",
         "team2_odds": "2.72",
+        "status": "pending"
+    },
+    "754737": {
+        "url": "https://www.vlr.gg/754737/loud-vs-team-vitality-valorant-champions-2026-gf",
+        "team1": "LOUD",
+        "team2": "Team Vitality",
+        "team1_odds": "1.68",
+        "team2_odds": "2.08",
         "status": "pending"
     }
 }
