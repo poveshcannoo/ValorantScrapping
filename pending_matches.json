@@ -46,5 +46,21 @@
         "team1_odds": "2.22",
         "team2_odds": "1.60",
         "status": "pending"
+    },
+    "777919": {
+        "url": "https://www.vlr.gg/777919/cgn-esports-vs-joblife-project-blender-2026-group-a",
+        "team1": "CGN Esports",
+        "team2": "Joblife",
+        "team1_odds": "2.70",
+        "team2_odds": "1.42",
+        "status": "pending"
+    },
+    "777920": {
+        "url": "https://www.vlr.gg/777920/eintracht-frankfurt-vs-habos-babos-project-blender-2026-group-a",
+        "team1": "Eintracht Frankfurt",
+        "team2": "Habos Babos",
+        "team1_odds": "1.13",
+        "team2_odds": "5.00",
+        "status": "pending"
     }
 }
