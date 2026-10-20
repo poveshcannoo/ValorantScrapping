@@ -62,5 +62,53 @@
         "team1_odds": "1.13",
         "team2_odds": "5.00",
         "status": "pending"
+    },
+    "777944": {
+        "url": "https://www.vlr.gg/777944/wolves-esports-vs-a-team-vct-china-2026-threshold-week-1-ro12",
+        "team1": "Wolves Esports",
+        "team2": "A Team",
+        "team1_odds": "1.45",
+        "team2_odds": "2.60",
+        "status": "pending"
+    },
+    "777945": {
+        "url": "https://www.vlr.gg/777945/any-questions-gaming-vs-world-sports-invictus-gaming-vct-china-2026-threshold-week-1-ro12",
+        "team1": "Any Questions Gaming",
+        "team2": "World Sports Invictus Gaming",
+        "team1_odds": "1.38",
+        "team2_odds": "2.80",
+        "status": "pending"
+    },
+    "777942": {
+        "url": "https://www.vlr.gg/777942/unsettled-resentment-vs-octagonal-disposition-gaming-vct-china-2026-threshold-week-1-ro12",
+        "team1": "Unsettled Resentment",
+        "team2": "Octagonal Disposition Gaming",
+        "team1_odds": "1.85",
+        "team2_odds": "1.85",
+        "status": "pending"
+    },
+    "777943": {
+        "url": "https://www.vlr.gg/777943/dragon-ranger-gaming-vs-rare-atom-vct-china-2026-threshold-week-1-ro12",
+        "team1": "Dragon Ranger Gaming",
+        "team2": "Rare Atom",
+        "team1_odds": "1.32",
+        "team2_odds": "3.20",
+        "status": "pending"
+    },
+    "777925": {
+        "url": "https://www.vlr.gg/777925/team-george-vs-natus-vincere-project-blender-2026-group-b",
+        "team1": "TEAM GEORGE",
+        "team2": "Natus Vincere",
+        "team1_odds": "3.30",
+        "team2_odds": "1.28",
+        "status": "pending"
+    },
+    "777926": {
+        "url": "https://www.vlr.gg/777926/eternal-fire-vs-blezz-project-blender-2026-group-b",
+        "team1": "Eternal Fire",
+        "team2": "Blezz",
+        "team1_odds": "1.22",
+        "team2_odds": "3.80",
+        "status": "pending"
     }
 }
