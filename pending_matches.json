@@ -30,5 +30,21 @@
         "team1_odds": "1.40",
         "team2_odds": "2.72",
         "status": "pending"
+    },
+    "772431": {
+        "url": "https://www.vlr.gg/772431/fut-esports-vs-fire-flux-esports-monsters-reloaded-2026-main-event-sf",
+        "team1": "FUT Esports",
+        "team2": "Fire Flux Esports",
+        "team1_odds": "1.81",
+        "team2_odds": "1.91",
+        "status": "pending"
+    },
+    "772432": {
+        "url": "https://www.vlr.gg/772432/giantx-vs-bbl-esports-monsters-reloaded-2026-main-event-sf",
+        "team1": "GIANTX",
+        "team2": "BBL Esports",
+        "team1_odds": "2.22",
+        "team2_odds": "1.60",
+        "status": "pending"
     }
 }
