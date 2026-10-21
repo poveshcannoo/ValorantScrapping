@@ -78,5 +78,53 @@
         "team1_odds": "1.22",
         "team2_odds": "3.80",
         "status": "pending"
+    },
+    "778513": {
+        "url": "https://www.vlr.gg/778513/team-george-vs-natus-vincere-project-blender-2026-group-b",
+        "team1": "TEAM GEORGE",
+        "team2": "Natus Vincere",
+        "team1_odds": "2.60",
+        "team2_odds": "1.45",
+        "status": "pending"
+    },
+    "778514": {
+        "url": "https://www.vlr.gg/778514/eternal-fire-vs-blezz-project-blender-2026-group-b",
+        "team1": "Eternal Fire",
+        "team2": "Blezz",
+        "team1_odds": "1.35",
+        "team2_odds": "2.90",
+        "status": "pending"
+    },
+    "777948": {
+        "url": "https://www.vlr.gg/777948/keepbest-gaming-vs-wolves-esports-vct-china-2026-threshold-week-1-qf",
+        "team1": "KeepBest Gaming",
+        "team2": "Wolves Esports",
+        "team1_odds": "2.06",
+        "team2_odds": "1.67",
+        "status": "pending"
+    },
+    "777949": {
+        "url": "https://www.vlr.gg/777949/nova-esports-vs-any-questions-gaming-vct-china-2026-threshold-week-1-qf",
+        "team1": "Nova Esports",
+        "team2": "Any Questions Gaming",
+        "team1_odds": "1.22",
+        "team2_odds": "3.78",
+        "status": "pending"
+    },
+    "777946": {
+        "url": "https://www.vlr.gg/777946/titan-esports-club-vs-unsettled-resentment-vct-china-2026-threshold-week-1-qf",
+        "team1": "Titan Esports Club",
+        "team2": "Unsettled Resentment",
+        "team1_odds": "1.62",
+        "team2_odds": "2.13",
+        "status": "pending"
+    },
+    "777947": {
+        "url": "https://www.vlr.gg/777947/funplus-phoenix-vs-dragon-ranger-gaming-vct-china-2026-threshold-week-1-qf",
+        "team1": "FunPlus Phoenix",
+        "team2": "Dragon Ranger Gaming",
+        "team1_odds": "1.62",
+        "team2_odds": "2.13",
+        "status": "pending"
     }
 }
