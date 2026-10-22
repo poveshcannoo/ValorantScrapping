@@ -79,22 +79,6 @@
         "team2_odds": "3.80",
         "status": "pending"
     },
-    "777948": {
-        "url": "https://www.vlr.gg/777948/keepbest-gaming-vs-wolves-esports-vct-china-2026-threshold-week-1-qf",
-        "team1": "KeepBest Gaming",
-        "team2": "Wolves Esports",
-        "team1_odds": "2.06",
-        "team2_odds": "1.67",
-        "status": "pending"
-    },
-    "777949": {
-        "url": "https://www.vlr.gg/777949/nova-esports-vs-any-questions-gaming-vct-china-2026-threshold-week-1-qf",
-        "team1": "Nova Esports",
-        "team2": "Any Questions Gaming",
-        "team1_odds": "1.22",
-        "team2_odds": "3.78",
-        "status": "pending"
-    },
     "777946": {
         "url": "https://www.vlr.gg/777946/titan-esports-club-vs-unsettled-resentment-vct-china-2026-threshold-week-1-qf",
         "team1": "Titan Esports Club",
@@ -109,14 +93,6 @@
         "team2": "Dragon Ranger Gaming",
         "team1_odds": "1.62",
         "team2_odds": "2.13",
-        "status": "pending"
-    },
-    "778515": {
-        "url": "https://www.vlr.gg/778515/team-george-vs-blezz-project-blender-2026-group-b",
-        "team1": "TEAM GEORGE",
-        "team2": "Blezz",
-        "team1_odds": "2.27",
-        "team2_odds": "1.54",
         "status": "pending"
     },
     "778511": {
@@ -135,14 +111,6 @@
         "team2_odds": "3.88",
         "status": "pending"
     },
-    "778516": {
-        "url": "https://www.vlr.gg/778516/eternal-fire-vs-natus-vincere-junior-project-blender-2026-group-b",
-        "team1": "Eternal Fire",
-        "team2": "Natus Vincere Junior",
-        "team1_odds": "1.49",
-        "team2_odds": "2.53",
-        "status": "pending"
-    },
     "778517": {
         "url": "https://www.vlr.gg/778517/blezz-vs-natus-vincere-junior-project-blender-2026-group-b",
         "team1": "Blezz",
@@ -157,6 +125,14 @@
         "team2": "Joblife",
         "team1_odds": "1.32",
         "team2_odds": "3.08",
+        "status": "pending"
+    },
+    "777951": {
+        "url": "https://www.vlr.gg/777951/keepbest-gaming-vs-nova-esports-vct-2026-china-threshold-week-1-sf",
+        "team1": "KeepBest Gaming",
+        "team2": "Nova Esports",
+        "team1_odds": "2.96",
+        "team2_odds": "1.33",
         "status": "pending"
     }
 }
