@@ -142,5 +142,21 @@
         "team1_odds": "1.20",
         "team2_odds": "3.88",
         "status": "pending"
+    },
+    "778516": {
+        "url": "https://www.vlr.gg/778516/eternal-fire-vs-natus-vincere-junior-project-blender-2026-group-b",
+        "team1": "Eternal Fire",
+        "team2": "Natus Vincere Junior",
+        "team1_odds": "1.49",
+        "team2_odds": "2.53",
+        "status": "pending"
+    },
+    "778517": {
+        "url": "https://www.vlr.gg/778517/blezz-vs-natus-vincere-junior-project-blender-2026-group-b",
+        "team1": "Blezz",
+        "team2": "Natus Vincere Junior",
+        "team1_odds": "1.61",
+        "team2_odds": "2.17",
+        "status": "pending"
     }
 }
