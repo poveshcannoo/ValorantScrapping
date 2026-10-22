@@ -111,14 +111,6 @@
         "team2_odds": "2.13",
         "status": "pending"
     },
-    "778510": {
-        "url": "https://www.vlr.gg/778510/habos-babos-vs-joblife-project-blender-2026-group-a",
-        "team1": "Habos Babos",
-        "team2": "Joblife",
-        "team1_odds": "15.00",
-        "team2_odds": "1.00",
-        "status": "pending"
-    },
     "778515": {
         "url": "https://www.vlr.gg/778515/team-george-vs-blezz-project-blender-2026-group-b",
         "team1": "TEAM GEORGE",
@@ -157,6 +149,14 @@
         "team2": "Natus Vincere Junior",
         "team1_odds": "1.61",
         "team2_odds": "2.17",
+        "status": "pending"
+    },
+    "778512": {
+        "url": "https://www.vlr.gg/778512/eintracht-frankfurt-vs-joblife-project-blender-2026-group-a",
+        "team1": "Eintracht Frankfurt",
+        "team2": "Joblife",
+        "team1_odds": "1.32",
+        "team2_odds": "3.08",
         "status": "pending"
     }
 }
