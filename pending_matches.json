@@ -63,36 +63,12 @@
         "team2_odds": "3.80",
         "status": "pending"
     },
-    "777946": {
-        "url": "https://www.vlr.gg/777946/titan-esports-club-vs-unsettled-resentment-vct-china-2026-threshold-week-1-qf",
-        "team1": "Titan Esports Club",
-        "team2": "Unsettled Resentment",
-        "team1_odds": "1.62",
-        "team2_odds": "2.13",
-        "status": "pending"
-    },
-    "777947": {
-        "url": "https://www.vlr.gg/777947/funplus-phoenix-vs-dragon-ranger-gaming-vct-china-2026-threshold-week-1-qf",
-        "team1": "FunPlus Phoenix",
-        "team2": "Dragon Ranger Gaming",
-        "team1_odds": "1.62",
-        "team2_odds": "2.13",
-        "status": "pending"
-    },
     "777951": {
         "url": "https://www.vlr.gg/777951/keepbest-gaming-vs-nova-esports-vct-2026-china-threshold-week-1-sf",
         "team1": "KeepBest Gaming",
         "team2": "Nova Esports",
         "team1_odds": "2.96",
         "team2_odds": "1.33",
-        "status": "pending"
-    },
-    "769161": {
-        "url": "https://www.vlr.gg/769161/cgn-esports-vs-natus-vincere-junior-project-blender-2026-sf",
-        "team1": "CGN Esports",
-        "team2": "Natus Vincere Junior",
-        "team1_odds": "1.55",
-        "team2_odds": "2.25",
         "status": "pending"
     },
     "769162": {
@@ -117,6 +93,14 @@
         "team2": "MIBR GC",
         "team1_odds": "1.71",
         "team2_odds": "2.10",
+        "status": "pending"
+    },
+    "777950": {
+        "url": "https://www.vlr.gg/777950/titan-esports-club-vs-dragon-ranger-gaming-vct-2026-china-threshold-week-1-sf",
+        "team1": "Titan Esports Club",
+        "team2": "Dragon Ranger Gaming",
+        "team1_odds": "2.17",
+        "team2_odds": "1.60",
         "status": "pending"
     }
 }
