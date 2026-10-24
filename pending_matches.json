@@ -1,12 +1,4 @@
 {
-    "773432": {
-        "url": "https://www.vlr.gg/773432/kr-blaze-vs-gen-g-gc-game-changers-2026-championship-s-o-paulo-ubqf",
-        "team1": "KR\u00dc BLAZE",
-        "team2": "Gen.G GC",
-        "team1_odds": "1.40",
-        "team2_odds": "2.72",
-        "status": "pending"
-    },
     "772431": {
         "url": "https://www.vlr.gg/772431/fut-esports-vs-fire-flux-esports-monsters-reloaded-2026-main-event-sf",
         "team1": "FUT Esports",
@@ -101,6 +93,14 @@
         "team2": "Nova Esports GC",
         "team1_odds": "1.06",
         "team2_odds": "7.00",
+        "status": "pending"
+    },
+    "773438": {
+        "url": "https://www.vlr.gg/773438/gen-g-gc-vs-fennel-gc-game-changers-2026-championship-s-o-paulo-lr1",
+        "team1": "Gen.G GC",
+        "team2": "FENNEL GC",
+        "team1_odds": "1.64",
+        "team2_odds": "2.11",
         "status": "pending"
     }
 }
