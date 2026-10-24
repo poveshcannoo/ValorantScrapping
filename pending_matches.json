@@ -1,12 +1,4 @@
 {
-    "772431": {
-        "url": "https://www.vlr.gg/772431/fut-esports-vs-fire-flux-esports-monsters-reloaded-2026-main-event-sf",
-        "team1": "FUT Esports",
-        "team2": "Fire Flux Esports",
-        "team1_odds": "1.81",
-        "team2_odds": "1.91",
-        "status": "pending"
-    },
     "777919": {
         "url": "https://www.vlr.gg/777919/cgn-esports-vs-joblife-project-blender-2026-group-a",
         "team1": "CGN Esports",
@@ -77,6 +69,14 @@
         "team2": "Nova Esports",
         "team1_odds": "2.40",
         "team2_odds": "1.50",
+        "status": "pending"
+    },
+    "772433": {
+        "url": "https://www.vlr.gg/772433/fire-flux-esports-vs-bbl-esports-monsters-reloaded-2026-main-event-gf",
+        "team1": "Fire Flux Esports",
+        "team2": "BBL Esports",
+        "team1_odds": "1.40",
+        "team2_odds": "2.72",
         "status": "pending"
     }
 }
