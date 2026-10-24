@@ -39,14 +39,6 @@
         "team2_odds": "1.93",
         "status": "pending"
     },
-    "773429": {
-        "url": "https://www.vlr.gg/773429/g2-gozen-vs-mibr-gc-game-changers-2026-championship-s-o-paulo-ubqf",
-        "team1": "G2 Gozen",
-        "team2": "MIBR GC",
-        "team1_odds": "1.71",
-        "team2_odds": "2.10",
-        "status": "pending"
-    },
     "773437": {
         "url": "https://www.vlr.gg/773437/team-liquid-brazil-vs-nova-esports-gc-game-changers-2026-championship-s-o-paulo-lr1",
         "team1": "Team Liquid Brazil",
@@ -77,6 +69,14 @@
         "team2": "BBL Esports",
         "team1_odds": "1.40",
         "team2_odds": "2.72",
+        "status": "pending"
+    },
+    "773433": {
+        "url": "https://www.vlr.gg/773433/mibr-gc-vs-gentle-mates-gc-game-changers-2026-championship-s-o-paulo-ubsf",
+        "team1": "MIBR GC",
+        "team2": "Gentle Mates GC",
+        "team1_odds": "1.69",
+        "team2_odds": "2.04",
         "status": "pending"
     }
 }
