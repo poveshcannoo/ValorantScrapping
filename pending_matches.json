@@ -7,14 +7,6 @@
         "team2_odds": "1.91",
         "status": "pending"
     },
-    "772432": {
-        "url": "https://www.vlr.gg/772432/giantx-vs-bbl-esports-monsters-reloaded-2026-main-event-sf",
-        "team1": "GIANTX",
-        "team2": "BBL Esports",
-        "team1_odds": "2.22",
-        "team2_odds": "1.60",
-        "status": "pending"
-    },
     "777919": {
         "url": "https://www.vlr.gg/777919/cgn-esports-vs-joblife-project-blender-2026-group-a",
         "team1": "CGN Esports",
@@ -47,14 +39,6 @@
         "team2_odds": "3.80",
         "status": "pending"
     },
-    "777951": {
-        "url": "https://www.vlr.gg/777951/keepbest-gaming-vs-nova-esports-vct-2026-china-threshold-week-1-sf",
-        "team1": "KeepBest Gaming",
-        "team2": "Nova Esports",
-        "team1_odds": "2.96",
-        "team2_odds": "1.33",
-        "status": "pending"
-    },
     "773431": {
         "url": "https://www.vlr.gg/773431/shopify-rebellion-gold-vs-sk-nebula-game-changers-2026-championship-s-o-paulo-ubqf",
         "team1": "Shopify Rebellion Gold",
@@ -69,14 +53,6 @@
         "team2": "MIBR GC",
         "team1_odds": "1.71",
         "team2_odds": "2.10",
-        "status": "pending"
-    },
-    "777950": {
-        "url": "https://www.vlr.gg/777950/titan-esports-club-vs-dragon-ranger-gaming-vct-2026-china-threshold-week-1-sf",
-        "team1": "Titan Esports Club",
-        "team2": "Dragon Ranger Gaming",
-        "team1_odds": "2.17",
-        "team2_odds": "1.60",
         "status": "pending"
     },
     "769163": {
@@ -101,6 +77,14 @@
         "team2": "FENNEL GC",
         "team1_odds": "1.64",
         "team2_odds": "2.11",
+        "status": "pending"
+    },
+    "777952": {
+        "url": "https://www.vlr.gg/777952/dragon-ranger-gaming-vs-nova-esports-vct-2026-china-threshold-week-1-gf",
+        "team1": "Dragon Ranger Gaming",
+        "team2": "Nova Esports",
+        "team1_odds": "2.40",
+        "team2_odds": "1.50",
         "status": "pending"
     }
 }
