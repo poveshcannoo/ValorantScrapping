@@ -39,14 +39,6 @@
         "team2_odds": "7.00",
         "status": "pending"
     },
-    "773438": {
-        "url": "https://www.vlr.gg/773438/gen-g-gc-vs-fennel-gc-game-changers-2026-championship-s-o-paulo-lr1",
-        "team1": "Gen.G GC",
-        "team2": "FENNEL GC",
-        "team1_odds": "1.64",
-        "team2_odds": "2.11",
-        "status": "pending"
-    },
     "773433": {
         "url": "https://www.vlr.gg/773433/mibr-gc-vs-gentle-mates-gc-game-changers-2026-championship-s-o-paulo-ubsf",
         "team1": "MIBR GC",
@@ -61,6 +53,14 @@
         "team2": "KR\u00dc BLAZE",
         "team1_odds": "1.36",
         "team2_odds": "2.89",
+        "status": "pending"
+    },
+    "773440": {
+        "url": "https://www.vlr.gg/773440/sk-nebula-vs-fennel-gc-game-changers-2026-championship-s-o-paulo-lr2",
+        "team1": "SK Nebula",
+        "team2": "FENNEL GC",
+        "team1_odds": "1.48",
+        "team2_odds": "2.47",
         "status": "pending"
     }
 }
