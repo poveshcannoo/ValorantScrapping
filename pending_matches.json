@@ -47,14 +47,6 @@
         "team2_odds": "2.11",
         "status": "pending"
     },
-    "777952": {
-        "url": "https://www.vlr.gg/777952/dragon-ranger-gaming-vs-nova-esports-vct-2026-china-threshold-week-1-gf",
-        "team1": "Dragon Ranger Gaming",
-        "team2": "Nova Esports",
-        "team1_odds": "2.40",
-        "team2_odds": "1.50",
-        "status": "pending"
-    },
     "772433": {
         "url": "https://www.vlr.gg/772433/fire-flux-esports-vs-bbl-esports-monsters-reloaded-2026-main-event-gf",
         "team1": "Fire Flux Esports",
@@ -69,6 +61,14 @@
         "team2": "Gentle Mates GC",
         "team1_odds": "1.69",
         "team2_odds": "2.04",
+        "status": "pending"
+    },
+    "773434": {
+        "url": "https://www.vlr.gg/773434/shopify-rebellion-gold-vs-kr-blaze-game-changers-2026-championship-s-o-paulo-ubsf",
+        "team1": "Shopify Rebellion Gold",
+        "team2": "KR\u00dc BLAZE",
+        "team1_odds": "1.36",
+        "team2_odds": "2.89",
         "status": "pending"
     }
 }
