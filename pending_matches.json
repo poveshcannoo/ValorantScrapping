@@ -31,22 +31,6 @@
         "team2_odds": "3.80",
         "status": "pending"
     },
-    "777959": {
-        "url": "https://www.vlr.gg/777959/any-questions-gaming-vs-rare-atom-vct-2026-china-threshold-week-2-ro12",
-        "team1": "Any Questions Gaming",
-        "team2": "Rare Atom",
-        "team1_odds": "1.40",
-        "team2_odds": "2.68",
-        "status": "pending"
-    },
-    "777958": {
-        "url": "https://www.vlr.gg/777958/a-team-vs-octagonal-disposition-gaming-vct-2026-china-threshold-week-2-ro12",
-        "team1": "A Team",
-        "team2": "Octagonal Disposition Gaming",
-        "team1_odds": "1.60",
-        "team2_odds": "2.24",
-        "status": "pending"
-    },
     "777960": {
         "url": "https://www.vlr.gg/777960/keepbest-gaming-vs-unsettled-resentment-vct-2026-china-threshold-week-2-qf",
         "team1": "KeepBest Gaming",
@@ -85,6 +69,22 @@
         "team2": "Shopify Rebellion Gold",
         "team1_odds": "1.69",
         "team2_odds": "2.04",
+        "status": "pending"
+    },
+    "777962": {
+        "url": "https://www.vlr.gg/777962/nova-esports-vs-a-team-vct-2026-china-threshold-week-2-qf",
+        "team1": "Nova Esports",
+        "team2": "A Team",
+        "team1_odds": "1.15",
+        "team2_odds": "4.51",
+        "status": "pending"
+    },
+    "777963": {
+        "url": "https://www.vlr.gg/777963/funplus-phoenix-vs-any-questions-gaming-vct-2026-china-threshold-week-2-qf",
+        "team1": "FunPlus Phoenix",
+        "team2": "Any Questions Gaming",
+        "team1_odds": "1.44",
+        "team2_odds": "2.54",
         "status": "pending"
     }
 }
