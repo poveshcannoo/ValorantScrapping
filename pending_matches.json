@@ -47,14 +47,6 @@
         "team2_odds": "2.25",
         "status": "pending"
     },
-    "773441": {
-        "url": "https://www.vlr.gg/773441/kr-blaze-vs-team-liquid-brazil-game-changers-2026-championship-s-o-paulo-lr3",
-        "team1": "KR\u00dc BLAZE",
-        "team2": "Team Liquid Brazil",
-        "team1_odds": "3.03",
-        "team2_odds": "1.33",
-        "status": "pending"
-    },
     "773435": {
         "url": "https://www.vlr.gg/773435/gentle-mates-gc-vs-shopify-rebellion-gold-game-changers-2026-championship-s-o-paulo-ubf",
         "team1": "Gentle Mates GC",
@@ -77,6 +69,14 @@
         "team2": "Any Questions Gaming",
         "team1_odds": "1.44",
         "team2_odds": "2.54",
+        "status": "pending"
+    },
+    "773443": {
+        "url": "https://www.vlr.gg/773443/kr-blaze-vs-mibr-gc-game-changers-2026-championship-s-o-paulo-lr4",
+        "team1": "KR\u00dc BLAZE",
+        "team2": "MIBR GC",
+        "team1_odds": "2.29",
+        "team2_odds": "1.55",
         "status": "pending"
     }
 }
