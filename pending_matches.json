@@ -39,22 +39,6 @@
         "team2_odds": "2.04",
         "status": "pending"
     },
-    "777962": {
-        "url": "https://www.vlr.gg/777962/nova-esports-vs-a-team-vct-2026-china-threshold-week-2-qf",
-        "team1": "Nova Esports",
-        "team2": "A Team",
-        "team1_odds": "1.15",
-        "team2_odds": "4.51",
-        "status": "pending"
-    },
-    "777963": {
-        "url": "https://www.vlr.gg/777963/funplus-phoenix-vs-any-questions-gaming-vct-2026-china-threshold-week-2-qf",
-        "team1": "FunPlus Phoenix",
-        "team2": "Any Questions Gaming",
-        "team1_odds": "1.44",
-        "team2_odds": "2.54",
-        "status": "pending"
-    },
     "773443": {
         "url": "https://www.vlr.gg/773443/kr-blaze-vs-mibr-gc-game-changers-2026-championship-s-o-paulo-lr4",
         "team1": "KR\u00dc BLAZE",
@@ -69,6 +53,14 @@
         "team2": "World Sports Invictus Gaming",
         "team1_odds": "1.50",
         "team2_odds": "2.37",
+        "status": "pending"
+    },
+    "777965": {
+        "url": "https://www.vlr.gg/777965/nova-esports-vs-any-questions-gaming-vct-2026-china-threshold-week-2-sf",
+        "team1": "Nova Esports",
+        "team2": "Any Questions Gaming",
+        "team1_odds": "1.41",
+        "team2_odds": "2.64",
         "status": "pending"
     }
 }
