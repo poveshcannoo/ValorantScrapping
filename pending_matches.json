@@ -38,5 +38,13 @@
         "team1_odds": "1.17",
         "team2_odds": "4.41",
         "status": "pending"
+    },
+    "777966": {
+        "url": "https://www.vlr.gg/777966/unsettled-resentment-vs-nova-esports-vct-2026-china-threshold-week-2-gf",
+        "team1": "Unsettled Resentment",
+        "team2": "Nova Esports",
+        "team1_odds": "3.13",
+        "team2_odds": "1.30",
+        "status": "pending"
     }
 }
