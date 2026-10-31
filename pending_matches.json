@@ -31,14 +31,6 @@
         "team2_odds": "3.80",
         "status": "pending"
     },
-    "773443": {
-        "url": "https://www.vlr.gg/773443/kr-blaze-vs-mibr-gc-game-changers-2026-championship-s-o-paulo-lr4",
-        "team1": "KR\u00dc BLAZE",
-        "team2": "MIBR GC",
-        "team1_odds": "2.29",
-        "team2_odds": "1.55",
-        "status": "pending"
-    },
     "777964": {
         "url": "https://www.vlr.gg/777964/unsettled-resentment-vs-world-sports-invictus-gaming-vct-2026-china-threshold-week-2-sf",
         "team1": "Unsettled Resentment",
@@ -53,6 +45,14 @@
         "team2": "Any Questions Gaming",
         "team1_odds": "1.41",
         "team2_odds": "2.64",
+        "status": "pending"
+    },
+    "773444": {
+        "url": "https://www.vlr.gg/773444/shopify-rebellion-gold-vs-kr-blaze-game-changers-2026-championship-s-o-paulo-lbf",
+        "team1": "Shopify Rebellion Gold",
+        "team2": "KR\u00dc BLAZE",
+        "team1_odds": "1.17",
+        "team2_odds": "4.41",
         "status": "pending"
     }
 }
