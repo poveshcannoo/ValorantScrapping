@@ -30,5 +30,29 @@
         "team1_odds": "1.22",
         "team2_odds": "3.80",
         "status": "pending"
+    },
+    "784798": {
+        "url": "https://www.vlr.gg/784798/bonk-vs-project-100k-vct-2027-emea-kickoff-europe-qualifier-qualifier-1-ro16",
+        "team1": "BONK",
+        "team2": "Project 100K",
+        "team1_odds": "1.45",
+        "team2_odds": "2.51",
+        "status": "pending"
+    },
+    "784801": {
+        "url": "https://www.vlr.gg/784801/pixel-lumina-vs-honk-vct-2027-emea-kickoff-europe-qualifier-qualifier-1-ro16",
+        "team1": "Pixel Lumina",
+        "team2": "HONK",
+        "team1_odds": "1.38",
+        "team2_odds": "2.77",
+        "status": "pending"
+    },
+    "785084": {
+        "url": "https://www.vlr.gg/785084/masterclass-vs-fisher-esports-vct-2027-america-kickoff-north-america-open-qualifier-open-qual",
+        "team1": "Masterclass",
+        "team2": "Fisher Esports",
+        "team1_odds": "1.07",
+        "team2_odds": "6.40",
+        "status": "pending"
     }
 }
