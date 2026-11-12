@@ -30,5 +30,13 @@
         "team1_odds": "1.22",
         "team2_odds": "3.80",
         "status": "pending"
+    },
+    "784392": {
+        "url": "https://www.vlr.gg/784392/fancy-united-esports-vs-original-gaming-predator-league-2027-vietnam-gf",
+        "team1": "Fancy United Esports",
+        "team2": "Original Gaming",
+        "team1_odds": "1.22",
+        "team2_odds": "3.71",
+        "status": "pending"
     }
 }
