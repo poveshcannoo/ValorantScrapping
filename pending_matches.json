@@ -38,5 +38,13 @@
         "team1_odds": "1.22",
         "team2_odds": "3.71",
         "status": "pending"
+    },
+    "789173": {
+        "url": "https://www.vlr.gg/789173/team-george-vs-cgn-esports-vct-2027-emea-kickoff-europe-qualifier-qualifier-2-ro16",
+        "team1": "TEAM GEORGE",
+        "team2": "CGN Esports",
+        "team1_odds": "2.26",
+        "team2_odds": "1.55",
+        "status": "pending"
     }
 }
