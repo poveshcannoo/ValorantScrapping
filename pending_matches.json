@@ -30,21 +30,5 @@
         "team1_odds": "1.22",
         "team2_odds": "3.80",
         "status": "pending"
-    },
-    "789941": {
-        "url": "https://www.vlr.gg/789941/yellow-dragon-gaming-vs-untamable-beasts-vct-2027-america-kickoff-north-america-open-qualifier-open-qualifier-2-ro8",
-        "team1": "Yellow Dragon Gaming",
-        "team2": "UNTAMABLE BEASTS",
-        "team1_odds": "1.48",
-        "team2_odds": "2.41",
-        "status": "pending"
-    },
-    "789943": {
-        "url": "https://www.vlr.gg/789943/wildcard-vs-yoshi-industries-vct-2027-america-kickoff-north-america-open-qualifier-open-qualifier-2-ro8",
-        "team1": "Wildcard",
-        "team2": "yoshi industries",
-        "team1_odds": "1.11",
-        "team2_odds": "5.20",
-        "status": "pending"
     }
 }
