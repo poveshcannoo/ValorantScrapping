@@ -31,12 +31,28 @@
         "team2_odds": "3.80",
         "status": "pending"
     },
-    "788021": {
-        "url": "https://www.vlr.gg/788021/titan-esports-club-vs-victory-no-limits-gaming-china-national-tournament-season-7-pro-qualifier-d5",
+    "788024": {
+        "url": "https://www.vlr.gg/788024/lgd-gaming-vs-funplus-phoenix-china-national-tournament-season-7-pro-qualifier-d6",
+        "team1": "LGD Gaming",
+        "team2": "FunPlus Phoenix",
+        "team1_odds": "6.00",
+        "team2_odds": "1.08",
+        "status": "pending"
+    },
+    "788025": {
+        "url": "https://www.vlr.gg/788025/titan-esports-club-vs-keepbest-gaming-china-national-tournament-season-7-pro-qualifier-d6",
         "team1": "Titan Esports Club",
-        "team2": "Victory No Limits Gaming",
-        "team1_odds": "1.36",
-        "team2_odds": "2.83",
+        "team2": "KeepBest Gaming",
+        "team1_odds": "2.14",
+        "team2_odds": "1.58",
+        "status": "pending"
+    },
+    "788028": {
+        "url": "https://www.vlr.gg/788028/xunjing-esports-vs-unsettled-resentment-china-national-tournament-season-7-pro-qualifier-d6",
+        "team1": "Xunjing Esports",
+        "team2": "Unsettled Resentment",
+        "team1_odds": "2.84",
+        "team2_odds": "1.34",
         "status": "pending"
     }
 }
