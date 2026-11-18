@@ -54,5 +54,21 @@
         "team1_odds": "2.84",
         "team2_odds": "1.34",
         "status": "pending"
+    },
+    "788023": {
+        "url": "https://www.vlr.gg/788023/ambitious-legend-gaming-vs-second-e-sport-club-china-national-tournament-season-7-pro-qualifier-d6",
+        "team1": "Ambitious Legend Gaming",
+        "team2": "Second E-sport Club",
+        "team1_odds": "1.90",
+        "team2_odds": "1.78",
+        "status": "pending"
+    },
+    "788027": {
+        "url": "https://www.vlr.gg/788027/qian-xing-gaming-vs-lng-esports-china-national-tournament-season-7-pro-qualifier-d6",
+        "team1": "Qian Xing Gaming",
+        "team2": "LNG Esports",
+        "team1_odds": "2.36",
+        "team2_odds": "1.50",
+        "status": "pending"
     }
 }
