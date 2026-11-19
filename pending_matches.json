@@ -54,5 +54,29 @@
         "team1_odds": "1.74",
         "team2_odds": "1.98",
         "status": "pending"
+    },
+    "788030": {
+        "url": "https://www.vlr.gg/788030/xunjing-esports-vs-funplus-phoenix-china-national-tournament-season-7-pro-qualifier-d7",
+        "team1": "Xunjing Esports",
+        "team2": "FunPlus Phoenix",
+        "team1_odds": "5.20",
+        "team2_odds": "1.11",
+        "status": "pending"
+    },
+    "791679": {
+        "url": "https://www.vlr.gg/791679/cloud9-vs-counterfeit-vct-2027-america-kickoff-north-america-qualifier-playoffs-r1-0-0",
+        "team1": "Cloud9",
+        "team2": "counterfeit",
+        "team1_odds": "1.20",
+        "team2_odds": "4.04",
+        "status": "pending"
+    },
+    "791681": {
+        "url": "https://www.vlr.gg/791681/yfp-vs-wildcard-vct-2027-america-kickoff-north-america-qualifier-playoffs-r1-0-0",
+        "team1": "YFP",
+        "team2": "Wildcard",
+        "team1_odds": "2.11",
+        "team2_odds": "1.65",
+        "status": "pending"
     }
 }
