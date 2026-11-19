@@ -30,5 +30,29 @@
         "team1_odds": "1.22",
         "team2_odds": "3.80",
         "status": "pending"
+    },
+    "788029": {
+        "url": "https://www.vlr.gg/788029/qian-xing-gaming-vs-second-e-sport-club-china-national-tournament-season-7-pro-qualifier-d7",
+        "team1": "Qian Xing Gaming",
+        "team2": "Second E-sport Club",
+        "team1_odds": "2.99",
+        "team2_odds": "1.32",
+        "status": "pending"
+    },
+    "791684": {
+        "url": "https://www.vlr.gg/791684/shopify-rebellion-black-vs-xora-esports-vct-2027-america-kickoff-north-america-qualifier-playoffs-r1-0-0",
+        "team1": "Shopify Rebellion Black",
+        "team2": "Xora Esports",
+        "team1_odds": "1.08",
+        "team2_odds": "6.50",
+        "status": "pending"
+    },
+    "791685": {
+        "url": "https://www.vlr.gg/791685/sad-esports-vs-winthrop-university-vct-2027-america-kickoff-north-america-qualifier-playoffs-r1-0-0",
+        "team1": "SaD Esports",
+        "team2": "Winthrop University",
+        "team1_odds": "1.74",
+        "team2_odds": "1.98",
+        "status": "pending"
     }
 }
