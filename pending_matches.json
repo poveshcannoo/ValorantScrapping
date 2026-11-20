@@ -62,5 +62,29 @@
         "team1_odds": "2.11",
         "team2_odds": "1.65",
         "status": "pending"
+    },
+    "791705": {
+        "url": "https://www.vlr.gg/791705/elevate-vs-piranhas-do-caribe-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r1",
+        "team1": "ELEVATE",
+        "team2": "Piranhas do Caribe",
+        "team1_odds": "1.07",
+        "team2_odds": "6.40",
+        "status": "pending"
+    },
+    "791707": {
+        "url": "https://www.vlr.gg/791707/brasil2002-vs-time-do-b3m-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r1",
+        "team1": "BRASIL2002",
+        "team2": "TIME DO B3M",
+        "team1_odds": "1.51",
+        "team2_odds": "2.33",
+        "status": "pending"
+    },
+    "791686": {
+        "url": "https://www.vlr.gg/791686/shopify-rebellion-gold-vs-maryville-university-vct-2027-america-kickoff-north-america-qualifier-playoffs-r1-0-0",
+        "team1": "Shopify Rebellion Gold",
+        "team2": "Maryville University",
+        "team1_odds": "6.50",
+        "team2_odds": "1.07",
+        "status": "pending"
     }
 }
