@@ -86,5 +86,69 @@
         "team1_odds": "2.25",
         "team2_odds": "1.55",
         "status": "pending"
+    },
+    "792549": {
+        "url": "https://www.vlr.gg/792549/mix-my-miks-vs-gamax-esports-vct-2027-emea-kickoff-mena-qualifier-playoffs-sf",
+        "team1": "Mix My Miks",
+        "team2": "Gamax Esports",
+        "team1_odds": "2.30",
+        "team2_odds": "1.55",
+        "status": "pending"
+    },
+    "792030": {
+        "url": "https://www.vlr.gg/792030/elevate-vs-team-solid-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r2-1-0",
+        "team1": "ELEVATE",
+        "team2": "Team Solid",
+        "team1_odds": "2.91",
+        "team2_odds": "1.34",
+        "status": "pending"
+    },
+    "792032": {
+        "url": "https://www.vlr.gg/792032/fluxo-w7m-vs-manticore-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r2-1-0",
+        "team1": "Fluxo W7M",
+        "team2": "Manticore",
+        "team1_odds": "1.28",
+        "team2_odds": "3.27",
+        "status": "pending"
+    },
+    "792033": {
+        "url": "https://www.vlr.gg/792033/time-do-b3m-vs-master-bank-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r2-0-1",
+        "team1": "TIME DO B3M",
+        "team2": "Master Bank",
+        "team1_odds": "1.19",
+        "team2_odds": "4.06",
+        "status": "pending"
+    },
+    "792034": {
+        "url": "https://www.vlr.gg/792034/arranca-dreams-vs-piranhas-do-caribe-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r2-0-1",
+        "team1": "ARRANCA DREAMS",
+        "team2": "Piranhas do Caribe",
+        "team1_odds": "1.19",
+        "team2_odds": "4.06",
+        "status": "pending"
+    },
+    "792035": {
+        "url": "https://www.vlr.gg/792035/next-vs-gangue-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r2-0-1",
+        "team1": "Next",
+        "team2": "GANGUE",
+        "team1_odds": "1.56",
+        "team2_odds": "2.23",
+        "status": "pending"
+    },
+    "792036": {
+        "url": "https://www.vlr.gg/792036/arashi-vs-0-intelecto-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r2-0-1",
+        "team1": "Arashi",
+        "team2": "0 intelecto",
+        "team1_odds": "1.30",
+        "team2_odds": "3.12",
+        "status": "pending"
+    },
+    "792907": {
+        "url": "https://www.vlr.gg/792907/oafs-vs-shopify-rebellion-black-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-1-0",
+        "team1": "Oafs",
+        "team2": "Shopify Rebellion Black",
+        "team1_odds": "2.82",
+        "team2_odds": "1.39",
+        "status": "pending"
     }
 }
