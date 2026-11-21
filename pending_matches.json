@@ -31,28 +31,60 @@
         "team2_odds": "3.80",
         "status": "pending"
     },
-    "791685": {
-        "url": "https://www.vlr.gg/791685/sad-esports-vs-winthrop-university-vct-2027-america-kickoff-north-america-qualifier-playoffs-r1-0-0",
-        "team1": "SaD Esports",
-        "team2": "Winthrop University",
-        "team1_odds": "1.74",
-        "team2_odds": "1.98",
+    "792903": {
+        "url": "https://www.vlr.gg/792903/winthrop-university-vs-yfp-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-1-0",
+        "team1": "Winthrop University",
+        "team2": "YFP",
+        "team1_odds": "3.41",
+        "team2_odds": "1.27",
         "status": "pending"
     },
-    "791707": {
-        "url": "https://www.vlr.gg/791707/brasil2002-vs-time-do-b3m-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r1",
-        "team1": "BRASIL2002",
-        "team2": "TIME DO B3M",
-        "team1_odds": "1.51",
-        "team2_odds": "2.33",
+    "792904": {
+        "url": "https://www.vlr.gg/792904/flyquest-vs-envy-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-1-0",
+        "team1": "FlyQuest",
+        "team2": "ENVY",
+        "team1_odds": "2.27",
+        "team2_odds": "1.56",
         "status": "pending"
     },
-    "791686": {
-        "url": "https://www.vlr.gg/791686/shopify-rebellion-gold-vs-maryville-university-vct-2027-america-kickoff-north-america-qualifier-playoffs-r1-0-0",
-        "team1": "Shopify Rebellion Gold",
+    "792905": {
+        "url": "https://www.vlr.gg/792905/yellow-dragon-gaming-vs-wildcard-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-0-1",
+        "team1": "Yellow Dragon Gaming",
+        "team2": "Wildcard",
+        "team1_odds": "2.34",
+        "team2_odds": "1.53",
+        "status": "pending"
+    },
+    "792906": {
+        "url": "https://www.vlr.gg/792906/qor-vs-shopify-rebellion-gold-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-0-1",
+        "team1": "QoR",
+        "team2": "Shopify Rebellion Gold",
+        "team1_odds": "1.54",
+        "team2_odds": "2.38",
+        "status": "pending"
+    },
+    "792908": {
+        "url": "https://www.vlr.gg/792908/cloud9-vs-maryville-university-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-1-0",
+        "team1": "Cloud9",
         "team2": "Maryville University",
-        "team1_odds": "6.50",
-        "team2_odds": "1.07",
+        "team1_odds": "1.24",
+        "team2_odds": "3.64",
+        "status": "pending"
+    },
+    "792909": {
+        "url": "https://www.vlr.gg/792909/masterclass-vs-counterfeit-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-0-1",
+        "team1": "Masterclass",
+        "team2": "counterfeit",
+        "team1_odds": "1.24",
+        "team2_odds": "3.60",
+        "status": "pending"
+    },
+    "792910": {
+        "url": "https://www.vlr.gg/792910/xora-esports-vs-sad-esports-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-0-1",
+        "team1": "Xora Esports",
+        "team2": "SaD Esports",
+        "team1_odds": "2.25",
+        "team2_odds": "1.55",
         "status": "pending"
     }
 }
