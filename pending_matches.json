@@ -31,52 +31,36 @@
         "team2_odds": "3.80",
         "status": "pending"
     },
-    "792908": {
-        "url": "https://www.vlr.gg/792908/cloud9-vs-maryville-university-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-1-0",
-        "team1": "Cloud9",
-        "team2": "Maryville University",
-        "team1_odds": "1.24",
-        "team2_odds": "3.64",
+    "793333": {
+        "url": "https://www.vlr.gg/793333/counterfeit-vs-flyquest-vct-2027-america-kickoff-north-america-qualifier-playoffs-r3-1-1",
+        "team1": "counterfeit",
+        "team2": "FlyQuest",
+        "team1_odds": "2.13",
+        "team2_odds": "1.63",
         "status": "pending"
     },
-    "792909": {
-        "url": "https://www.vlr.gg/792909/masterclass-vs-counterfeit-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-0-1",
-        "team1": "Masterclass",
-        "team2": "counterfeit",
-        "team1_odds": "1.24",
-        "team2_odds": "3.60",
+    "793334": {
+        "url": "https://www.vlr.gg/793334/wildcard-vs-winthrop-university-vct-2027-america-kickoff-north-america-qualifier-playoffs-r3-1-1",
+        "team1": "Wildcard",
+        "team2": "Winthrop University",
+        "team1_odds": "1.35",
+        "team2_odds": "2.94",
         "status": "pending"
     },
-    "792910": {
-        "url": "https://www.vlr.gg/792910/xora-esports-vs-sad-esports-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-0-1",
-        "team1": "Xora Esports",
-        "team2": "SaD Esports",
-        "team1_odds": "2.25",
-        "team2_odds": "1.55",
+    "793335": {
+        "url": "https://www.vlr.gg/793335/maryville-university-vs-qor-vct-2027-america-kickoff-north-america-qualifier-playoffs-r3-1-1",
+        "team1": "Maryville University",
+        "team2": "QoR",
+        "team1_odds": "1.18",
+        "team2_odds": "4.27",
         "status": "pending"
     },
-    "792034": {
-        "url": "https://www.vlr.gg/792034/arranca-dreams-vs-piranhas-do-caribe-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r2-0-1",
-        "team1": "ARRANCA DREAMS",
-        "team2": "Piranhas do Caribe",
-        "team1_odds": "1.19",
-        "team2_odds": "4.06",
-        "status": "pending"
-    },
-    "792035": {
-        "url": "https://www.vlr.gg/792035/next-vs-gangue-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r2-0-1",
-        "team1": "Next",
-        "team2": "GANGUE",
-        "team1_odds": "1.56",
-        "team2_odds": "2.23",
-        "status": "pending"
-    },
-    "792907": {
-        "url": "https://www.vlr.gg/792907/oafs-vs-shopify-rebellion-black-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-1-0",
+    "793336": {
+        "url": "https://www.vlr.gg/793336/oafs-vs-sad-esports-vct-2027-america-kickoff-north-america-qualifier-playoffs-r3-1-1",
         "team1": "Oafs",
-        "team2": "Shopify Rebellion Black",
-        "team1_odds": "2.82",
-        "team2_odds": "1.39",
+        "team2": "SaD Esports",
+        "team1_odds": "1.36",
+        "team2_odds": "2.89",
         "status": "pending"
     }
 }
