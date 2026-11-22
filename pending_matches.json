@@ -126,5 +126,13 @@
         "team1_odds": "1.09",
         "team2_odds": "5.50",
         "status": "pending"
+    },
+    "793238": {
+        "url": "https://www.vlr.gg/793238/chivas-esports-vs-old-school-kr3w-vct-2027-america-kickoff-latam-north-qualifier-playoffs-swiss-stage-r2-0-1",
+        "team1": "Chivas Esports",
+        "team2": "Old School Kr3w",
+        "team1_odds": "1.36",
+        "team2_odds": "2.86",
+        "status": "pending"
     }
 }
