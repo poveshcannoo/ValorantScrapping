@@ -31,86 +31,6 @@
         "team2_odds": "3.80",
         "status": "pending"
     },
-    "793333": {
-        "url": "https://www.vlr.gg/793333/counterfeit-vs-flyquest-vct-2027-america-kickoff-north-america-qualifier-playoffs-r3-1-1",
-        "team1": "counterfeit",
-        "team2": "FlyQuest",
-        "team1_odds": "2.13",
-        "team2_odds": "1.63",
-        "status": "pending"
-    },
-    "793334": {
-        "url": "https://www.vlr.gg/793334/wildcard-vs-winthrop-university-vct-2027-america-kickoff-north-america-qualifier-playoffs-r3-1-1",
-        "team1": "Wildcard",
-        "team2": "Winthrop University",
-        "team1_odds": "1.35",
-        "team2_odds": "2.94",
-        "status": "pending"
-    },
-    "793335": {
-        "url": "https://www.vlr.gg/793335/maryville-university-vs-qor-vct-2027-america-kickoff-north-america-qualifier-playoffs-r3-1-1",
-        "team1": "Maryville University",
-        "team2": "QoR",
-        "team1_odds": "1.18",
-        "team2_odds": "4.27",
-        "status": "pending"
-    },
-    "793336": {
-        "url": "https://www.vlr.gg/793336/oafs-vs-sad-esports-vct-2027-america-kickoff-north-america-qualifier-playoffs-r3-1-1",
-        "team1": "Oafs",
-        "team2": "SaD Esports",
-        "team1_odds": "1.36",
-        "team2_odds": "2.89",
-        "status": "pending"
-    },
-    "792038": {
-        "url": "https://www.vlr.gg/792038/manticore-vs-next-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r3-1-1",
-        "team1": "Manticore",
-        "team2": "Next",
-        "team1_odds": "1.60",
-        "team2_odds": "2.14",
-        "status": "pending"
-    },
-    "792039": {
-        "url": "https://www.vlr.gg/792039/elevate-vs-arashi-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r3-1-1",
-        "team1": "ELEVATE",
-        "team2": "Arashi",
-        "team1_odds": "1.41",
-        "team2_odds": "2.68",
-        "status": "pending"
-    },
-    "793236": {
-        "url": "https://www.vlr.gg/793236/leons-vs-contra-vct-2027-america-kickoff-latam-north-qualifier-playoffs-swiss-stage-r2-1-0",
-        "team1": "LEONS",
-        "team2": "Contra",
-        "team1_odds": "1.49",
-        "team2_odds": "2.35",
-        "status": "pending"
-    },
-    "792040": {
-        "url": "https://www.vlr.gg/792040/brasil2002-vs-arranca-dreams-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r3-1-1",
-        "team1": "BRASIL2002",
-        "team2": "ARRANCA DREAMS",
-        "team1_odds": "1.25",
-        "team2_odds": "3.43",
-        "status": "pending"
-    },
-    "792041": {
-        "url": "https://www.vlr.gg/792041/mafiosos-vs-master-bank-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r3-1-1",
-        "team1": "Mafiosos",
-        "team2": "Master Bank",
-        "team1_odds": "1.60",
-        "team2_odds": "2.14",
-        "status": "pending"
-    },
-    "793239": {
-        "url": "https://www.vlr.gg/793239/streamer-arena-vs-squirtle-rangers-vct-2027-america-kickoff-latam-north-qualifier-playoffs-swiss-stage-r2-0-1",
-        "team1": "STREAMER ARENA",
-        "team2": "Squirtle Rangers",
-        "team1_odds": "1.85",
-        "team2_odds": "1.82",
-        "status": "pending"
-    },
     "793563": {
         "url": "https://www.vlr.gg/793563/university-war-vs-arg-mix-vct-2027-america-kickoff-latam-south-qualifier-playoffs-r2-1-0",
         "team1": "University War",
@@ -125,14 +45,6 @@
         "team2": "MALAJUNTA",
         "team1_odds": "1.09",
         "team2_odds": "5.50",
-        "status": "pending"
-    },
-    "793238": {
-        "url": "https://www.vlr.gg/793238/chivas-esports-vs-old-school-kr3w-vct-2027-america-kickoff-latam-north-qualifier-playoffs-swiss-stage-r2-0-1",
-        "team1": "Chivas Esports",
-        "team2": "Old School Kr3w",
-        "team1_odds": "1.36",
-        "team2_odds": "2.86",
         "status": "pending"
     }
 }
