@@ -46,5 +46,53 @@
         "team1_odds": "1.09",
         "team2_odds": "5.50",
         "status": "pending"
+    },
+    "793772": {
+        "url": "https://www.vlr.gg/793772/any-questions-gaming-vs-second-e-sport-club-china-national-tournament-season-7-pro-qualifier-ubqf",
+        "team1": "Any Questions Gaming",
+        "team2": "Second E-sport Club",
+        "team1_odds": "1.14",
+        "team2_odds": "4.59",
+        "status": "pending"
+    },
+    "793564": {
+        "url": "https://www.vlr.gg/793564/tramite-vs-el-legado-vct-2027-america-kickoff-latam-south-qualifier-playoffs-r2-1-0",
+        "team1": "TRAMITE",
+        "team2": "EL LEGADO",
+        "team1_odds": "5.80",
+        "team2_odds": "1.09",
+        "status": "pending"
+    },
+    "793633": {
+        "url": "https://www.vlr.gg/793633/eternal-fire-vs-misa-esports-vct-2027-emea-kickoff-t-rkiye-qualifier-playoffs-opening-a",
+        "team1": "Eternal Fire",
+        "team2": "Misa Esports",
+        "team1_odds": "1.11",
+        "team2_odds": "5.40",
+        "status": "pending"
+    },
+    "793768": {
+        "url": "https://www.vlr.gg/793768/chivas-esports-vs-streamer-arena-vct-2027-america-kickoff-latam-north-qualifier-playoffs-swiss-stage-r3-1-1",
+        "team1": "Chivas Esports",
+        "team2": "STREAMER ARENA",
+        "team1_odds": "1.15",
+        "team2_odds": "4.38",
+        "status": "pending"
+    },
+    "793639": {
+        "url": "https://www.vlr.gg/793639/be-ikta-esports-vs-galatasaray-esports-vct-2027-emea-kickoff-t-rkiye-qualifier-playoffs-opening-b",
+        "team1": "Be\u015fikta\u015f Esports",
+        "team2": "Galatasaray Esports",
+        "team1_odds": "2.06",
+        "team2_odds": "1.67",
+        "status": "pending"
+    },
+    "793638": {
+        "url": "https://www.vlr.gg/793638/pcific-esports-vs-team-apanthe-vct-2027-emea-kickoff-t-rkiye-qualifier-playoffs-opening-b",
+        "team1": "PCIFIC Esports",
+        "team2": "team apanthe",
+        "team1_odds": "1.37",
+        "team2_odds": "2.85",
+        "status": "pending"
     }
 }
