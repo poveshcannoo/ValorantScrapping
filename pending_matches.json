@@ -31,36 +31,12 @@
         "team2_odds": "3.80",
         "status": "pending"
     },
-    "793563": {
-        "url": "https://www.vlr.gg/793563/university-war-vs-arg-mix-vct-2027-america-kickoff-latam-south-qualifier-playoffs-r2-1-0",
-        "team1": "University War",
-        "team2": "ARG.MIX",
-        "team1_odds": "1.62",
-        "team2_odds": "2.09",
-        "status": "pending"
-    },
     "793565": {
         "url": "https://www.vlr.gg/793565/9z-globant-vs-malajunta-vct-2027-america-kickoff-latam-south-qualifier-playoffs-r2-0-1",
         "team1": "9z Globant",
         "team2": "MALAJUNTA",
         "team1_odds": "1.09",
         "team2_odds": "5.50",
-        "status": "pending"
-    },
-    "793772": {
-        "url": "https://www.vlr.gg/793772/any-questions-gaming-vs-second-e-sport-club-china-national-tournament-season-7-pro-qualifier-ubqf",
-        "team1": "Any Questions Gaming",
-        "team2": "Second E-sport Club",
-        "team1_odds": "1.14",
-        "team2_odds": "4.59",
-        "status": "pending"
-    },
-    "793564": {
-        "url": "https://www.vlr.gg/793564/tramite-vs-el-legado-vct-2027-america-kickoff-latam-south-qualifier-playoffs-r2-1-0",
-        "team1": "TRAMITE",
-        "team2": "EL LEGADO",
-        "team1_odds": "5.80",
-        "team2_odds": "1.09",
         "status": "pending"
     },
     "793633": {
@@ -93,6 +69,46 @@
         "team2": "team apanthe",
         "team1_odds": "1.37",
         "team2_odds": "2.85",
+        "status": "pending"
+    },
+    "793774": {
+        "url": "https://www.vlr.gg/793774/a-team-vs-unsettled-resentment-china-national-tournament-season-7-pro-qualifier-ubsf",
+        "team1": "A Team",
+        "team2": "Unsettled Resentment",
+        "team1_odds": "1.64",
+        "team2_odds": "2.13",
+        "status": "pending"
+    },
+    "793775": {
+        "url": "https://www.vlr.gg/793775/any-questions-gaming-vs-victory-no-limits-gaming-china-national-tournament-season-7-pro-qualifier-ubsf",
+        "team1": "Any Questions Gaming",
+        "team2": "Victory No Limits Gaming",
+        "team1_odds": "1.37",
+        "team2_odds": "2.81",
+        "status": "pending"
+    },
+    "793778": {
+        "url": "https://www.vlr.gg/793778/funplus-phoenix-vs-keepbest-gaming-china-national-tournament-season-7-pro-qualifier-lr1",
+        "team1": "FunPlus Phoenix",
+        "team2": "KeepBest Gaming",
+        "team1_odds": "1.80",
+        "team2_odds": "1.89",
+        "status": "pending"
+    },
+    "793779": {
+        "url": "https://www.vlr.gg/793779/second-e-sport-club-vs-young-gaming-china-national-tournament-season-7-pro-qualifier-lr1",
+        "team1": "Second E-sport Club",
+        "team2": "Young Gaming",
+        "team1_odds": "2.21",
+        "team2_odds": "1.59",
+        "status": "pending"
+    },
+    "793767": {
+        "url": "https://www.vlr.gg/793767/contra-vs-505-vct-2027-america-kickoff-latam-north-qualifier-playoffs-swiss-stage-r3-1-1",
+        "team1": "Contra",
+        "team2": "505",
+        "team1_odds": "1.09",
+        "team2_odds": "5.70",
         "status": "pending"
     }
 }
