@@ -31,14 +31,6 @@
         "team2_odds": "3.80",
         "status": "pending"
     },
-    "793768": {
-        "url": "https://www.vlr.gg/793768/chivas-esports-vs-streamer-arena-vct-2027-america-kickoff-latam-north-qualifier-playoffs-swiss-stage-r3-1-1",
-        "team1": "Chivas Esports",
-        "team2": "STREAMER ARENA",
-        "team1_odds": "1.15",
-        "team2_odds": "4.38",
-        "status": "pending"
-    },
     "793639": {
         "url": "https://www.vlr.gg/793639/be-ikta-esports-vs-galatasaray-esports-vct-2027-emea-kickoff-t-rkiye-qualifier-playoffs-opening-b",
         "team1": "Be\u015fikta\u015f Esports",
@@ -53,22 +45,6 @@
         "team2": "team apanthe",
         "team1_odds": "1.37",
         "team2_odds": "2.85",
-        "status": "pending"
-    },
-    "793767": {
-        "url": "https://www.vlr.gg/793767/contra-vs-505-vct-2027-america-kickoff-latam-north-qualifier-playoffs-swiss-stage-r3-1-1",
-        "team1": "Contra",
-        "team2": "505",
-        "team1_odds": "1.09",
-        "team2_odds": "5.70",
-        "status": "pending"
-    },
-    "793780": {
-        "url": "https://www.vlr.gg/793780/victory-no-limits-gaming-vs-funplus-phoenix-china-national-tournament-season-7-pro-qualifier-lr2",
-        "team1": "Victory No Limits Gaming",
-        "team2": "FunPlus Phoenix",
-        "team1_odds": "1.97",
-        "team2_odds": "1.73",
         "status": "pending"
     },
     "793781": {
@@ -125,6 +101,22 @@
         "team2": "WIP Esports",
         "team1_odds": "1.37",
         "team2_odds": "2.85",
+        "status": "pending"
+    },
+    "793991": {
+        "url": "https://www.vlr.gg/793991/9z-globant-vs-arg-mix-vct-2027-america-kickoff-latam-south-qualifier-playoffs-r3-1-1",
+        "team1": "9z Globant",
+        "team2": "ARG.MIX",
+        "team1_odds": "1.20",
+        "team2_odds": "3.78",
+        "status": "pending"
+    },
+    "793776": {
+        "url": "https://www.vlr.gg/793776/unsettled-resentment-vs-any-questions-gaming-china-national-tournament-season-7-pro-qualifier-ubf",
+        "team1": "Unsettled Resentment",
+        "team2": "Any Questions Gaming",
+        "team1_odds": "2.93",
+        "team2_odds": "1.35",
         "status": "pending"
     }
 }
