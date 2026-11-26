@@ -39,52 +39,12 @@
         "team2_odds": "3.17",
         "status": "pending"
     },
-    "794022": {
-        "url": "https://www.vlr.gg/794022/mir-vs-la-masia-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r1-0-0",
-        "team1": "MIR",
-        "team2": "La Masia",
-        "team1_odds": "2.10",
-        "team2_odds": "1.62",
-        "status": "pending"
-    },
-    "794023": {
-        "url": "https://www.vlr.gg/794023/joblife-vs-wip-esports-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r1-0-0",
-        "team1": "Joblife",
-        "team2": "WIP Esports",
-        "team1_odds": "1.37",
-        "team2_odds": "2.85",
-        "status": "pending"
-    },
-    "793991": {
-        "url": "https://www.vlr.gg/793991/9z-globant-vs-arg-mix-vct-2027-america-kickoff-latam-south-qualifier-playoffs-r3-1-1",
-        "team1": "9z Globant",
-        "team2": "ARG.MIX",
-        "team1_odds": "1.20",
-        "team2_odds": "3.78",
-        "status": "pending"
-    },
     "793776": {
         "url": "https://www.vlr.gg/793776/unsettled-resentment-vs-any-questions-gaming-china-national-tournament-season-7-pro-qualifier-ubf",
         "team1": "Unsettled Resentment",
         "team2": "Any Questions Gaming",
         "team1_odds": "2.93",
         "team2_odds": "1.35",
-        "status": "pending"
-    },
-    "794020": {
-        "url": "https://www.vlr.gg/794020/eintracht-frankfurt-vs-f9-eicar-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r1-0-0",
-        "team1": "Eintracht Frankfurt",
-        "team2": "F9 EICAR",
-        "team1_odds": "1.39",
-        "team2_odds": "2.86",
-        "status": "pending"
-    },
-    "793992": {
-        "url": "https://www.vlr.gg/793992/arg-mix-vs-tramite-vct-2027-america-kickoff-latam-south-qualifier-playoffs-r3-1-1",
-        "team1": "ARG.MIX",
-        "team2": "TRAMITE",
-        "team1_odds": "2.18",
-        "team2_odds": "1.58",
         "status": "pending"
     },
     "793782": {
@@ -133,6 +93,30 @@
         "team2": "MeatZn",
         "team1_odds": "1.31",
         "team2_odds": "2.97",
+        "status": "pending"
+    },
+    "790436": {
+        "url": "https://www.vlr.gg/790436/troopers-vs-finishers-vct-2027-pacific-kickoff-oceania-qualifier-lr1",
+        "team1": "TROOPERS",
+        "team2": "Finishers",
+        "team1_odds": "2.14",
+        "team2_odds": "1.60",
+        "status": "pending"
+    },
+    "792044": {
+        "url": "https://www.vlr.gg/792044/team-solid-vs-brasil2002-vct-2027-america-kickoff-brazil-qualifier-playoffs-ubqf",
+        "team1": "Team Solid",
+        "team2": "BRASIL2002",
+        "team1_odds": "1.47",
+        "team2_odds": "2.44",
+        "status": "pending"
+    },
+    "792045": {
+        "url": "https://www.vlr.gg/792045/2game-esports-vs-mafiosos-vct-2027-america-kickoff-brazil-qualifier-playoffs-ubqf",
+        "team1": "2Game Esports",
+        "team2": "Mafiosos",
+        "team1_odds": "1.30",
+        "team2_odds": "3.10",
         "status": "pending"
     }
 }
