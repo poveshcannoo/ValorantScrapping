@@ -39,28 +39,12 @@
         "team2_odds": "3.17",
         "status": "pending"
     },
-    "792042": {
-        "url": "https://www.vlr.gg/792042/s-tem-velho-vs-next-vct-2027-america-kickoff-brazil-qualifier-playoffs-ubqf",
-        "team1": "S\u00d3 TEM VELHO",
-        "team2": "Next",
-        "team1_odds": "1.56",
-        "team2_odds": "2.22",
-        "status": "pending"
-    },
     "794180": {
         "url": "https://www.vlr.gg/794180/leones-vs-contra-vct-2027-america-kickoff-latam-north-qualifier-playoffs-ubsf",
         "team1": "Leones",
         "team2": "Contra",
         "team1_odds": "1.40",
         "team2_odds": "2.63",
-        "status": "pending"
-    },
-    "792043": {
-        "url": "https://www.vlr.gg/792043/fluxo-w7m-vs-elevate-vct-2027-america-kickoff-brazil-qualifier-playoffs-ubqf",
-        "team1": "Fluxo W7M",
-        "team2": "ELEVATE",
-        "team1_odds": "1.16",
-        "team2_odds": "4.41",
         "status": "pending"
     },
     "790434": {
@@ -101,6 +85,22 @@
         "team2": "ARG.MIX",
         "team1_odds": "1.31",
         "team2_odds": "2.97",
+        "status": "pending"
+    },
+    "793783": {
+        "url": "https://www.vlr.gg/793783/any-questions-gaming-vs-young-gaming-china-national-tournament-season-7-pro-qualifier-lbf",
+        "team1": "Any Questions Gaming",
+        "team2": "Young Gaming",
+        "team1_odds": "1.43",
+        "team2_odds": "2.69",
+        "status": "pending"
+    },
+    "794842": {
+        "url": "https://www.vlr.gg/794842/university-war-vs-9z-globant-vct-2027-america-kickoff-latam-south-qualifier-playoffs-ubsf",
+        "team1": "University War",
+        "team2": "9z Globant",
+        "team1_odds": "4.49",
+        "team2_odds": "1.15",
         "status": "pending"
     }
 }
