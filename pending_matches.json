@@ -71,14 +71,6 @@
         "team2_odds": "3.10",
         "status": "pending"
     },
-    "793807": {
-        "url": "https://www.vlr.gg/793807/kryon-esports-vs-sign-esports-vct-2027-pacific-kickoff-south-asia-qualifier-lr3",
-        "team1": "Kryon Esports",
-        "team2": "SIGN Esports",
-        "team1_odds": "3.04",
-        "team2_odds": "1.31",
-        "status": "pending"
-    },
     "794841": {
         "url": "https://www.vlr.gg/794841/el-legado-vs-arg-mix-vct-2027-america-kickoff-latam-south-qualifier-playoffs-ubsf",
         "team1": "EL LEGADO",
@@ -87,20 +79,92 @@
         "team2_odds": "2.97",
         "status": "pending"
     },
-    "793783": {
-        "url": "https://www.vlr.gg/793783/any-questions-gaming-vs-young-gaming-china-national-tournament-season-7-pro-qualifier-lbf",
-        "team1": "Any Questions Gaming",
-        "team2": "Young Gaming",
-        "team1_odds": "1.43",
-        "team2_odds": "2.69",
-        "status": "pending"
-    },
     "794842": {
         "url": "https://www.vlr.gg/794842/university-war-vs-9z-globant-vct-2027-america-kickoff-latam-south-qualifier-playoffs-ubsf",
         "team1": "University War",
         "team2": "9z Globant",
         "team1_odds": "4.49",
         "team2_odds": "1.15",
+        "status": "pending"
+    },
+    "794998": {
+        "url": "https://www.vlr.gg/794998/enterprise-esports-vs-cgn-esports-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-1-1",
+        "team1": "Enterprise Esports",
+        "team2": "CGN Esports",
+        "team1_odds": "1.78",
+        "team2_odds": "1.97",
+        "status": "pending"
+    },
+    "794999": {
+        "url": "https://www.vlr.gg/794999/mir-vs-f9-eicar-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-1-1",
+        "team1": "MIR",
+        "team2": "F9 EICAR",
+        "team1_odds": "2.51",
+        "team2_odds": "1.45",
+        "status": "pending"
+    },
+    "795000": {
+        "url": "https://www.vlr.gg/795000/aurora-gaming-vs-mandatory-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-0-2",
+        "team1": "Aurora Gaming",
+        "team2": "Mandatory",
+        "team1_odds": "1.63",
+        "team2_odds": "2.13",
+        "status": "pending"
+    },
+    "795003": {
+        "url": "https://www.vlr.gg/795003/eintracht-frankfurt-vs-ucam-esports-club-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-2-0",
+        "team1": "Eintracht Frankfurt",
+        "team2": "UCAM Esports Club",
+        "team1_odds": "1.65",
+        "team2_odds": "2.10",
+        "status": "pending"
+    },
+    "794996": {
+        "url": "https://www.vlr.gg/794996/bar-a-esports-vs-la-masia-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-1-1",
+        "team1": "Bar\u00e7a eSports",
+        "team2": "La Masia",
+        "team1_odds": "1.33",
+        "team2_odds": "3.06",
+        "status": "pending"
+    },
+    "794997": {
+        "url": "https://www.vlr.gg/794997/giantx-vs-wip-esports-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-1-1",
+        "team1": "GIANTX",
+        "team2": "WIP Esports",
+        "team1_odds": "2.09",
+        "team2_odds": "1.67",
+        "status": "pending"
+    },
+    "795001": {
+        "url": "https://www.vlr.gg/795001/xxxmasterpromegateamxxx-vs-pixel-lumina-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-0-2",
+        "team1": "xXxMasterProMegaTeamxXx",
+        "team2": "Pixel Lumina",
+        "team1_odds": "2.39",
+        "team2_odds": "1.48",
+        "status": "pending"
+    },
+    "795002": {
+        "url": "https://www.vlr.gg/795002/joblife-vs-natus-vincere-junior-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-2-0",
+        "team1": "Joblife",
+        "team2": "Natus Vincere Junior",
+        "team1_odds": "2.02",
+        "team2_odds": "1.72",
+        "status": "pending"
+    },
+    "790437": {
+        "url": "https://www.vlr.gg/790437/meatzn-vs-finishers-vct-2027-pacific-kickoff-oceania-qualifier-lbf",
+        "team1": "MeatZn",
+        "team2": "Finishers",
+        "team1_odds": "1.45",
+        "team2_odds": "2.45",
+        "status": "pending"
+    },
+    "793777": {
+        "url": "https://www.vlr.gg/793777/unsettled-resentment-vs-any-questions-gaming-china-national-tournament-season-7-pro-qualifier-gf",
+        "team1": "Unsettled Resentment",
+        "team2": "Any Questions Gaming",
+        "team1_odds": "2.49",
+        "team2_odds": "1.46",
         "status": "pending"
     }
 }
