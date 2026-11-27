@@ -87,70 +87,6 @@
         "team2_odds": "1.15",
         "status": "pending"
     },
-    "794998": {
-        "url": "https://www.vlr.gg/794998/enterprise-esports-vs-cgn-esports-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-1-1",
-        "team1": "Enterprise Esports",
-        "team2": "CGN Esports",
-        "team1_odds": "1.78",
-        "team2_odds": "1.97",
-        "status": "pending"
-    },
-    "794999": {
-        "url": "https://www.vlr.gg/794999/mir-vs-f9-eicar-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-1-1",
-        "team1": "MIR",
-        "team2": "F9 EICAR",
-        "team1_odds": "2.51",
-        "team2_odds": "1.45",
-        "status": "pending"
-    },
-    "795000": {
-        "url": "https://www.vlr.gg/795000/aurora-gaming-vs-mandatory-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-0-2",
-        "team1": "Aurora Gaming",
-        "team2": "Mandatory",
-        "team1_odds": "1.63",
-        "team2_odds": "2.13",
-        "status": "pending"
-    },
-    "795003": {
-        "url": "https://www.vlr.gg/795003/eintracht-frankfurt-vs-ucam-esports-club-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-2-0",
-        "team1": "Eintracht Frankfurt",
-        "team2": "UCAM Esports Club",
-        "team1_odds": "1.65",
-        "team2_odds": "2.10",
-        "status": "pending"
-    },
-    "794996": {
-        "url": "https://www.vlr.gg/794996/bar-a-esports-vs-la-masia-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-1-1",
-        "team1": "Bar\u00e7a eSports",
-        "team2": "La Masia",
-        "team1_odds": "1.33",
-        "team2_odds": "3.06",
-        "status": "pending"
-    },
-    "794997": {
-        "url": "https://www.vlr.gg/794997/giantx-vs-wip-esports-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-1-1",
-        "team1": "GIANTX",
-        "team2": "WIP Esports",
-        "team1_odds": "2.09",
-        "team2_odds": "1.67",
-        "status": "pending"
-    },
-    "795001": {
-        "url": "https://www.vlr.gg/795001/xxxmasterpromegateamxxx-vs-pixel-lumina-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-0-2",
-        "team1": "xXxMasterProMegaTeamxXx",
-        "team2": "Pixel Lumina",
-        "team1_odds": "2.39",
-        "team2_odds": "1.48",
-        "status": "pending"
-    },
-    "795002": {
-        "url": "https://www.vlr.gg/795002/joblife-vs-natus-vincere-junior-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r3-2-0",
-        "team1": "Joblife",
-        "team2": "Natus Vincere Junior",
-        "team1_odds": "2.02",
-        "team2_odds": "1.72",
-        "status": "pending"
-    },
     "790437": {
         "url": "https://www.vlr.gg/790437/meatzn-vs-finishers-vct-2027-pacific-kickoff-oceania-qualifier-lbf",
         "team1": "MeatZn",
@@ -165,6 +101,14 @@
         "team2": "Any Questions Gaming",
         "team1_odds": "2.49",
         "team2_odds": "1.46",
+        "status": "pending"
+    },
+    "792046": {
+        "url": "https://www.vlr.gg/792046/s-tem-velho-vs-fluxo-w7m-vct-2027-america-kickoff-brazil-qualifier-playoffs-lr1",
+        "team1": "S\u00d3 TEM VELHO",
+        "team2": "Fluxo W7M",
+        "team1_odds": "2.83",
+        "team2_odds": "1.35",
         "status": "pending"
     }
 }
